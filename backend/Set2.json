@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 101,
+    "question": "In a food poisoning outbreak, 75 people were affected. Among them, 50 were hospitalized, and two died. Calculate the case-fatality ratio",
+    "options": ["1.2%", "2.7%", "4%", "8%"],
+    "answer": "b",
+    "explanation": "Case fatality = (deaths / total cases) * 100 = (2/75)*100 = 2.67% ≈ 2.7%.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following is NOT required for calculating prevalence of a disease?",
+    "options": [
+      "Pre-existing cases of the disease",
+      "New cases of the disease",
+      "Total number of people at risk",
+      "Total person-time of observation"
+    ],
+    "answer": "d",
+    "explanation": "Prevalence uses a population at a point in time, not person-time. Person-time is for incidence density.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 103,
+    "question": "Which of the following condition tends to reduce the prevalence of a particular disease?",
+    "options": [
+      "high cure rate",
+      "low case fatality ratio",
+      "improved case detection rate",
+      "immigration of diseased people"
+    ],
+    "answer": "a",
+    "explanation": "High cure rate removes cases faster, reducing prevalence. Low case fatality would increase prevalence.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 104,
+    "question": "In which of the following conditions, prevalence is an appropriate measure of disease frequency?",
+    "options": [
+      "Common cold episodes in elderly",
+      "Number of exacerbations in asthma patients",
+      "Proportion of foot ulcers in Diabetes Mellitus",
+      "Number of diarrhoea episodes in children"
+    ],
+    "answer": "c",
+    "explanation": "Prevalence is appropriate for chronic conditions like foot ulcers; acute recurrent events are better measured with incidence.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 105,
+    "question": "Which of the following is INCORRECT about case fatality?",
+    "options": [
+      "It reflects the severity of a disease",
+      "High case fatality indicates poor prognosis",
+      "It relates the number of deaths to the number of cases of a disease",
+      "It is a true rate"
+    ],
+    "answer": "d",
+    "explanation": "Case fatality is a proportion, not a true rate (which includes time).",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 106,
+    "question": "Study design(s) useful for describing uncommon clinical manifestations.",
+    "options": ["Case reports", "Case series", "Both 'a' and 'b'", "Ecological study"],
+    "answer": "c",
+    "explanation": "Case reports and case series are ideal for describing rare or novel clinical presentations.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 107,
+    "question": "Cross-sectional studies are used to",
+    "options": ["Estimate prevalence", "Generate hypotheses", "Describe trends", "All of the above"],
+    "answer": "d",
+    "explanation": "Cross-sectional studies can estimate prevalence, generate hypotheses, and describe trends, though they cannot establish temporality.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 108,
+    "question": "In a cross-sectional study, we can observe one or more outcomes",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Cross-sectional studies can measure multiple outcomes simultaneously.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 109,
+    "question": "Which one of the following is useful to measure the burden or magnitude of a disease or risk factor?",
+    "options": ["Case-control study", "Cross-sectional study", "Case report", "Case series"],
+    "answer": "b",
+    "explanation": "Cross-sectional studies estimate prevalence, providing the burden of disease or risk factors.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is wrong about descriptive study designs?",
+    "options": [
+      "Describe the study outcome for 1 group",
+      "Compare the study outcomes for 2 group",
+      "Calculate the incidence for surveillance data",
+      "Calculate prevalence for cross-sectional study"
+    ],
+    "answer": "b",
+    "explanation": "Descriptive studies do not compare groups; they describe a single group or population.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 111,
+    "question": "Descriptive epidemiology study designs can answer all of the following questions.",
+    "options": ["Who?", "When?", "Where?", "Why?"],
+    "answer": "d",
+    "explanation": "Descriptive studies answer who, when, where; analytical studies answer why.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 112,
+    "question": "Which one of the following study designs does not employ comparison groups to answer the primary study objectives?",
+    "options": ["Cross-sectional study", "Cohort study", "Ecological study", "Clinical trials"],
+    "answer": "a",
+    "explanation": "A descriptive cross-sectional study may not have a comparison group; analytical cross-sectional does compare.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 113,
+    "question": "Unit of observation in the cross-sectional study is",
+    "options": ["Individual", "Group", "Both 'a' and 'b'", "None of the above"],
+    "answer": "c",
+    "explanation": "It can be individual (survey) or group (ecological cross-sectional).",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 114,
+    "question": "Case reports can include presentation of",
+    "options": [
+      "Unique features/symptoms of a disease",
+      "Rare manifestation of common disease",
+      "New or unfamiliar diseases.",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "Case reports can present any of these.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 115,
+    "question": "Advantage of the ecological study is",
+    "options": [
+      "Relate rate of disease and exposure",
+      "Useful to test hypothesis",
+      "Useful to study rare diseases",
+      "All of the above"
+    ],
+    "answer": "a",
+    "explanation": "Ecological studies can relate group-level exposure and disease rates, but are limited for hypothesis testing.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 116,
+    "question": "A researcher can assess the following by conducting a descriptive study EXCEPT",
+    "options": [
+      "Population in which the disease was prevalent",
+      "Period in which the disease occurred",
+      "Risk factors of the disease",
+      "Place distribution of the disease"
+    ],
+    "answer": "c",
+    "explanation": "Risk factors require analytical studies; descriptive studies only describe distribution.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 117,
+    "question": "The following study design provides group exposure and group response/outcome without knowing the individual exposure and response for a specific health problem",
+    "options": ["Ecological study", "Cross sectional survey", "Case report", "Case series"],
+    "answer": "a",
+    "explanation": "Ecological studies use aggregate data, not individual-level information.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 118,
+    "question": "Which of the following study design will be helpful if the department of health wants to know the burden of a particular disease?",
+    "options": ["Ecological study", "Cross sectional survey", "Case series", "Case report"],
+    "answer": "b",
+    "explanation": "Cross-sectional survey directly estimates burden (prevalence) in the population.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 119,
+    "question": "A clinician comes across an unusual presentation of a particular neurological disorder. If the clinician describes this single case in detail and publishes the same in a journal, then it will be called",
+    "options": ["Analytical study", "Case report", "Cross sectional survey", "Ecological study"],
+    "answer": "b",
+    "explanation": "A detailed description of a single case is a case report.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 120,
+    "question": "The advantage of an ecological study is that",
+    "options": [
+      "It is analytical in nature",
+      "It will cover individual level information on risk factors and disease",
+      "It will be useful to test hypotheses",
+      "It will be useful to generate hypotheses"
+    ],
+    "answer": "d",
+    "explanation": "Ecological studies are good for generating hypotheses, not testing them.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 121,
+    "question": "In a tertiary care hospital, a surgeon collected information on quality of life and outcome among a small group of (about 15) post-operative patients after using a novel surgical device. But this is not sufficient to establish the efficacy of the surgical device because",
+    "options": [
+      "There is no comparison group",
+      "There is no information of risk factors",
+      "We do not have details of the outcome",
+      "We do not have individual level data"
+    ],
+    "answer": "a",
+    "explanation": "Without a comparison group, we cannot determine if the device is efficacious.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 122,
+    "question": "Population census is a",
+    "options": ["Cross sectional survey", "Ecological study", "Analytical study", "None of the above"],
+    "answer": "a",
+    "explanation": "A census is a cross-sectional survey of the entire population.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 123,
+    "question": "One of the major limitations of a cross-sectional study is that",
+    "options": [
+      "It is time consuming",
+      "It has lower validity",
+      "It does not establish disease etiology",
+      "It requires a large sample size"
+    ],
+    "answer": "c",
+    "explanation": "Cross-sectional studies cannot establish temporal sequence, so they cannot determine causality.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 124,
+    "question": "Characteristic of a cross sectional study is that",
+    "options": [
+      "We can calculate the incidence of a disease",
+      "We can test a hypotheses",
+      "It is difficult to conduct",
+      "Exposure and outcome are assessed at the same time"
+    ],
+    "answer": "d",
+    "explanation": "In cross-sectional studies, exposure and outcome are measured simultaneously.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 125,
+    "question": "If a researcher wishes to estimate the incidence of Myocardial infarction cases among a group of women using oral contraceptive pills followed up for 10 years, the researcher has to carry out",
+    "options": ["Case series", "Cohort study", "Cross sectional study", "Ecological study"],
+    "answer": "b",
+    "explanation": "Incidence over time requires a cohort study with follow-up.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 126,
+    "question": "Case series are useful",
+    "options": [
+      "To estimate burden of a disease",
+      "To determine risk factors of a disease",
+      "To determine efficacy of a new drug",
+      "To describe uncommon clinical manifestation"
+    ],
+    "answer": "d",
+    "explanation": "Case series are primarily for describing unusual clinical presentations.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 127,
+    "question": "All the following are true about cross-sectional survey, EXCEPT",
+    "options": [
+      "Individual is the unit of observation",
+      "Includes only incident cases",
+      "Estimate the burden of a disease",
+      "It can be used to generate hypothesis"
+    ],
+    "answer": "b",
+    "explanation": "Cross-sectional surveys include both prevalent and incident cases; they do not limit to incident cases.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 128,
+    "question": "A detailed presentation of a single case which is rare and unfamiliar, is called",
+    "options": ["Case report", "Case series"],
+    "answer": "a",
+    "explanation": "A single case is a case report; multiple cases form a case series.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 129,
+    "question": "Which of the following is INCORRECT about ecological study?",
+    "options": [
+      "It relates the rate of disease and frequency of exposure",
+      "It is an example of observational study",
+      "It uses individual level data",
+      "It helps in generating hypothesis"
+    ],
+    "answer": "c",
+    "explanation": "Ecological studies use group-level data, not individual-level.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 130,
+    "question": "Which of the following is NOT applicable in a case study?",
+    "options": ["Clinical features", "Laboratory parameters", "Socio-demographic background", "Incidence"],
+    "answer": "d",
+    "explanation": "Case studies describe individual cases; incidence is a population measure.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 131,
+    "question": "To determine the association between air pollution and male infertility, data on air quality index and prevalence of male infertility was collected for 183 countries for the year 2019. What best describes the study?",
+    "options": ["Case report", "Case series", "Ecological study", "Cross-sectional study"],
+    "answer": "c",
+    "explanation": "Using aggregate country-level data makes it an ecological study.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 132,
+    "question": "In a medical journal, 18 cases of Creutzfeldt Jakob disease were reported from a tertiary care hospital in Sikkim. The authors of the paper gave a description of the socio-demographic, clinical, and laboratory features of the 18 patients. What best describes this study design?",
+    "options": ["Case study", "Case series", "Case control study", "Ecological study"],
+    "answer": "b",
+    "explanation": "Multiple cases described together form a case series.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is FALSE about cross-sectional studies?",
+    "options": [
+      "Can be used to generate hypotheses",
+      "Can be used to estimate disease burden",
+      "Can be used to identify factors associated with outcome"
+    ],
+    "answer": "None are false; possibly a misprint.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 134,
+    "question": "State whether true or false. Descriptive cross-sectional study does not have a comparison group.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Descriptive cross-sectional studies describe a single group without a separate comparison group.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 135,
+    "question": "Which of the following studies can be used to identify the factors associated with an outcome?",
+    "options": ["Descriptive cross-sectional study", "Analytical cross-sectional study", "Case study", "Case series"],
+    "answer": "b",
+    "explanation": "Analytical cross-sectional studies compare groups to identify factors associated with the outcome.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 136,
+    "question": "Exposure is not assigned by the investigator in the following study design",
+    "options": ["Cohort", "Case-control", "Cross-sectional", "All of the above"],
+    "answer": "d",
+    "explanation": "In all observational studies (cohort, case-control, cross-sectional), the investigator does not assign exposure.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 137,
+    "question": "Which of the following statement(s) is true about the cohort study?",
+    "options": [
+      "It is not suitable for disease with a long latency period",
+      "Loss to follow up can introduce bias",
+      "Both a and b",
+      "None of the above"
+    ],
+    "answer": "b",
+    "explanation": "Loss to follow-up introduces bias; cohort studies can be suitable for long latency with sufficient follow-up.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following study design is better suited to demonstrate a temporal association between exposure and disease?",
+    "options": ["Cross-sectional study", "Case-control study", "Cohort study", "Ecological study"],
+    "answer": "c",
+    "explanation": "Cohort studies measure exposure before outcome, establishing temporality.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 139,
+    "question": "Relative risk of more than 1 indicates",
+    "options": [
+      "Incidence in unexposed is higher than exposed",
+      "Incidence in exposed and unexposed are same",
+      "Incidence in exposed is higher than unexposed",
+      "Relative risk is significant"
+    ],
+    "answer": "c",
+    "explanation": "RR > 1 means higher incidence in exposed compared to unexposed.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 140,
+    "question": "If the odds of exposure among cases is lower than the odds of exposure among the controls, the odds ratio will be",
+    "options": ["More than 1", "Less than 1", "It depends on other factors", "None of the above"],
+    "answer": "b",
+    "explanation": "Odds ratio = (odds exposure cases)/(odds exposure controls). If numerator < denominator, OR < 1.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 141,
+    "question": "All babies born in a particular year will form a birth cohort",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "A birth cohort is defined by year of birth.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 142,
+    "question": "Cohort study is suitable for rare diseases",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Cohort studies are inefficient for rare diseases because large sample sizes are needed; case-control is better.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 143,
+    "question": "Which of the following is NOT true regarding case-control study?\ni. Appropriate for study of rare outcome\nii. More time consuming than cohort study\niii. Multiple exposures can be examined\niv. Relatively expensive compared to cohort study",
+    "options": [
+      "Both (i) and (ii)",
+      "Both (ii) and (iii)",
+      "Both (iii) and (iv)",
+      "Both (ii) and (iv)"
+    ],
+    "answer": "d",
+    "explanation": "Case-control studies are generally faster and cheaper than cohort studies, so (ii) and (iv) are false.",
+    "topic": "Study Designs",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 144,
+    "question": "What is an appropriate measure of statistical association in a cohort study?",
+    "options": ["Prevalence ratio", "Risk ratio", "Odds ratio", "Pearson's correlation coefficient"],
+    "answer": "b",
+    "explanation": "Risk ratio (relative risk) is the preferred measure for cohort studies.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 145,
+    "question": "The entire population of a given community is screened and all those judged as being free of Colon cancer are questioned extensively about their diet. These people are then followed-up for several years to see whether their eating habits will predict their risk of developing Colon cancer - This is an example of",
+    "options": ["Case-control study", "Clinical trial", "Cross-sectional study", "Cohort study"],
+    "answer": "d",
+    "explanation": "This describes a prospective cohort study (exposure measured at baseline, followed for outcome).",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 146,
+    "question": "Exposure is assigned by the investigator in which of the following epidemiological study?",
+    "options": ["Case-control", "Cross-sectional", "Experimental", "Cohort"],
+    "answer": "c",
+    "explanation": "In experimental studies (e.g., RCTs), the investigator assigns the exposure/intervention.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 147,
+    "question": "When a group of people with defined characteristics are followed up to determine incidence is known as",
+    "options": ["Case series", "Cohort", "Case control", "Experimental"],
+    "answer": "b",
+    "explanation": "A cohort study follows a group to measure incidence.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 148,
+    "question": "Relative risk is",
+    "options": ["Rate", "Ratio", "Proportion", "None of the above"],
+    "answer": "b",
+    "explanation": "Relative risk is a ratio of two incidence proportions or rates.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 149,
+    "question": "Relative risk of one in a cohort study indicates",
+    "options": [
+      "Incidence in unexposed is higher than exposed",
+      "Incidence in exposed is higher than unexposed",
+      "Relative risk is significant",
+      "Incidence in the exposed and unexposed groups are same"
+    ],
+    "answer": "d",
+    "explanation": "RR=1 means no difference in incidence between groups.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 150,
+    "question": "Women aged above 15 years were screened for the HPV (Human papilloma virus) infection and those who had HPV infection were then followed for several years to predict the risk of developing cervical cancer. This study is known as",
+    "options": ["Prospective cohort", "Retrospective cohort", "Case control", "Cross sectional"],
+    "answer": "a",
+    "explanation": "Exposure (HPV) measured at baseline and followed forward for outcome is a prospective cohort.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 151,
+    "question": "Which of the following is appropriate regarding a cohort study?\ni. Multiple exposures can be examined\nii. Appropriate for studying rare exposures\niii. Expensive and time consuming\niv. Appropriate for studying rare diseases",
+    "options": [
+      "Both (i) and (ii)",
+      "Both (ii) and (iv)",
+      "Both (i) and (iv)",
+      "Both (ii) and (iii)"
+    ],
+    "answer": "a",
+    "explanation": "Cohort studies can examine multiple exposures (i), are good for rare exposures (ii), but are expensive (iii) and not good for rare diseases (iv). Among options, (i) and (ii) are correct.",
+    "topic": "Study Designs",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 152,
+    "question": "Which of the following statement regarding the cohort study is FALSE?",
+    "options": [
+      "Suitable to study a disease with long latency period",
+      "Loss is follow up can introduce bias",
+      "Relative risk can be calculated",
+      "Temporal association with the risk factor can be established"
+    ],
+    "answer": "a",
+    "explanation": "Cohort studies are suitable for long latency if follow-up is long enough; the statement is actually true. Possibly a trick, but all seem true.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 153,
+    "question": "Odds ratio of more than one indicates",
+    "options": [
+      "Odds of exposure among cases is lower than the odds of exposure among the controls",
+      "Odds of exposure among cases is equal to the odds of exposure among the controls",
+      "Odds of exposure among cases is higher than the odds of exposure among the controls",
+      "Exposure is negatively associated with the disease"
+    ],
+    "answer": "c",
+    "explanation": "OR > 1 indicates higher odds of exposure in cases, suggesting a positive association.",
+    "topic": "Epidemiology Measures",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 154,
+    "question": "If there is a comparison group in an epidemiological study design, it is called",
+    "options": ["Descriptive", "Analytical", "Ecological", "None of the above"],
+    "answer": "b",
+    "explanation": "Analytical studies have a comparison group; descriptive studies do not.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 155,
+    "question": "Which of the following statements about case control/cohort studies is correct?",
+    "options": [
+      "Case control study always establishes temporal association",
+      "Cohort study establishes temporal association",
+      "Cohort has lower level of evidence than case-control",
+      "Do case control for rare exposures and cohort for rare diseases"
+    ],
+    "answer": "b",
+    "explanation": "Cohort studies establish temporality because exposure is measured before outcome.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 156,
+    "question": "All the following are limitations of a case control study, EXCEPT",
+    "options": [
+      "It can introduce recall bias",
+      "Incidence of disease cannot be determined",
+      "Selection of appropriate control group may be difficult",
+      "It can introduce attrition bias"
+    ],
+    "answer": "d",
+    "explanation": "Attrition bias (loss to follow-up) is not a concern in case-control studies because there is no follow-up; recall bias and selection bias are concerns.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 157,
+    "question": "Using medical records from a tertiary care cancer hospital, a researcher collected data on occupational exposure and lung carcinoma on patients admitted between 2000 and 2010. He classified the patients who had history of working in coal mines as exposed and others as unexposed. He then compared the frequency of lung carcinoma among the exposed and the unexposed. What best describes the study design?",
+    "options": ["Case control study", "Retrospective cohort study", "Cross-sectional study", "Analytical cross-sectional study"],
+    "answer": "b",
+    "explanation": "He selected a cohort (all patients) and compared outcome (lung cancer) by exposure status using historical data; that is a retrospective cohort.",
+    "topic": "Study Designs",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 158,
+    "question": "A paediatrician recruited 120 children with Crohn's disease and their matched sibling controls. The researcher collected history of exclusive breastfeeding (EBF) from the mothers. Presence/absence of EBF was compared between the diseased and the non-diseased children. Identify the study design in this research?",
+    "options": ["Case series", "Cross-sectional study", "Case control study", "Cohort study"],
+    "answer": "c",
+    "explanation": "Diseased vs non-diseased, with retrospective exposure assessment: case-control.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 159,
+    "question": "Which of the following is INCORRECT about selection of cases in case control study?",
+    "options": [
+      "Cases are study participants who had the disease in the source population",
+      "Selection of cases should be based on the exposure status",
+      "Inclusion of prevalent cases can save time and money",
+      "Inclusion of prevalent cases may introduce survivor bias"
+    ],
+    "answer": "b",
+    "explanation": "Cases should be selected based on disease status, not exposure; exposure is determined after selection.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 160,
+    "question": "A multicentric study was conducted to determine the association between diabetes and cataract. The investigators recruited 1000 diabetics and 2500 non-diabetics. The participants were examined to exclude presence of cataract at the time of recruitment. They were followed once yearly for 10 years to document the development of cataract. The study found that the incidence of cataract among diabetics was more when compared with the non-diabetics. Identify the study design in this study?",
+    "options": ["Cross-sectional study", "Case control study", "Prospective cohort study", "Experimental study"],
+    "answer": "c",
+    "explanation": "Exposure (diabetes) determined at baseline, followed forward for outcome (cataract) – prospective cohort.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 161,
+    "question": "One of the cornerstones of the randomized controlled trials is",
+    "options": ["Recruitment", "Randomization", "Blinding", "Placebo"],
+    "answer": "b",
+    "explanation": "Randomization is the defining feature of RCTs.",
+    "topic": "Clinical Trials",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 162,
+    "question": "Randomized clinical trials can be best described as",
+    "options": ["Experimental studies", "Analytic studies", "Descriptive studies", "Observational studies"],
+    "answer": "a",
+    "explanation": "RCTs are experimental because the investigator assigns the intervention.",
+    "topic": "Clinical Trials",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following is/are true in a clinical trial?",
+    "options": [
+      "Sample size determination",
+      "Approval from regulatory authority",
+      "Agreement between the investigators and sponsors",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All these are necessary components of a clinical trial.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 164,
+    "question": "A pharmacologically inactive agent that investigators administer to participants in the control group of a trial",
+    "options": ["Comparator drug", "Placebo", "Compare", "Drug under investigation"],
+    "answer": "b",
+    "explanation": "A placebo is an inactive substance used as a control.",
+    "topic": "Clinical Trials",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 165,
+    "question": "Key methodological components of a Randomized Controlled Trials are",
+    "options": [
+      "Use of a control to which the experimental intervention is compared",
+      "Random assignment of participants to intervention",
+      "Taking informed consent from all study participants",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All are essential components of RCTs.",
+    "topic": "Clinical Trials",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 166,
+    "question": "Double-blinding in a clinical trial involves",
+    "options": ["Participants before and after study", "Participants and investigators", "Investigators and analysts", "Participants and analysis"],
+    "answer": "b",
+    "explanation": "Double-blinding typically means participants and investigators are blinded to treatment allocation.",
+    "topic": "Clinical Trials",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 167,
+    "question": "The purpose of a double-blinding in a clinical trial is to",
+    "options": [
+      "Achieve comparability of all arms of a clinical trial",
+      "Avoid observer bias and sampling variation",
+      "Avoid subject bias and sampling variation"
+    ],
+    "answer": "b",
+    "explanation": "Double-blinding reduces bias from both participants and investigators.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 168,
+    "question": "What is the purpose of randomization in a clinical trial?",
+    "options": [
+      "Get better power for data analysis",
+      "Generalizing the study findings to the population which is not studied",
+      "Achieve balance in baseline characteristics",
+      "Guarantee that the statistical tests have valid significance levels"
+    ],
+    "answer": "c",
+    "explanation": "Randomization aims to balance known and unknown confounders between groups.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 169,
+    "question": "Which phase of a clinical trial is referred to as post-marketing surveillance?",
+    "options": ["Phase 1", "Phase 2", "Phase 3", "Phase 4"],
+    "answer": "d",
+    "explanation": "Phase 4 trials occur after marketing to monitor long-term safety and efficacy.",
+    "topic": "Clinical Trials",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 170,
+    "question": "Long-term adverse effects and efficacy of a new drug can be tested in which of the following phases of a clinical trial?",
+    "options": ["Phase 1", "Phase 2", "Phase 3", "Phase 4"],
+    "answer": "d",
+    "explanation": "Phase 4 (post-marketing) is designed for long-term monitoring.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 171,
+    "question": "Which of the following is incorrect in case of a clinical trial?",
+    "options": [
+      "All clinical trials must be blinded",
+      "Randomization is a critically important step in a clinical trial",
+      "All clinical trials must be approved by Institutional Ethics Committee before initiation",
+      "It is mandatory to register clinical trials with Clinical Trials Registry of India"
+    ],
+    "answer": "a",
+    "explanation": "Not all clinical trials can be blinded (e.g., surgical trials), but blinding is preferred when possible.",
+    "topic": "Clinical Trials",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 172,
+    "question": "Which of the following procedures ensure safety of the clinical trial participants?\na. Adverse events reporting\nb. Serious adverse events reporting\nc. Periodic follow-up\nd. Review by Data Safety Monitoring Board",
+    "options": ["'a', 'b', 'c', and 'd'", "'a', 'b' and 'd'"],
+    "answer": "a",
+    "explanation": "All listed procedures contribute to participant safety.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 173,
+    "question": "All the following correctly describe a clinical trial, except",
+    "options": [
+      "It has all advantages of a cohort study",
+      "It is possible to analyse the confounders",
+      "Loss to follow up of study participants does not affect the study outcome",
+      "Appropriate implemented informed consent procedure as well as long term care and support to trial participants help to overcome several ethical concerns"
+    ],
+    "answer": "c",
+    "explanation": "Loss to follow-up can bias results in clinical trials, so it does affect outcome.",
+    "topic": "Clinical Trials",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 174,
+    "question": "Which of the following can be considered as an advantage of a double blinding in a randomised controlled trial?",
+    "options": [
+      "Equally distributes known and unknown confounders in experiment and control arm",
+      "Ensures that participants adhere to the protocol",
+      "Gives benefits of an intervention to some of the study participants",
+      "Prevent bias that arises from researchers being able to influence the data due to knowledge of allocated groups"
+    ],
+    "answer": "d",
+    "explanation": "Double blinding prevents performance and detection bias by keeping allocation hidden from both participants and researchers.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 175,
+    "question": "Based outcome ascertainment results from:",
+    "options": [
+      "Participants reporting symptoms or outcomes differently",
+      "Investigators eliciting symptoms or outcomes following a standardised technique",
+      "None of the above",
+      "Both \"a\" and \"b\""
+    ],
+    "answer": "d",
+    "explanation": "Both differential reporting by participants and non-standardized elicitation by investigators can cause biased outcome ascertainment.",
+    "topic": "Bias & Confounding",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 176,
+    "question": "In a clinical trial, what is the main purpose of randomization?",
+    "options": [
+      "To get more power for data analysis",
+      "To reduce investigator bias",
+      "To get groups with comparable baseline characteristics",
+      "To ensure optimum number of participants in each trial arm"
+    ],
+    "answer": "c",
+    "explanation": "Randomization aims to create comparable groups with respect to known and unknown confounders.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 177,
+    "question": "Which of the following can eliminate the problem of Co-intervention?",
+    "options": ["Random sampling", "Allocation concealment", "Informed consent", "Blinding"],
+    "answer": "d",
+    "explanation": "Blinding can reduce co-intervention because participants and investigators are unaware of group assignment, so they are less likely to provide additional interventions differentially.",
+    "topic": "Clinical Trials",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 178,
+    "question": "Which of the following is not true in case of a clinical trial?",
+    "options": [
+      "Clinical trials are planned experiments designed to assess the efficacy of an intervention",
+      "Clinical trials usually involve comparing the outcomes in two or more groups of individuals",
+      "Clinical trials are usually free from selection bias",
+      "Clinical trials are usually prospective in nature"
+    ],
+    "answer": "c",
+    "explanation": "Selection bias can occur if randomization is flawed; trials aim to minimize it but are not inherently free from it.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 179,
+    "question": "Which of the following trials assesses effectiveness of a new vaccine?",
+    "options": [
+      "Phase 1 trial done in healthy volunteers",
+      "Phase 2 trial done in a susceptible population",
+      "Phase 3 trial done in healthy volunteers",
+      "Phase 3 trial done in a susceptible population"
+    ],
+    "answer": "d",
+    "explanation": "Phase 3 trials evaluate effectiveness in the target population (susceptible).",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 180,
+    "question": "Which of the following is not true about a randomised control trial?",
+    "options": [
+      "Baseline characteristics of intervention and control groups must be similar",
+      "Investigator bias can be minimised by double blinding"
+    ],
+    "answer": "a",
+    "explanation": "Baseline characteristics are expected to be similar due to randomization, but not 'must be' identical; they can differ by chance.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 181,
+    "question": "Obtaining an estimate that is generalizable to relevant study population in a research study",
+    "options": ["External validity", "Internal validity", "Bias", "Confounding"],
+    "answer": "a",
+    "explanation": "External validity refers to generalizability of findings to a broader population.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 182,
+    "question": "Any process that tends to produce results that depart systematically from true values in a research study",
+    "options": ["Chance", "Bias", "Random error", "Effect Modification"],
+    "answer": "b",
+    "explanation": "Bias is systematic error that deviates from true value.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 183,
+    "question": "Systematic selection of more number of exposure participants with the higher risk of outcome in a cohort study will result in",
+    "options": ["Selection bias", "Information bias", "Confounding", "Random error"],
+    "answer": "a",
+    "explanation": "Selecting exposed individuals with higher baseline risk creates selection bias, distorting the association.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 184,
+    "question": "The effect of the exposure of interest on the outcome is distorted because of the effect of extraneous factors that are related to both the exposure and outcome. This phenomenon is called",
+    "options": ["Correlation effect", "Confounding", "Recall bias", "Measurement error"],
+    "answer": "b",
+    "explanation": "Confounding occurs when a third factor is associated with both exposure and outcome, distorting the true association.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 185,
+    "question": "Biases can occur during which stage of research study?",
+    "options": ["Study design", "Study implementation", "Data analysis", "At any of the above stages"],
+    "answer": "d",
+    "explanation": "Bias can occur at any stage: design, conduct, analysis, and interpretation.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 186,
+    "question": "All are true regarding measures to reduce information bias, EXCEPT",
+    "options": [
+      "Precise operational definitions of all variables",
+      "Detailed measurement protocols",
+      "Adequate sample size",
+      "Training, Certification and re-certification of data collection"
+    ],
+    "answer": "c",
+    "explanation": "Adequate sample size reduces random error, not information bias.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 187,
+    "question": "Variability in estimation due to unknown/uncontrollable factors",
+    "options": ["Chance", "Bias", "Confounding", "Effect modification"],
+    "answer": "a",
+    "explanation": "Chance (random error) is variability due to uncontrollable factors.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 188,
+    "question": "All are true regarding confounding in an epidemiological study, EXCEPT",
+    "options": [
+      "May simulate an association that does not exist",
+      "May increase or decrease the strength of association",
+      "May not reveal an association that does exist",
+      "Always change the direction of effect"
+    ],
+    "answer": "d",
+    "explanation": "Confounding does not always change direction; it can overestimate or underestimate but not necessarily reverse the direction.",
+    "topic": "Validity & Bias",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 189,
+    "question": "The method which can used to alleviate confounding during data analysis in an epidemiological study",
+    "options": ["Multivariate analysis", "Restriction", "Matching", "Randomization"],
+    "answer": "a",
+    "explanation": "Multivariate analysis adjusts for confounders during analysis. Restriction and matching are design methods.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 190,
+    "question": "To reduce selection bias in case-control studies, all of the following are true EXCEPT",
+    "options": [
+      "Use population based design",
+      "Apply different eligibility criteria for selecting cases and controls",
+      "Both cases and controls undergo the same diagnostic procedures",
+      "Avoid hospital based design"
+    ],
+    "answer": "b",
+    "explanation": "Applying different eligibility criteria can introduce selection bias; criteria should be similar.",
+    "topic": "Validity & Bias",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 191,
+    "question": "Obtaining an accurate estimate of disease frequency and effect of exposure on health outcomes in study population pertains to",
+    "options": ["External Validity", "Internal Validity", "Bias", "Confounding"],
+    "answer": "b",
+    "explanation": "Internal validity refers to the accuracy of estimates within the study population.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 192,
+    "question": "Blinding in an epidemiological study is a way to deal with",
+    "options": ["Chance", "Selection Bias", "Information Bias", "Sampling Error"],
+    "answer": "c",
+    "explanation": "Blinding helps prevent information bias (misclassification) by ensuring outcome assessment is unbiased.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 193,
+    "question": "Better recall of exposure only among the cases in a case control study can result in",
+    "options": ["Information bias", "Confounding", "Investigator bias", "Selection bias"],
+    "answer": "a",
+    "explanation": "Differential recall between cases and controls is recall bias, a type of information bias.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 194,
+    "question": "The ability of a tool to correctly measure what it is supposed to measure is called as",
+    "options": ["Precision", "Validity", "Reliability", "Consistency"],
+    "answer": "b",
+    "explanation": "Validity is the degree to which an instrument measures what it intends to measure.",
+    "topic": "Measurement & Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 195,
+    "question": "Bias may distort the association between exposure and outcome among the study participants",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Bias systematically distorts the estimated association.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 196,
+    "question": "A case control study was conducted to know the effect of smoking on lung cancer among hospitalized patients. The controls were recruited from patients admitted to the respiratory ward for other conditions. What type of bias will be introduced by virtue of recruiting controls from the hospital who are potentially different from the general population?",
+    "options": ["Selection bias", "Information bias", "Confounding", "Random error"],
+    "answer": "a",
+    "explanation": "Selecting controls from a hospital (especially a respiratory ward) may create selection bias because they are not representative of the source population.",
+    "topic": "Validity & Bias",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 197,
+    "question": "A researcher studied the effect of coffee drinking on Myocardial Infarction. The effect of coffee drinking on Myocardial Infarction was distorted because of the presence of a third factor, i.e. smoking. This phenomenon is called as",
+    "options": ["Correlation effect", "Confounding", "Recall bias", "Measurement error"],
+    "answer": "b",
+    "explanation": "Smoking is a confounder if associated with both coffee drinking and MI.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 198,
+    "question": "Which of the following method is used to address for known confounders at the designing stage of a study",
+    "options": ["Matching", "Regression", "Stratification", "Adjusted analysis"],
+    "answer": "a",
+    "explanation": "Matching is a design technique to control for confounders.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 199,
+    "question": "Systematic distortion of the truth by study subjects is called as",
+    "options": ["Plagiarism", "Chance", "Confounding", "Prevarication"],
+    "answer": "d",
+    "explanation": "Prevarication refers to lying or deliberate misrepresentation, which is a form of bias.",
+    "topic": "Validity & Bias",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 200,
+    "question": "Crude association in the presence of a confounder is the actual causal association",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Crude association may be distorted by confounders; adjusted association is more likely to reflect causal effect.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  }
+]

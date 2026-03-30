@@ -1,0 +1,2165 @@
+[
+  {
+    "id": 201,
+    "question": "Which of the following is the best method of ensuring that the experimental and control arms in an experimental study are similar with regard to known and unknown confounders at the planning stage?",
+    "options": ["Matching", "Randomization", "Stratification", "Multivariate analysis"],
+    "answer": "b",
+    "explanation": "Randomization balances known and unknown confounders between groups at baseline.",
+    "topic": "Clinical Trials",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 202,
+    "question": "When the study finding is generalizable to the target population, then it is",
+    "options": ["Internally valid", "Reliable", "Accurate", "Externally valid"],
+    "answer": "d",
+    "explanation": "External validity refers to generalizability to the target population.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following can introduce selection bias in a case control study?",
+    "options": ["Using hospital controls", "Using population controls", "Using matched controls", "Using sibling controls"],
+    "answer": "a",
+    "explanation": "Hospital controls may not represent the same population as cases, leading to selection bias.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 204,
+    "question": "Which of the following is TRUE about information bias in a cohort study?",
+    "options": [
+      "It is caused by higher attrition rate among the exposed group",
+      "It can be caused by selecting controls from the community",
+      "It can be avoided by uniform outcome ascertainment",
+      "It can be minimised by reducing loss to follow up"
+    ],
+    "answer": "c",
+    "explanation": "Uniform outcome ascertainment reduces information bias (misclassification).",
+    "topic": "Validity & Bias",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 205,
+    "question": "Which of the following is NOT a systematic error in an epidemiological study?",
+    "options": ["Random error", "Confounding", "Selection bias", "Information bias"],
+    "answer": "a",
+    "explanation": "Random error is not systematic; it is due to chance. Bias and confounding are systematic errors.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 206,
+    "question": "Which of the following measure is related to ensuring the internal validity of a study?",
+    "options": [
+      "Using a validated study questionnaire to assess outcomes",
+      "Including an adequate number of study participants",
+      "Complying strictly with the study protocol",
+      "All the above"
+    ],
+    "answer": "d",
+    "explanation": "All these measures help ensure internal validity by reducing bias and random error.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 207,
+    "question": "Which of the following is FALSE about confounding in epidemiological studies?",
+    "options": [
+      "Confounding may simulate an association when it does not exist",
+      "Confounding does not increase or decrease the strength of the association",
+      "Confounding may hinder an association that exists"
+    ],
+    "answer": "b",
+    "explanation": "Confounding can increase, decrease, or even reverse the association; it does affect strength.",
+    "topic": "Validity & Bias",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 208,
+    "question": "Which methods in qualitative research use flexible interview guide?",
+    "options": [
+      "In depth interviews and participant observation",
+      "Focus Group Discussions and in-depth interviews",
+      "Participant Observation and focus group discussions",
+      "Structured Interviews and surveys"
+    ],
+    "answer": "b",
+    "explanation": "Focus group discussions and in-depth interviews both use flexible interview guides.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following study designs can be used as a tool to generate ideas/hypotheses?",
+    "options": ["Qualitative study", "Case-control study", "Experimental study", "Cohort study"],
+    "answer": "a",
+    "explanation": "Qualitative research is exploratory and helps generate hypotheses.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 210,
+    "question": "The qualitative data analysis method in which investigators code text into categories and build theoretical models.",
+    "options": ["Content analysis", "Grounded theory", "Schema analysis", "Hermeneutics"],
+    "answer": "b",
+    "explanation": "Grounded theory involves coding and developing theory from data.",
+    "topic": "Qualitative Research",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 211,
+    "question": "Open-ended, one-to-one interviews to discover interviewee's own framework of meanings",
+    "options": ["In-depth Interviews", "Focus Group Discussions", "Participant Observation", "Structured Interviews"],
+    "answer": "a",
+    "explanation": "In-depth interviews are one-on-one and open-ended.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 212,
+    "question": "Audio recordings during focus Group Discussions",
+    "options": [
+      "Can be done without any prior informed written consent",
+      "Cannot be done",
+      "Should always be done",
+      "Can be done with prior informed consent"
+    ],
+    "answer": "d",
+    "explanation": "Audio recording requires informed consent from participants.",
+    "topic": "Research Ethics & Regulation",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 213,
+    "question": "All of the following are situations in which qualitative research methods can be used, EXCEPT",
+    "options": [
+      "Familiar and sufficiently researched matter",
+      "To seek the depth of understanding",
+      "Exploration of behaviors",
+      "View the social phenomenon holistically"
+    ],
+    "answer": "a",
+    "explanation": "Qualitative research is best for under-researched areas; if matter is already well researched, quantitative methods may be more suitable.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 214,
+    "question": "The main methods used in qualitative research method include all EXCEPT",
+    "options": [
+      "In-depth Interviews",
+      "Focus Group Discussions",
+      "Participant observation",
+      "Structured questionnaire based interviews"
+    ],
+    "answer": "d",
+    "explanation": "Structured questionnaires are quantitative, not qualitative.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 215,
+    "question": "The observer becomes a part of the group or event in this method of qualitative study",
+    "options": ["In-depth Interviews", "Focus Group Discussions", "Participant observation", "Structured interviews"],
+    "answer": "c",
+    "explanation": "Participant observation involves the researcher immersing in the group.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 216,
+    "question": "All the statements regarding Participant Observation is true EXCEPT",
+    "options": [
+      "Observer becomes a part of the event/group",
+      "Systematic collection of data is easy",
+      "Analytic methods for observation are not well described",
+      "Data is very detailed"
+    ],
+    "answer": "b",
+    "explanation": "Systematic collection of data is challenging in participant observation.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 217,
+    "question": "The qualitative data analysis method which uses theoretical framework as the basis for analysis",
+    "options": ["Content analysis", "Grounded theory", "Schema Analysis", "Hermeneutics"],
+    "answer": "d",
+    "explanation": "Hermeneutics uses a theoretical framework to interpret text.",
+    "topic": "Qualitative Research",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 218,
+    "question": "Which of the following are characteristics of qualitative research methods?",
+    "options": [
+      "Objective, measurable, reliable and repeatable",
+      "Subjective, measurable, credible and repeatable",
+      "Subjective, credible, inductive and interpretation of responses",
+      "Objective, credible, inductive and interpretation of responses"
+    ],
+    "answer": "c",
+    "explanation": "Qualitative research is subjective, inductive, and focuses on interpretation.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 219,
+    "question": "The research method which is best suited for collection of information regarding highly sensitive matters such as alcohol use",
+    "options": ["Focus-Group Discussions", "Participant Observation", "In-Depth Interview", "Group discussions"],
+    "answer": "c",
+    "explanation": "In-depth interviews provide privacy and can elicit sensitive information.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 220,
+    "question": "Which of the following is not the utility of qualitative research",
+    "options": [
+      "To provide insight to why people behave in a certain way",
+      "To estimate the prevalence of disease",
+      "To help understand the results of a quantitative study",
+      "For developing a questionnaire"
+    ],
+    "answer": "b",
+    "explanation": "Estimating prevalence is quantitative; qualitative does not estimate prevalence.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 221,
+    "question": "Which of the following statement is true regarding Participant Observation",
+    "options": [
+      "Observer becomes a part of the event/group",
+      "Systematic collection of data is easy",
+      "Analytic methods for observation are well described",
+      "Data is brief as compared to in-depth interviews"
+    ],
+    "answer": "a",
+    "explanation": "Observer becomes part of the group in participant observation.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 222,
+    "question": "Open-ended group interviews that promotes discussion among participants is called as",
+    "options": ["In-depth interviews", "Focus Group Discussions", "Participant Observation", "Structured interviews"],
+    "answer": "b",
+    "explanation": "Focus group discussions involve group interaction and open-ended questions.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 223,
+    "question": "A researcher decided to conduct a study to explore the child feeding practices among mothers of under five children in a community. Which of the following qualitative techniques can the researcher employ to gather wide range of information on the topic in a short span of time?",
+    "options": ["Structured interview", "In-depth interview", "Participant Observation", "Focus Group Discussion"],
+    "answer": "d",
+    "explanation": "Focus group discussions gather diverse views quickly.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 224,
+    "question": "In qualitative research, researchers interpret the social reality from the participants' point of view.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Qualitative research aims to understand emic perspectives.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 225,
+    "question": "Which of the following statements is \"incorrect\" about in-depth interviews?",
+    "options": [
+      "Findings are always generalizable",
+      "The transcripts are time consuming to analyze",
+      "Helps understand sensitive issues",
+      "Useful when participants are knowledgeable on a particular topic"
+    ],
+    "answer": "a",
+    "explanation": "In-depth interview findings are not always generalizable; they provide depth, not breadth.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following statement is \"false\" about focus group discussion",
+    "options": [
+      "Focus group discussions help understand local terminologies",
+      "Group interaction is integral for an effective discussion",
+      "Interrogation of the group is a pre-requisite",
+      "Audio and video recordings are done with prior consent"
+    ],
+    "answer": "c",
+    "explanation": "Interrogation (cross-examination) is not a feature; FGDs are open discussions.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 227,
+    "question": "Triangulation is the use of multiple methods, multiple theories and or multiple sources for a comprehensive understanding of the topic in question",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Triangulation enhances credibility by using multiple approaches.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 228,
+    "question": "Which of the following characteristics is NOT related to qualitative research data?",
+    "options": [
+      "Subjective validity",
+      "Data is in text form",
+      "Hypothesis testing is a goal",
+      "It involves interpretation of responses"
+    ],
+    "answer": "c",
+    "explanation": "Qualitative research does not aim to test hypotheses; it aims to explore and generate them.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following CANNOT be done using qualitative research?",
+    "options": [
+      "Viewing a social phenomenon holistically",
+      "Estimating the burden of a disease",
+      "Seeking in-depth understanding of a phenomenon"
+    ],
+    "answer": "b",
+    "explanation": "Burden estimation requires quantitative methods.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 230,
+    "question": "A researcher wants to estimate the prevalence of exclusive breast feeding in a remote tribal population. She also wants to understand the myths and taboos associated with breast feeding. Which of the following approaches can be employed in this scenario?",
+    "options": ["Qualitative study", "Clinical trial", "Mixed-methods study", "Cross-sectional study"],
+    "answer": "c",
+    "explanation": "Mixed-methods combines quantitative (prevalence) and qualitative (myths/taboos).",
+    "topic": "Mixed Methods",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 231,
+    "question": "Which of the following is NOT a data collection method used in qualitative research?",
+    "options": ["Interviews", "Sociogram", "Participant observation", "Focus group discussion"],
+    "answer": "b",
+    "explanation": "Sociogram is a quantitative mapping tool, not a qualitative data collection method.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 232,
+    "question": "Which of the following is NOT a feature of \"in-depth interviews\"?",
+    "options": [
+      "It involves two or more participants at a time",
+      "It follows an interview guide",
+      "It is suitable for a highly sensitive topic",
+      "It obtains rich contextualised information"
+    ],
+    "answer": "a",
+    "explanation": "In-depth interviews are one-on-one, not group interviews.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 233,
+    "question": "Which of the following is an advantage of conducting \"in-depth interviews\"?",
+    "options": [
+      "It expresses the \"Emic\" perspective",
+      "It is generalisable",
+      "It is a quick process",
+      "It is a systematic sampling approach"
+    ],
+    "answer": "a",
+    "explanation": "In-depth interviews capture insider perspectives (emic).",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 234,
+    "question": "State whether true or false. In a focus group discussion, it is easy to obtain personal behaviours on a sensitive issue",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Group settings may inhibit disclosure of sensitive personal behaviours.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 235,
+    "question": "Which of the following is TRUE regarding \"participant observation\" method?",
+    "options": [
+      "It is easy to analyse the data",
+      "The researcher himself becomes a part of the study group",
+      "Data obtained is very concise",
+      "The researcher interviews each participant in detail"
+    ],
+    "answer": "b",
+    "explanation": "The researcher immerses in the group as a participant.",
+    "topic": "Qualitative Research",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 236,
+    "question": "State whether true or false. Data obtained from Focus Group Discussion may be sensitive to biased analysis.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "FGD data can be influenced by group dynamics and analyst bias.",
+    "topic": "Qualitative Research",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 237,
+    "question": "The analytical approach where the researcher proceeds to develop a theory based on learnings obtained from the data is called",
+    "options": ["Grounded theory analysis", "Content analysis", "Schema analysis", "Factor analysis"],
+    "answer": "a",
+    "explanation": "Grounded theory builds theory inductively from data.",
+    "topic": "Qualitative Research",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 238,
+    "question": "In a study on hypertension, patients are categorized based on their systolic blood pressure as normal, pre-hypertension, stage 1 hypertension and stage 2 hypertension. What type of variable is this?",
+    "options": ["Qualitative", "Descriptive", "Nominal", "Ordinal"],
+    "answer": "d",
+    "explanation": "Categories have a natural order (ordinal).",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 239,
+    "question": "Most commonly used measure of central tendency is",
+    "options": ["Mode", "Median", "Mean", "Range"],
+    "answer": "c",
+    "explanation": "Mean is the most commonly used measure of central tendency.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 240,
+    "question": "First quartile (Q1) is equivalent to",
+    "options": ["25th", "50th", "75th", "1st"],
+    "answer": "a",
+    "explanation": "Q1 is the 25th percentile.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 241,
+    "question": "Find the median in the following sample of observations: 12, 26, 10, 29, 48",
+    "options": ["29", "48", "26", "25"],
+    "answer": "c",
+    "explanation": "Sorted: 10,12,26,29,48. Median is the middle value 26.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 242,
+    "question": "The following measure is not influenced by extreme values in a data set",
+    "options": ["Arithmetic Mean", "Inter-quartile range", "Range", "'b' and 'c'"],
+    "answer": "b",
+    "explanation": "Inter-quartile range (IQR) is resistant to outliers.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 243,
+    "question": "Which of the following statistics does not belong with the others?",
+    "options": ["Range", "Variance", "Mode", "Standard deviation"],
+    "answer": "c",
+    "explanation": "Mode is a measure of central tendency; others are measures of dispersion.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 244,
+    "question": "Number of children per household is an example of a continuous variable",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Number of children is discrete (countable).",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 245,
+    "question": "In a study, researchers are interested in measuring the cholesterol levels of participants. Cholesterol level is a variable",
+    "options": ["Ordinal", "Nominal", "Continuous", "Discrete"],
+    "answer": "c",
+    "explanation": "Cholesterol level is a continuous variable (can take any value).",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 246,
+    "question": "In the following set of data, what is the mean? 4, 1, 9, 7, 3, 8, 2, 6",
+    "options": ["5", "4.5", "9", "8"],
+    "answer": "a",
+    "explanation": "Sum = 40, n=8, mean = 5.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 247,
+    "question": "Difference between the minimum value and the maximum value of the observations",
+    "options": ["Variance", "Inter-quartile range", "Range", "Standard Deviation"],
+    "answer": "c",
+    "explanation": "Range = maximum - minimum.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 248,
+    "question": "All the following are measures of dispersion except",
+    "options": ["Mean", "Variance", "Standard deviation", "Range"],
+    "answer": "a",
+    "explanation": "Mean is a measure of central tendency.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 249,
+    "question": "Which percentile is equivalent to the median?",
+    "options": ["25", "50", "75", "100"],
+    "answer": "b",
+    "explanation": "Median = 50th percentile.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 250,
+    "question": "All the following are true for standard deviation (SD) EXCEPT",
+    "options": [
+      "It is the square root of the average of the squared deviations of the observations from the arithmetic mean",
+      "It is the most important measure of dispersion"
+    ],
+    "answer": "No option provided, but the incorrect statement would be if it says SD is not important; SD is indeed important.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 251,
+    "question": "A researcher measures fasting blood level of glucose of 100 participants. The mean blood sugar level was measured as 110 mg/dL. The standard deviation was 11 mg/dL. Calculate the coefficient of variance.",
+    "options": ["20%", "14%", "10%", "25%"],
+    "answer": "c",
+    "explanation": "CV = (SD/mean)*100 = (11/110)*100 = 10%.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 252,
+    "question": "A researcher measures the height of 100 school going children for his study. What type of variable is height?",
+    "options": ["Nominal", "Ordinal", "Continuous", "Discrete"],
+    "answer": "c",
+    "explanation": "Height is continuous.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 253,
+    "question": "A chest physician observed the distribution of forced expiratory volume (FEV) in 100 Chronic Obstructive Pulmonary disease (COPD) patients and calculated a median value of 2.0 liters. The value of first and third quartile of the distribution was 1.5 liters and 3.0 liters respectively. Based on this data how many patients in the sample are expected to have a FEV between 1.5 and 3.0 liters?",
+    "options": ["100", "50", "25", "75"],
+    "answer": "b",
+    "explanation": "IQR contains middle 50% of observations, so 50 patients.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 254,
+    "question": "The average of the absolute deviations of the observations from the arithmetic mean is known as",
+    "options": ["Variance", "Inter-quartile range", "Mean deviation", "Standard deviation"],
+    "answer": "c",
+    "explanation": "Mean deviation (average absolute deviation).",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 255,
+    "question": "In a study, a researcher was interested in measuring the hemoglobin levels of 10 participants. The values are 10.0, 8.5, 12.0, 14.0, 11.5, 13.5, 9.0, 12.0, 11.5, 7.5. What is the mode of this distribution?",
+    "options": ["7.5", "12.0", "10.9", "14.0"],
+    "answer": "b",
+    "explanation": "12.0 appears twice; others appear once.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 256,
+    "question": "All the following are examples of a nominal variable EXCEPT",
+    "options": ["Gender", "Age", "Place of residence", "Colour of eyes"],
+    "answer": "b",
+    "explanation": "Age is usually quantitative, not nominal.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 257,
+    "question": "Which of the following is true about inter-quartile range?",
+    "options": [
+      "It describes the middle value of the distribution",
+      "It divides the distribution into two halves",
+      "It covers the middle 50% of observations",
+      "It is affected by the extreme values in the distribution"
+    ],
+    "answer": "c",
+    "explanation": "IQR covers the middle 50% of data.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 258,
+    "question": "When the data set contains too many extreme values, the most representative average value is",
+    "options": ["Mean", "Mode", "Median", "Variance"],
+    "answer": "c",
+    "explanation": "Median is robust to outliers.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 259,
+    "question": "The age of ten pregnant women who visited an ANC clinic is given. What is the mean age of this group? (26, 31, 25, 26, 30, 27, 25, 32, 25 and 33 years).",
+    "options": ["45", "28", "25", "12"],
+    "answer": "b",
+    "explanation": "Sum = 280, n=10, mean = 28.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following is a relative measure of dispersion when comparing variables which are measured in different units?",
+    "options": ["Coefficient of variation", "Standard deviation", "Variance", "Range"],
+    "answer": "a",
+    "explanation": "Coefficient of variation is unitless and allows comparison.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 261,
+    "question": "The following scores were obtained by ten medical students in a quiz: (5, 3, 6, 8, 7, 8, 3, 11, 6, 1) What is the median score of this group?",
+    "options": ["3", "6", "8", "11"],
+    "answer": "b",
+    "explanation": "Sorted: 1,3,3,5,6,6,7,8,8,11. Median = average of 5th and 6th = (6+6)/2 = 6.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 262,
+    "question": "Height of the students in a particular class measured in centimeter is an example of a continuous variable",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Height is continuous.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 263,
+    "question": "What is the appropriate measure of dispersion to report when median is reported as the measure of central tendency for a given set of data?",
+    "options": ["Standard deviation", "Inter-quartile range", "Variance", "Coefficient of variance"],
+    "answer": "b",
+    "explanation": "Median is paired with IQR for dispersion.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 264,
+    "question": "In the NCD clinic of a primary health Centre, fasting blood sugar (in g/dl) of 11 patients was measured. The following values were obtained: (85, 91, 104, 108, 105, 120, 129, 202, 160, 400, 410). What is the most appropriate measure of central tendency for this data?",
+    "options": ["Mean = 120", "Median = 120", "Mean = 174.1", "Median = 174.1"],
+    "answer": "b",
+    "explanation": "Due to extreme values (400,410), median is more appropriate. Sorted: 85,91,104,105,108,120,129,160,202,400,410. Median = 120.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 265,
+    "question": "Which of the following about \"Range\" is TRUE?",
+    "options": [
+      "It indicates the way in which values cluster about a particular point",
+      "It gives the number of observations bearing the same value",
+      "It is the difference between the minimum and maximum value",
+      "It shows the degree to which the mean value differs from its expected value"
+    ],
+    "answer": "c",
+    "explanation": "Range = max - min.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 266,
+    "question": "In a survey, socio-economic status (SES) was collected in the following manner - Lower, Lower Middle, Upper Middle and Upper. What type of variable is SES?",
+    "options": ["Ordinal", "Nominal", "Continuous", "Discrete"],
+    "answer": "a",
+    "explanation": "SES categories have a natural order.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 267,
+    "question": "Body weights of 11 children who attended a pediatric OPD was measured. For this group, the first quartile, median, mean and third quartile were 8.5, 12, 12.9 and 16, respectively. Calculate the Interquartile Range.",
+    "options": ["3.5", "7.5", "0.1", "24.5"],
+    "answer": "b",
+    "explanation": "IQR = Q3 - Q1 = 16 - 8.5 = 7.5.",
+    "topic": "Statistics & Data Analysis",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 268,
+    "question": "The process by which some members of a population are selected as representative of the entire population is known as",
+    "options": ["Census", "Sampling", "Survey", "Randomization"],
+    "answer": "b",
+    "explanation": "Sampling is selection of a subset.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 269,
+    "question": "Sampling based upon equal chance of selection is called",
+    "options": ["Stratified random sampling", "Simple random sampling", "Systematic sampling", "Subjective sampling"],
+    "answer": "b",
+    "explanation": "Simple random sampling gives equal probability.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 270,
+    "question": "A researcher wishing to draw a sample from sequentially numbered houses uses a random starting point and then selects every 8th house, s/he has thus drawn a sample",
+    "options": ["Sequential", "Systematic", "Simple random", "Stratified"],
+    "answer": "b",
+    "explanation": "Systematic sampling uses a fixed interval.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 271,
+    "question": "The following statement is correct regarding sampling error",
+    "options": [
+      "Sampling error is difficult to measure in simple random sampling",
+      "Sampling error is easy to measure in stratified sampling",
+      "The magnitude of error can be measured in non-probability samples",
+      "The magnitude of error can be measured in probability samples"
+    ],
+    "answer": "d",
+    "explanation": "Sampling error is quantifiable only in probability samples.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 272,
+    "question": "The only sampling method allows to draw valid conclusions about the population is",
+    "options": ["Non probability sampling", "Convenience sampling", "Probability sampling", "Subjective sampling"],
+    "answer": "c",
+    "explanation": "Probability sampling allows statistical inference.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 273,
+    "question": "All the following are true regarding cluster sampling EXCEPT",
+    "options": [
+      "It needs a complete list of units",
+      "The sampling unit is group of subjects",
+      "Sampling error is difficult to measure",
+      "Resources required are less"
+    ],
+    "answer": "a",
+    "explanation": "Cluster sampling does not require a complete list of all individual units, only clusters.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 274,
+    "question": "Methods used in probability samples are",
+    "options": ["Stratified sampling", "Multi-stage sampling", "Cluster sampling", "All of the above"],
+    "answer": "d",
+    "explanation": "All are probability sampling methods.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 275,
+    "question": "All the following statements are true regarding simple random sampling EXCEPT",
+    "options": [
+      "Sampling error is easily measurable",
+      "It needs a complete list of all units",
+      "It ensures equal chance of selection for each unit",
+      "It always achieves best representativeness"
+    ],
+    "answer": "d",
+    "explanation": "Simple random sampling may not always be the most representative; stratified can be better.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 276,
+    "question": "People who volunteer or who can be easily recruited are used in a sampling method called",
+    "options": ["Cluster sampling", "Multi-stage sampling", "Convenience sampling", "Systematic sampling"],
+    "answer": "c",
+    "explanation": "Convenience sampling uses readily available subjects.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 277,
+    "question": "Based on the number of cigarettes per day, a researcher divides the population into three risk groups for lung cancer (like, moderate, high risk). If the researcher then draws a random sample from each of these risk groups independently, s/he has created a sample",
+    "options": ["Systematic", "Simple random", "Stratified", "Group data"],
+    "answer": "c",
+    "explanation": "Stratified sampling involves dividing into strata and sampling from each.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 278,
+    "question": "All the following are non-probability sampling methods EXCEPT",
+    "options": ["Convenience sampling", "Snowball sampling", "Quota sampling", "Systematic sampling"],
+    "answer": "d",
+    "explanation": "Systematic sampling is a probability method.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 279,
+    "question": "In a study to measure the prevalence of fluorosis in a district, towns are sampled first. This is followed by a sample of wards within the selected towns, and finally a sample of households within the selected wards. What is the type of the sampling used here?",
+    "options": ["Multistage sampling", "Systematic random sampling", "Simple random sampling", "Convenience sampling"],
+    "answer": "a",
+    "explanation": "Multistage sampling involves multiple stages of sampling.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 280,
+    "question": "The magnitude of sampling error can be measured in probability sampling.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Probability samples allow calculation of standard error.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 281,
+    "question": "All the following statements are true regarding stratified sampling EXCEPT",
+    "options": [
+      "It classifies population into homogeneous subgroups",
+      "The probability of a participant being selected is unknown",
+      "The sampling error is difficult to measure",
+      "It allows inclusion of representative participants from all subgroups"
+    ],
+    "answer": "b",
+    "explanation": "Probability is known in stratified sampling (it is a probability method).",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 282,
+    "question": "Which of the following is true about non-probability sampling?",
+    "options": [
+      "It removes the possibility of bias in selection of participants",
+      "Sampling error can be measured",
+      "Quota sampling is a type of non-probability sampling",
+      "Inferences drawn from non-probability sampling can be generalized"
+    ],
+    "answer": "c",
+    "explanation": "Quota sampling is a non-probability method.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 283,
+    "question": "Random sampling in probability samples reduces the probability of selection bias",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Random selection reduces selection bias.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 284,
+    "question": "Which of the following statement is true regarding systematic random sampling?",
+    "options": [
+      "Sampling error cannot be measured",
+      "The chance of selection for each sampling unit is unknown",
+      "The selected sampling units are likely to be more representative than simple random sampling",
+      "It is a type of non-probability sampling"
+    ],
+    "answer": "c",
+    "explanation": "Systematic sampling can be more representative if the list is random.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 285,
+    "question": "A researcher planned a cross-sectional study to assess the level of satisfaction of patients attending a clinic. For this, the researcher selected the first 100 patients who visited the clinic starting from a fixed date. What is the type of the sampling mentioned in this case?",
+    "options": ["Snowball sampling", "Purposive sampling", "Simple random sampling", "Stratified random sampling"],
+    "answer": "b",
+    "explanation": "Selecting the first 100 is convenience (a form of purposive).",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 286,
+    "question": "The list of all individuals in the study population from whom study participants in a research are to be selected is known as",
+    "options": ["Sampling frame", "Study population", "Sampling unit", "Study sample"],
+    "answer": "a",
+    "explanation": "Sampling frame is the list from which sample is drawn.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 287,
+    "question": "Which of the following is an advantage of multistage sampling?",
+    "options": [
+      "Sampling error is easy to measure",
+      "It does not require a complete list of the total population",
+      "It requires only one sampling list",
+      "It always achieves the best representative sample"
+    ],
+    "answer": "b",
+    "explanation": "Multistage sampling is practical when a complete list is unavailable.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 288,
+    "question": "Which of the following sampling method ensures that valid conclusions can be drawn about different subgroups in a population?",
+    "options": ["Simple random sample", "Systematic random sample", "Stratified random sample", "Cluster random sample"],
+    "answer": "c",
+    "explanation": "Stratified sampling ensures representation of subgroups.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 289,
+    "question": "Which of the following about simple random sampling method is FALSE?",
+    "options": [
+      "It needs a complete list of the units in the target population",
+      "Purposive sampling is a type of simple random sample",
+      "It draws units from the target population randomly",
+      "It gives equal chance of selection to every unit in the target population"
+    ],
+    "answer": "b",
+    "explanation": "Purposive sampling is non-probability, not simple random.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 290,
+    "question": "Sampling activers:",
+    "options": [
+      "Efficient utilization of resources",
+      "Elimination of random error",
+      "Low non-response rate",
+      "Complete enumeration of population"
+    ],
+    "answer": "a",
+    "explanation": "Sampling allows efficient use of resources; it does not eliminate random error.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 291,
+    "question": "In simple random sampling, the probability of selection of each individual is",
+    "options": ["Unequal", "Equal", "Unknown", "One"],
+    "answer": "b",
+    "explanation": "Simple random sampling gives equal probability.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 292,
+    "question": "Which one of the following biases is prevented by an appropriate sampling technique?",
+    "options": ["Volunteer bias", "Interviewee's bias", "Social desirability bias", "Recall bias"],
+    "answer": "a",
+    "explanation": "Random sampling reduces volunteer bias; other biases are not prevented by sampling.",
+    "topic": "Sampling",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 293,
+    "question": "In a neighborhood with 5000 houses, a researcher wants to obtain a systematic random sample of 50 houses. What will be the sampling interval in this case?",
+    "options": ["1000", "100", "0.1", "0.01"],
+    "answer": "b",
+    "explanation": "Sampling interval = N/n = 5000/50 = 100.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 294,
+    "question": "Which one of the following statement about cluster sampling is FALSE?",
+    "options": [
+      "Units within a cluster are heterogeneous",
+      "Sampling frame of the entire study area is not required",
+      "Variability between clusters is assumed to be high",
+      "Sampling error is difficult to measure"
+    ],
+    "answer": "c",
+    "explanation": "Cluster sampling aims to have heterogeneous clusters (like the population), not high variability between clusters.",
+    "topic": "Sampling",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 295,
+    "question": "Which one of the following statements about multistage sampling is TRUE?",
+    "options": [
+      "It saves resources as compared to simple random sampling",
+      "It requires a complete listing of the entire population",
+      "It's sampling error can be easily measured",
+      "It is not suitable for sampling from a large population"
+    ],
+    "answer": "a",
+    "explanation": "Multistage sampling is cost-effective for large populations.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 296,
+    "question": "Which one of the following about stratified random sampling is FALSE?",
+    "options": [
+      "Units within a strata are homogeneous",
+      "Sample is taken from every strata",
+      "Precision improves with low numbers sampled in each stratum",
+      "Stratum specific estimates are weighted to obtain the overall estimate"
+    ],
+    "answer": "c",
+    "explanation": "Precision improves with adequate sample per stratum; low numbers reduce precision.",
+    "topic": "Sampling",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 297,
+    "question": "State whether True or False: Commonly used statistical inferences have the assumption of a probability sample.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Statistical inference relies on probability sampling.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 298,
+    "question": "Statistical power is defined as the probability of",
+    "options": [
+      "Accepting a null hypothesis when it is false",
+      "Rejecting a null hypothesis when it is true",
+      "Rejecting a null hypothesis when it is false",
+      "Failing to reject a null hypothesis when it is false"
+    ],
+    "answer": "c",
+    "explanation": "Power = 1 - β = probability of correctly rejecting false null.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 299,
+    "question": "Steps in the estimation of sample size included all of the following EXCEPT",
+    "options": [
+      "Identify major study variable",
+      "Decide on the desired precision of the estimate",
+      "Adjust for population size",
+      "Adjust for selection bias"
+    ],
+    "answer": "d",
+    "explanation": "Selection bias is not directly adjusted in sample size calculation.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 300,
+    "question": "A type-1 error occurs when",
+    "options": [
+      "The null hypothesis is rejected when it is false",
+      "The null hypothesis is not rejected when it is false",
+      "The null hypothesis is not rejected when it is true",
+      "The null hypothesis is rejected when it is true"
+    ],
+    "answer": "d",
+    "explanation": "Type I error = rejecting true null hypothesis.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 301,
+    "question": "Exact calculation of design effect for a study parameter can take place after study completion",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Design effect is calculated post-hoc to account for clustering.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 302,
+    "question": "Population variance can be estimated from",
+    "options": ["A pilot study", "Reports of previous studies", "Guessing", "'a' and 'b'"],
+    "answer": "d",
+    "explanation": "Pilot studies or previous literature provide variance estimates.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 303,
+    "question": "The recommended minimum level of power for an analytical study",
+    "options": ["5%", "95%", "80%", "0.05%"],
+    "answer": "c",
+    "explanation": "80% power is commonly accepted minimum.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 304,
+    "question": "In general, sample size formula takes into account the crude association between exposure and outcome as well as the confounders",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Sample size formulas do not directly incorporate confounders; they focus on main exposure-outcome association.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 305,
+    "question": "Design effect of \"more than 1\" needs to be considered in studies involving",
+    "options": ["Cluster sampling", "Simple random sampling", "Stratified random sampling", "Non-probability sampling"],
+    "answer": "a",
+    "explanation": "Cluster sampling leads to design effect >1 due to intra-cluster correlation.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 306,
+    "question": "Which of the following is necessary in sample size determination?",
+    "options": [
+      "Desired confidence level",
+      "Desired precision",
+      "Magnitude of the population variance",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All are essential inputs.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 307,
+    "question": "Which one of the following statements is false?",
+    "options": [
+      "Design effect is a relative change in the variance due to use of clusters",
+      "As the magnitude of the expected effect increases, the required sample size increases",
+      "The population variance is unknown in general and has to be estimated",
+      "Larger the sample size, smaller the sampling error"
+    ],
+    "answer": "b",
+    "explanation": "Larger expected effect requires smaller sample size, not larger.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 308,
+    "question": "A type-1 error occurs when",
+    "options": [
+      "The null hypothesis is rejected when it is false",
+      "The null hypothesis is not rejected when it is false",
+      "The null hypothesis is not rejected when it is true",
+      "The null hypothesis is rejected when it is true"
+    ],
+    "answer": "d",
+    "explanation": "Type I error = rejecting true null hypothesis.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 309,
+    "question": "Which of the following is true about β error?",
+    "options": [
+      "It is the probability of correctly rejecting the null hypothesis when it is false"
+    ],
+    "answer": "False; β is probability of failing to reject false null.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 310,
+    "question": "All the following are essential statistical considerations for sample size calculation EXCEPT:",
+    "options": ["Desired precision", "Anticipated proportion of factor of interest", "Sampling method", "Allocated budget"],
+    "answer": "d",
+    "explanation": "Budget is not a statistical consideration; it's a practical constraint.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 311,
+    "question": "For each confounder/variable added in the study empirically 10% increase in the sample size should be made.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Rule of thumb: increase sample size by 10% per additional variable for adjustment.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 312,
+    "question": "The design effect should be calculated after completion of the study and it, need not be counted at the design stage.",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Design effect should be accounted for during sample size calculation at design stage.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 313,
+    "question": "When estimating sample size for a cross-sectional study, we need to account for",
+    "options": [
+      "Expected proportion of characteristic of interest",
+      "Estimated design effect, in case of cluster sampling",
+      "Population size",
+      "All the above"
+    ],
+    "answer": "d",
+    "explanation": "All these factors are considered.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 314,
+    "question": "The power of a study",
+    "options": [
+      "Does not influence the sample size",
+      "Represented as 'a'",
+      "Can be defined as the probability of correctly rejecting null hypothesis when it is false",
+      "Represented as the probability of making a Type I error"
+    ],
+    "answer": "c",
+    "explanation": "Power = 1 - β = probability of correctly rejecting false null.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 315,
+    "question": "The following are needed to calculate sample size for analytical studies using simple random sampling method EXCEPT",
+    "options": [
+      "Desired value for the probability of a",
+      "Magnitude of the expected effect based on previous studies",
+      "Desired value for the probability of b",
+      "Estimated design effect"
+    ],
+    "answer": "d",
+    "explanation": "Design effect is not needed for simple random sampling (it equals 1).",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 316,
+    "question": "A researcher wants to estimate the prevalence of surgical site infection following cesarean section at a tertiary care hospital. What would be the minimum number of sample size to estimate the magnitude of surgical site infection following cesarean section if it is estimated that the proportion of surgical site infection will be 10% in the hospital considering 5% absolute precision and 95% confidence level (Z a/2 = 1.96).",
+    "options": ["100", "138", "148", "158"],
+    "answer": "b",
+    "explanation": "n = (1.96^2 * 0.1 * 0.9) / (0.05^2) = 138.3 ≈ 138.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 317,
+    "question": "Precision is described as a measure of how close an estimate is to the true value of a population parameter.",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Precision refers to closeness of repeated estimates (reliability); accuracy is closeness to true value.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 318,
+    "question": "In a cross-sectional study, a group of researchers wanted to estimate the prevalence of cephalosporin-resistant E.coli among adult males with urinary tract infections. From previous literature, the prevalence was found to be 6.5%. If the researchers want to estimate the prevalence with a 20% relative precision and 95% significance level, what is the minimum sample size required?",
+    "options": ["1042", "1381", "6", "600"],
+    "answer": "b",
+    "explanation": "n = (Z^2 * p * (1-p)) / (relative precision * p)^2. With p=0.065, d=0.013 (20% of 0.065), n ≈ 1381.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 319,
+    "question": "Which of the following factors is NOT essential for calculating sample size for a single mean estimation?",
+    "options": [
+      "Need for statistical significance",
+      "Assumptions about population standard deviation",
+      "Precision",
+      "Significance level"
+    ],
+    "answer": "a",
+    "explanation": "Need for statistical significance is not directly a parameter; significance level, precision, and SD are used.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 320,
+    "question": "Adjustments to a calculated sample size need NOT be done for which of the following reasons?",
+    "options": ["Non-response rate", "Finite population size", "Cluster design", "Hospital-based study"],
+    "answer": "d",
+    "explanation": "Hospital-based study does not inherently require sample size adjustment beyond other factors.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 321,
+    "question": "State whether true or false. A pilot study can be conducted to get an estimate of the expected prevalence of the disease being studied to calculate the minimum required sample size.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Pilot studies provide parameter estimates for sample size calculation.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 322,
+    "question": "A cross-sectional study aims to estimate the prevalence of hybrid liver disease among patients undergoing ultrasonography in a tertiary care hospital. Which of the following is NOT required for calculating the minimum required sample size for this objective?",
+    "options": ["Significance level", "Assumed prevalence", "Precision", "Population variance"],
+    "answer": "d",
+    "explanation": "Population variance is not used for prevalence estimation; p*(1-p) is used.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 323,
+    "question": "What is Type I error?",
+    "options": [
+      "The probability of accepting the null hypothesis when it is false",
+      "The probability of rejecting the null hypothesis when it is true",
+      "The probability of rejecting the null hypothesis when it is false",
+      "The probability of accepting the null hypothesis when it is true"
+    ],
+    "answer": "b",
+    "explanation": "Type I error is rejecting true null hypothesis.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 324,
+    "question": "Ability of a study to detect correctly the presence of an association is known as",
+    "options": ["Precision", "Power", "Confidence", "Significance"],
+    "answer": "b",
+    "explanation": "Power is the ability to detect an effect if it exists.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 325,
+    "question": "Standard deviation of a sampling distribution is called systematic error",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Standard deviation of sampling distribution is standard error, not systematic error.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 326,
+    "question": "Design effect is considered for which of the following sampling strategy?",
+    "options": ["Cluster sampling", "Simple random sampling", "Stratified random sampling", "Non-probability sampling"],
+    "answer": "a",
+    "explanation": "Design effect is used to adjust for clustering.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 327,
+    "question": "In a hospital based cross-sectional study, it is planned to estimate the mean D-dimer level among COVID-19 patients. From previous literature, the standard deviation was found to be 200 ng/mL, if the researchers went to estimate the mean with a 50 ng/mL precision and 95% significance level, what is the minimum sample size required?",
+    "options": ["62", "16", "31", "248"],
+    "answer": "a",
+    "explanation": "n = (1.96^2 * 200^2) / 50^2 = (3.8416*40000)/2500 = 153664/2500 ≈ 61.5 → 62.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 328,
+    "question": "Selection of study participants depends on",
+    "options": ["Representativeness", "Acceptable cost", "Adequate size", "All of the above"],
+    "answer": "d",
+    "explanation": "All three factors influence participant selection.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 329,
+    "question": "Target population is determined by",
+    "options": ["Demographic characteristics", "Temporal characteristics", "Clinical characteristics", "\"a\" and \"c\""],
+    "answer": "d",
+    "explanation": "Target population is defined by demographic and clinical criteria, and often temporal as well.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 330,
+    "question": "Study sample is a subset of accessible population",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "The study sample is drawn from the accessible population.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 331,
+    "question": "Representativeness of a study sample refers to",
+    "options": [
+      "The extent to which the characteristics of the sample accurately reflect the characteristics of the population",
+      "The size of the sample which is large enough",
+      "Volunteering nature of the subjects from the population",
+      "The extent to which the characteristics of exposed population accurately reflect the characteristics of unexposed sample"
+    ],
+    "answer": "a",
+    "explanation": "Representativeness means sample mirrors the population.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 332,
+    "question": "Non-response in a study can be minimized by",
+    "options": [
+      "Repeat contact of the study participants",
+      "Providing compensation for participants time",
+      "Less invasive and less sensitive questionnaires",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All strategies help reduce non-response.",
+    "topic": "Data Collection",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 333,
+    "question": "External validity means",
+    "options": [
+      "The degree to which the inferences drawn from a study can be generalized to a broader population beyond the study population",
+      "The degree to which the observed findings lead to correct inferences about phenomena taking place in the study sample",
+      "The degree to which a test actually measures what it is designed to measure",
+      "The degree to which the findings are reliable"
+    ],
+    "answer": "a",
+    "explanation": "External validity = generalizability.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 334,
+    "question": "Participants may be excluded from the study because of",
+    "options": [
+      "Interference with the success of study follow-up",
+      "Ethical concerns",
+      "Interference with the quality of data collection or non-acceptance to participate in the study",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All are valid exclusion reasons.",
+    "topic": "Study Protocol",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 335,
+    "question": "While choosing the accessible population and the sampling approach for selection of study population, an important factor that we need to consider is",
+    "options": ["Simplicity", "Technology", "Feasibility", "Reliability"],
+    "answer": "c",
+    "explanation": "Feasibility (practicality) is key.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 336,
+    "question": "If your research question is related to diagnosis, treatment or prognosis of a severe medical condition, then it is an easy and cost-effective way to recruit the study population from the community",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Recruiting from community for severe conditions is difficult and costly; hospital-based is easier.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 337,
+    "question": "Reasons for interference with the success of follow-up in a study may include",
+    "options": [
+      "Migration of some study participants from the study area",
+      "Marriage of some of the female study participants because of which they might move out of the study area",
+      "Refusal for follow-up",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All can cause loss to follow-up.",
+    "topic": "Study Implementation",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 338,
+    "question": "The population defined by clinical and demographic characteristics is called",
+    "options": ["Target population", "Accessible population"],
+    "answer": "a",
+    "explanation": "Target population is defined by eligibility criteria including clinical and demographic.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 339,
+    "question": "The population defined by geographical and temporal characteristics is called as",
+    "options": ["Target population", "Accessible population", "Subset", "Sample size"],
+    "answer": "b",
+    "explanation": "Accessible population is the subset of target population that is available (geographically/temporally).",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 340,
+    "question": "Random errors can be effectively handled by",
+    "options": ["Randomisation", "Representativeness", "Adequate sample size", "All of the above"],
+    "answer": "c",
+    "explanation": "Adequate sample size reduces random error.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 341,
+    "question": "A researcher found an inference about a particular disease of interest. If he/she wants to generalize the results, it is important to have",
+    "options": ["Internal validity", "External validity", "Feasibility", "Accuracy"],
+    "answer": "b",
+    "explanation": "Generalization requires external validity.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 342,
+    "question": "Reasons for interference with the success of follow-up in a study may include",
+    "options": [
+      "Out-migration of some study participants from the study area",
+      "Marriage of some of the female study participants because of which they might move out of the study area",
+      "Refusal for follow-up",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "Same as earlier; all cause loss to follow-up.",
+    "topic": "Study Implementation",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 343,
+    "question": "Less invasive and less sensitive questionnaires will",
+    "options": ["Increase the power", "Decrease the power", "Improve the significance", "Reduce the non response"],
+    "answer": "d",
+    "explanation": "Less intrusive questionnaires may increase response rates.",
+    "topic": "Data Collection",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 344,
+    "question": "The external validity in a research study means",
+    "options": [
+      "The degree to which the observed findings lead to correct inferences about phenomena taking place in the study sample",
+      "The degree to which a test actually measures what it is designed to measure",
+      "The degree to which the inferences drawn from a study can be generalized to a broader population beyond the study population",
+      "The degree to which the findings are reliable"
+    ],
+    "answer": "c",
+    "explanation": "External validity = generalizability.",
+    "topic": "Validity & Bias",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 345,
+    "question": "The degree to which the observed findings lead to correct inferences about phenomena of interest in the study sample",
+    "options": ["Reliability", "Feasibility", "Internal validity", "External validity"],
+    "answer": "c",
+    "explanation": "Internal validity concerns inferences within the study sample.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 346,
+    "question": "Which factor is important to consider while choosing the accessible population and the sampling approach?",
+    "options": ["Feasibility", "Sensitivity", "Specificity", "Reliability"],
+    "answer": "a",
+    "explanation": "Feasibility is a key practical consideration.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 347,
+    "question": "The participants may be excluded from the study because of",
+    "options": [
+      "Interference with the success of study follow-up",
+      "Ethical concerns",
+      "Interference with the quality of data collection",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All are valid exclusion reasons.",
+    "topic": "Study Protocol",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 348,
+    "question": "Which of the following helps to minimize the random error in a research study?",
+    "options": ["Limited study duration", "Adequate sample size", "Adequate budget", "More than six investigators"],
+    "answer": "b",
+    "explanation": "Larger sample size reduces random error.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 349,
+    "question": "Representativeness of the study participants similar to the population of interest can help in which of the following aspects of a research study?",
+    "options": ["Generalizability of the findings"],
+    "answer": "Generalizability.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 350,
+    "question": "An investigator intends to estimate the prevalence of Urinary Tract infection (UTI) among circumcised children (<5 years old) in Jaipur city. However, the researcher selects the study participants from one government hospital. Which of the following is the target population in this study?",
+    "options": [
+      "All children aged <5 years in the city",
+      "All circumcised children aged <5 years in the city",
+      "All circumcised children aged <5 years attending the government hospital",
+      "All children having UTI in the city"
+    ],
+    "answer": "b",
+    "explanation": "Target population is all circumcised children <5 in Jaipur city.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 351,
+    "question": "Which of the following is the accessible population in the above study?",
+    "options": [
+      "All children aged <5 years in the city",
+      "All circumcised children aged <5 years in the city",
+      "All circumcised children aged <5 years attending the government hospital",
+      "All children having UTI in the city"
+    ],
+    "answer": "c",
+    "explanation": "Accessible population is the subset available at the hospital.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 352,
+    "question": "State whether true or false. High non-response rate in a study may affect the internal validity.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Non-response can introduce bias, affecting internal validity.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 353,
+    "question": "Which of the following is TRUE about study validity?",
+    "options": [
+      "An internally valid study result is always generalizable to the target population",
+      "An internally valid study result may or may not be generalizable to the target population",
+      "An externally valid study result is not generalizable to the target population",
+      "A study without internal validity can be generalized to the target population"
+    ],
+    "answer": "b",
+    "explanation": "Internal validity does not guarantee external validity.",
+    "topic": "Validity & Bias",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 354,
+    "question": "Which of the following statements on study populations is TRUE?",
+    "options": [
+      "Study sample is a subset of the accessible population",
+      "Target population is a subset of the accessible population",
+      "Accessible population is a subset of the study sample",
+      "Target population is a subset of the study sample"
+    ],
+    "answer": "a",
+    "explanation": "The sample is drawn from the accessible population.",
+    "topic": "Sampling",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 355,
+    "question": "State whether true or false. Biases can affect both internal and external validity.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Bias can compromise both internal and external validity.",
+    "topic": "Validity & Bias",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 356,
+    "question": "In a community based vaccine trial, which aims to compare the 1 year incidence of intussusception in children receiving/not receiving rotavirus vaccine, which of the following can be a likely exclusion criterion?",
+    "options": [
+      "Children who may leave the study area within a month",
+      "Children aged 0 months to 24 months",
+      "Children without pre-existing intestinal anomalies",
+      "Children who have not received rotavirus vaccine previously"
+    ],
+    "answer": "a",
+    "explanation": "Children likely to leave the area would interfere with follow-up.",
+    "topic": "Study Protocol",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 357,
+    "question": "In a cohort study planned to estimate the incidence of birth defects among Zika virus infected pregnant women in Chennai city, which of the following CANNOT be an inclusion criterion?",
+    "options": [
+      "First trimester pregnant women with lab-confirmed Zika virus infection",
+      "Pregnant women who are permanent residents of Chennai city",
+      "Pregnant women aged above 18 years",
+      "Pregnant women taking drugs known to cause birth defects"
+    ],
+    "answer": "d",
+    "explanation": "Women taking teratogenic drugs would confound the association and may be excluded.",
+    "topic": "Study Protocol",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 358,
+    "question": "Which of the following statements regarding study objectives is correct?",
+    "options": [
+      "Objectives should be defined at the planning stage of study",
+      "Objectives can be defined at any time of the study",
+      "Objectives can be changed even at the end of the study",
+      "Objectives should be defined before identifying the research question"
+    ],
+    "answer": "a",
+    "explanation": "Objectives must be set at the planning stage, after the research question.",
+    "topic": "Research Question & Objectives",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 359,
+    "question": "Which of the following is (are) required to determine the key indicators for planned research study?",
+    "options": [
+      "Frame study objectives",
+      "Identify parameters needed for the key indicators",
+      "Choose the right study design",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All are needed to define indicators.",
+    "topic": "Research Process",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 360,
+    "question": "Which of the following can improve efficiency of a research study?",
+    "options": ["Time management", "Planning and scheduling activities", "Budgeting", "All of the above"],
+    "answer": "d",
+    "explanation": "All improve efficiency.",
+    "topic": "Research Management",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 361,
+    "question": "Which of the following represents the correct sequence in a life cycle of a study?",
+    "options": [
+      "Identifying data needs, formulating study objectives, planning analysis, spelling out research question",
+      "Formulating study objectives, planning analysis, spelling out research question, identifying data needs",
+      "Identifying data needs, spelling out research question, formulating study objectives, planning analysis",
+      "Formulating study objectives, spelling out research question, identifying data needs, planning analysis"
+    ],
+    "answer": "c",
+    "explanation": "The typical sequence: research question → objectives → design → data needs → analysis plan.",
+    "topic": "Research Process",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 362,
+    "question": "It should be ensured that products/deliverables of health research projects are delivered within the",
+    "options": ["Defined timeframe", "Defined budget", "Expected quality standards", "All of the above"],
+    "answer": "d",
+    "explanation": "All are important deliverables.",
+    "topic": "Research Management",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 363,
+    "question": "Which of the following statements best describes the study objectives?",
+    "options": [
+      "They should be minimum, achievable and clear",
+      "They can be primary and/or secondary",
+      "Adding objectives during study implementation is a good practice",
+      "'a' and 'b'"
+    ],
+    "answer": "d",
+    "explanation": "Objectives should be minimal, achievable, clear, and can be primary/secondary. Adding objectives later is not good practice.",
+    "topic": "Research Question & Objectives",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 364,
+    "question": "Principles to be followed while collecting the information elements are",
+    "options": [
+      "Use the variables that will best reflect the information element",
+      "Adopt standardized case definitions and laboratory criteria/normal ranges",
+      "Choose the most accurate ways of collecting information on various elements",
+      "All of the above"
+    ],
+    "answer": "d",
+    "explanation": "All are good principles.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 365,
+    "question": "Study conducted following an ad hoc approach may lead to the following consequences",
+    "options": [
+      "Generation of useful data in programs or for policy making",
+      "Efficient utilization of resources",
+      "Serious difficulties in analysis and interpretation",
+      "All of the above"
+    ],
+    "answer": "c",
+    "explanation": "Ad hoc studies often lead to analysis and interpretation difficulties.",
+    "topic": "Research Management",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 366,
+    "question": "Common reasons for research study failures",
+    "options": ["Poorly defined research question", "Vague timelines", "Lack of supervision", "All of the above"],
+    "answer": "d",
+    "explanation": "All are common reasons.",
+    "topic": "Research Management",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 367,
+    "question": "Sample size for a cross-sectional study is decided based on the following",
+    "options": ["Assumed/reported prevalence", "Confidence interval", "Acceptable precision"],
+    "answer": "All three.",
+    "topic": "Sample Size & Power",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 368,
+    "question": "Which of the following is a criterion for a good research question?",
+    "options": [
+      "Long and self explanatory question using complex terms",
+      "A question based on ill-defined hypothesis",
+      "A question based on strong hunch on part of the investigator",
+      "A question based on established theory and some research evidence"
+    ],
+    "answer": "d",
+    "explanation": "Good research questions build on existing evidence and theory.",
+    "topic": "Research Question & Objectives",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 369,
+    "question": "Which of the following can be considered true in case of ad hoc approach to conduct a research study?",
+    "options": [
+      "Its advantages are the low development effort and possibility of getting results in a short time span",
+      "Its advantage is that the accuracy of the results is usually high",
+      "Only 'a'",
+      "Both 'a' and 'b'"
+    ],
+    "answer": "c",
+    "explanation": "Ad hoc may be fast but accuracy is usually low.",
+    "topic": "Research Management",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 370,
+    "question": "A cross sectional study is carried out to examine whether naval medical personnel of a higher rank have more positive copying skills than those of a lower rank. Which of the following statement is true of this study?",
+    "options": [
+      "Neither variable is dependent as the researcher cannot manipulate them",
+      "The independent variable is rank and the dependent variable is copying skills",
+      "The independent variable is copying skills and the dependent variable is rank",
+      "None of the above"
+    ],
+    "answer": "b",
+    "explanation": "Rank is the exposure (independent), copying skills is outcome (dependent).",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 371,
+    "question": "Indicators are considered positive when they have a direct relationship (association, correlation) with the state of health. Which of the following are the examples of positive indicators?",
+    "options": [
+      "The proportion of cured tuberculosis cases",
+      "Incidence of AIDS",
+      "Life expectancy at birth",
+      "'a' and 'c'"
+    ],
+    "answer": "d",
+    "explanation": "Positive indicators reflect good health (cure proportion, life expectancy). Incidence of AIDS is negative.",
+    "topic": "Health Indicators",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 372,
+    "question": "Which of the following techniques is preferentially used when the population is fixed?",
+    "options": ["Purposive sampling technique", "Area sampling technique", "Systematic sampling technique", "None of the above"],
+    "answer": "c",
+    "explanation": "Systematic sampling is often used with a fixed list.",
+    "topic": "Sampling",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 373,
+    "question": "A study began in 1980 with enrolment of a group of 7000 adults in Pondicherry who were asked about their alcohol consumption, smoking, diet, environmental risk factors etc. All the participants were periodically examined and evaluated for evidence of various types of cancers between 1990-1995. Which of the following study designs was used by the investigators?",
+    "options": ["Case-control study", "Prospective cohort study", "Ecological study", "Retrospective cohort study"],
+    "answer": "b",
+    "explanation": "Exposure measured at baseline (1980) and outcomes assessed later (1990-1995) - prospective cohort.",
+    "topic": "Study Designs",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 374,
+    "question": "An increased number of postoperative wound infections were recorded in patients who underwent incision appendectomy compared with those who had a laparoscopic procedure. Which of the following statement/s is/are true in such a scenario?",
+    "options": [
+      "This association may simply be owing to the presence of a confounding factor",
+      "Association between the two can be better studied in randomized controlled clinical trials",
+      "Both 'a' and 'b'",
+      "None"
+    ],
+    "answer": "c",
+    "explanation": "Confounding possible; RCT would provide stronger evidence.",
+    "topic": "Study Designs",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 375,
+    "question": "In a study to evaluate the effectiveness of a new medication, which of the following will generate a stronger evidence?",
+    "options": ["Randomized controlled trial", "Cohort study", "Case-control study", "Case series"],
+    "answer": "a",
+    "explanation": "RCT provides highest level of evidence for effectiveness.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 376,
+    "question": "Which of the following is a reason for the failure of a study?",
+    "options": ["Poorly stated research question", "Unrealistic timeline", "Inadequate supervision", "All the above"],
+    "answer": "d",
+    "explanation": "All can cause failure.",
+    "topic": "Research Management",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 377,
+    "question": "Which of the following represents the correct sequence in the life cycle of a study?\ni. Developing research question\nii. Planning the data analysis\niii. Data collection\niv. Data analysis",
+    "options": ["i, ii, iii, iv", "i, ii, iii, iv", "i, ii, iii, iv", "i, ii, iii, iv"],
+    "answer": "i, ii, iii, iv",
+    "topic": "Research Process",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 378,
+    "question": "Which of the following factor is NOT essential for effective planning and management of a study?",
+    "options": ["Time management", "Financial management", "Reduction of sample size", "Team work"],
+    "answer": "c",
+    "explanation": "Reducing sample size may compromise validity; it's not a management goal.",
+    "topic": "Research Management",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 379,
+    "question": "Which of the following is to be followed while collecting the information elements?",
+    "options": [
+      "Use of variables that best reflect the information element",
+      "Standardized case definitions",
+      "Use of validated and standardized methods",
+      "All the above"
+    ],
+    "answer": "d",
+    "explanation": "All are best practices.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 380,
+    "question": "State whether true or false. Framing several study objectives improves the study planning and management",
+    "options": ["True", "False"],
+    "answer": "b",
+    "explanation": "Too many objectives can diffuse focus; better to have few clear objectives.",
+    "topic": "Research Question & Objectives",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 381,
+    "question": "State whether true or false. Selection of study design should be related to the objectives.",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Objectives determine the appropriate study design.",
+    "topic": "Study Designs",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 382,
+    "question": "A postgraduate wants to do a community based thesis. Which of the following is a part of the planning and program management of the study?",
+    "options": ["Calculating sample size", "Arranging transport to community", "Writing thesis", "All the above"],
+    "answer": "d",
+    "explanation": "All are parts of planning and management.",
+    "topic": "Research Management",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 383,
+    "question": "Which of the following can be used to represent the duration, timeline and sequence of activities and milestones of a research project?",
+    "options": ["Bar chart", "Histogram", "Gantt chart", "Pie chart"],
+    "answer": "c",
+    "explanation": "Gantt chart is used for project scheduling.",
+    "topic": "Research Management",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 384,
+    "question": "Who is primarily responsible for resource allocation and time management in a study?",
+    "options": ["Institute where the research is conducted", "Principal investigator", "Funding agency", "Scientific committee"],
+    "answer": "b",
+    "explanation": "The principal investigator is responsible for managing resources and timeline.",
+    "topic": "Research Management",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 385,
+    "question": "Which component of the data collection instrument is constituted by open, closed and semi-open items?",
+    "options": ["Introduction", "Identifier", "Questions", "Concluding statement"],
+    "answer": "c",
+    "explanation": "Questions are the items with response formats.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 386,
+    "question": "Self-administered questionnaire can be",
+    "options": ["Paper-based or computer-assisted", "Used in face-to-face interviews", "Used in telephonic interviews", "All of the above"],
+    "answer": "a",
+    "explanation": "Self-administered implies respondent fills it themselves; not face-to-face or telephone.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 387,
+    "question": "While formulating the questions, all the following need to be followed, EXCEPT",
+    "options": [
+      "Short and clear questions",
+      "Avoid ambiguities",
+      "Avoid words of every-day language",
+      "Avoid negatives and double negatives"
+    ],
+    "answer": "c",
+    "explanation": "Everyday language should be used to ensure understanding.",
+    "topic": "Data Collection",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 388,
+    "question": "Structured observation guide",
+    "options": [
+      "Is useful to document certain processes",
+      "Use checklist of items",
+      "Can be used for in-depth interviews",
+      "\"a\" and \"b\""
+    ],
+    "answer": "d",
+    "explanation": "Structured observation uses checklists for processes.",
+    "topic": "Data Collection",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 389,
+    "question": "The interviewer does not provide options for responses",
+    "options": ["Open-ended questions", "Close-ended questions", "Semi-open questions", "All of the above"],
+    "answer": "a",
+    "explanation": "Open-ended questions have no predefined options.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 390,
+    "question": "What is the disadvantage of closed questions with dichotomous options in a study questionnaire?",
+    "options": [
+      "Detailed information available",
+      "Overemphilies the issues",
+      "Fears an unclear position",
+      "May not be useful for key well framed issues"
+    ],
+    "answer": "c",
+    "explanation": "Forced choice may not capture nuances.",
+    "topic": "Data Collection",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 391,
+    "question": "The information about participant's attitudes for behaviors such as wearing helmets, washing hands before eating, constitute",
+    "options": ["Facts", "Knowledge", "Judgments", "Texts"],
+    "answer": "c",
+    "explanation": "Attitudes are judgments.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 392,
+    "question": "The type of questions in which there is a possibility to add other answer in addition to the options suggested",
+    "options": ["Open questions", "Semi-open questions", "Closed questions", "Close questions with multiple options"],
+    "answer": "b",
+    "explanation": "Semi-open questions have an 'other' option.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 393,
+    "question": "The type of questions in a questionnaire which allow creation of continuous variables as responses",
+    "options": ["Closed questions with quantitative answers", "Open questions with quantitative answers", "Both of the above", "None of the above"],
+    "answer": "c",
+    "explanation": "Both can yield continuous data if numerical.",
+    "topic": "Data Collection",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 394,
+    "question": "All are true regarding the order of questions in a data collection tool EXCEPT",
+    "options": [
+      "From intimate to casual",
+      "From general to specific",
+      "From single to complicate",
+      "In chronological order, if questions related to sequence of events"
+    ],
+    "answer": "a",
+    "explanation": "Questions should go from casual to intimate (easy to sensitive).",
+    "topic": "Data Collection",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 395,
+    "question": "A question was framed by an ophthalmologist as a part of data collection tool for her research. \"Which of the following symptoms you had in the last one week?\" The options were 1. Eye pain 2. Redness of eye 3. Watering of eye 4. Low vision Given that a study participant may have multiple complaints, which of the following best describes the type of question?",
+    "options": ["Open question", "Closed questions with dichotomous options", "Closed question with multiple options"],
+    "answer": "c",
+    "explanation": "Closed question with multiple options (check all that apply).",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 396,
+    "question": "Reliability denotes",
+    "options": ["Precision", "Repeatability", "Reproducibility", "All of the above"],
+    "answer": "d",
+    "explanation": "Reliability encompasses all these.",
+    "topic": "Measurement & Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 397,
+    "question": "This should not be done in data collection",
+    "options": ["Training of staff members", "Review of collected data for quality and completeness", "Manipulation of data", "Validation"],
+    "answer": "c",
+    "explanation": "Manipulation of data is unethical and invalid.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 398,
+    "question": "Supportive supervision is essential for a good data collection process",
+    "options": ["True", "False"],
+    "answer": "a",
+    "explanation": "Supervision ensures quality.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 399,
+    "question": "The collected data should be",
+    "options": ["Complete", "Readable", "Consistent", "All of the above"],
+    "answer": "d",
+    "explanation": "All are important quality attributes.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 400,
+    "question": "Which of the following is (are) true about the training of data collection staff?",
+    "options": ["Conduct on-site training", "Conduct mock training sessions", "Training is always optional", "\"a\" and \"b\""],
+    "answer": "d",
+    "explanation": "Training should be thorough; it is not optional.",
+    "topic": "Data Collection",
+    "difficulty": "Basic"
+  }
+]

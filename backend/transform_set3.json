@@ -1,0 +1,4562 @@
+[
+  {
+    "questionText": "Which of the following is the best method of ensuring that the experimental and control arms in an experimental study are similar with regard to known and unknown confounders at the planning stage?",
+    "options": [
+      {
+        "text": "Matching",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomization",
+        "isCorrect": true
+      },
+      {
+        "text": "Stratification",
+        "isCorrect": false
+      },
+      {
+        "text": "Multivariate analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Randomization balances known and unknown confounders between groups at baseline.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "When the study finding is generalizable to the target population, then it is",
+    "options": [
+      {
+        "text": "Internally valid",
+        "isCorrect": false
+      },
+      {
+        "text": "Reliable",
+        "isCorrect": false
+      },
+      {
+        "text": "Accurate",
+        "isCorrect": false
+      },
+      {
+        "text": "Externally valid",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "External validity refers to generalizability to the target population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following can introduce selection bias in a case control study?",
+    "options": [
+      {
+        "text": "Using hospital controls",
+        "isCorrect": true
+      },
+      {
+        "text": "Using population controls",
+        "isCorrect": false
+      },
+      {
+        "text": "Using matched controls",
+        "isCorrect": false
+      },
+      {
+        "text": "Using sibling controls",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hospital controls may not represent the same population as cases, leading to selection bias.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is TRUE about information bias in a cohort study?",
+    "options": [
+      {
+        "text": "It is caused by higher attrition rate among the exposed group",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be caused by selecting controls from the community",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be avoided by uniform outcome ascertainment",
+        "isCorrect": true
+      },
+      {
+        "text": "It can be minimised by reducing loss to follow up",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Uniform outcome ascertainment reduces information bias (misclassification).",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is NOT a systematic error in an epidemiological study?",
+    "options": [
+      {
+        "text": "Random error",
+        "isCorrect": true
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      },
+      {
+        "text": "Selection bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Information bias",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Random error is not systematic; it is due to chance. Bias and confounding are systematic errors.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following measure is related to ensuring the internal validity of a study?",
+    "options": [
+      {
+        "text": "Using a validated study questionnaire to assess outcomes",
+        "isCorrect": false
+      },
+      {
+        "text": "Including an adequate number of study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "Complying strictly with the study protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All these measures help ensure internal validity by reducing bias and random error.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is FALSE about confounding in epidemiological studies?",
+    "options": [
+      {
+        "text": "Confounding may simulate an association when it does not exist",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding does not increase or decrease the strength of the association",
+        "isCorrect": true
+      },
+      {
+        "text": "Confounding may hinder an association that exists",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Confounding can increase, decrease, or even reverse the association; it does affect strength.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which methods in qualitative research use flexible interview guide?",
+    "options": [
+      {
+        "text": "In depth interviews and participant observation",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus Group Discussions and in-depth interviews",
+        "isCorrect": true
+      },
+      {
+        "text": "Participant Observation and focus group discussions",
+        "isCorrect": false
+      },
+      {
+        "text": "Structured Interviews and surveys",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Focus group discussions and in-depth interviews both use flexible interview guides.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following study designs can be used as a tool to generate ideas/hypotheses?",
+    "options": [
+      {
+        "text": "Qualitative study",
+        "isCorrect": true
+      },
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Experimental study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Qualitative research is exploratory and helps generate hypotheses.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The qualitative data analysis method in which investigators code text into categories and build theoretical models.",
+    "options": [
+      {
+        "text": "Content analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Grounded theory",
+        "isCorrect": true
+      },
+      {
+        "text": "Schema analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Hermeneutics",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Grounded theory involves coding and developing theory from data.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Open-ended, one-to-one interviews to discover interviewee's own framework of meanings",
+    "options": [
+      {
+        "text": "In-depth Interviews",
+        "isCorrect": true
+      },
+      {
+        "text": "Focus Group Discussions",
+        "isCorrect": false
+      },
+      {
+        "text": "Participant Observation",
+        "isCorrect": false
+      },
+      {
+        "text": "Structured Interviews",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-depth interviews are one-on-one and open-ended.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Audio recordings during focus Group Discussions",
+    "options": [
+      {
+        "text": "Can be done without any prior informed written consent",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be done",
+        "isCorrect": false
+      },
+      {
+        "text": "Should always be done",
+        "isCorrect": false
+      },
+      {
+        "text": "Can be done with prior informed consent",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Audio recording requires informed consent from participants.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All of the following are situations in which qualitative research methods can be used, EXCEPT",
+    "options": [
+      {
+        "text": "Familiar and sufficiently researched matter",
+        "isCorrect": true
+      },
+      {
+        "text": "To seek the depth of understanding",
+        "isCorrect": false
+      },
+      {
+        "text": "Exploration of behaviors",
+        "isCorrect": false
+      },
+      {
+        "text": "View the social phenomenon holistically",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Qualitative research is best for under-researched areas; if matter is already well researched, quantitative methods may be more suitable.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The main methods used in qualitative research method include all EXCEPT",
+    "options": [
+      {
+        "text": "In-depth Interviews",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus Group Discussions",
+        "isCorrect": false
+      },
+      {
+        "text": "Participant observation",
+        "isCorrect": false
+      },
+      {
+        "text": "Structured questionnaire based interviews",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Structured questionnaires are quantitative, not qualitative.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The observer becomes a part of the group or event in this method of qualitative study",
+    "options": [
+      {
+        "text": "In-depth Interviews",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus Group Discussions",
+        "isCorrect": false
+      },
+      {
+        "text": "Participant observation",
+        "isCorrect": true
+      },
+      {
+        "text": "Structured interviews",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Participant observation involves the researcher immersing in the group.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the statements regarding Participant Observation is true EXCEPT",
+    "options": [
+      {
+        "text": "Observer becomes a part of the event/group",
+        "isCorrect": false
+      },
+      {
+        "text": "Systematic collection of data is easy",
+        "isCorrect": true
+      },
+      {
+        "text": "Analytic methods for observation are not well described",
+        "isCorrect": false
+      },
+      {
+        "text": "Data is very detailed",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Systematic collection of data is challenging in participant observation.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The qualitative data analysis method which uses theoretical framework as the basis for analysis",
+    "options": [
+      {
+        "text": "Content analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Grounded theory",
+        "isCorrect": false
+      },
+      {
+        "text": "Schema Analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Hermeneutics",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Hermeneutics uses a theoretical framework to interpret text.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following are characteristics of qualitative research methods?",
+    "options": [
+      {
+        "text": "Objective, measurable, reliable and repeatable",
+        "isCorrect": false
+      },
+      {
+        "text": "Subjective, measurable, credible and repeatable",
+        "isCorrect": false
+      },
+      {
+        "text": "Subjective, credible, inductive and interpretation of responses",
+        "isCorrect": true
+      },
+      {
+        "text": "Objective, credible, inductive and interpretation of responses",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Qualitative research is subjective, inductive, and focuses on interpretation.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The research method which is best suited for collection of information regarding highly sensitive matters such as alcohol use",
+    "options": [
+      {
+        "text": "Focus-Group Discussions",
+        "isCorrect": false
+      },
+      {
+        "text": "Participant Observation",
+        "isCorrect": false
+      },
+      {
+        "text": "In-Depth Interview",
+        "isCorrect": true
+      },
+      {
+        "text": "Group discussions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-depth interviews provide privacy and can elicit sensitive information.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is not the utility of qualitative research",
+    "options": [
+      {
+        "text": "To provide insight to why people behave in a certain way",
+        "isCorrect": false
+      },
+      {
+        "text": "To estimate the prevalence of disease",
+        "isCorrect": true
+      },
+      {
+        "text": "To help understand the results of a quantitative study",
+        "isCorrect": false
+      },
+      {
+        "text": "For developing a questionnaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estimating prevalence is quantitative; qualitative does not estimate prevalence.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statement is true regarding Participant Observation",
+    "options": [
+      {
+        "text": "Observer becomes a part of the event/group",
+        "isCorrect": true
+      },
+      {
+        "text": "Systematic collection of data is easy",
+        "isCorrect": false
+      },
+      {
+        "text": "Analytic methods for observation are well described",
+        "isCorrect": false
+      },
+      {
+        "text": "Data is brief as compared to in-depth interviews",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Observer becomes part of the group in participant observation.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Open-ended group interviews that promotes discussion among participants is called as",
+    "options": [
+      {
+        "text": "In-depth interviews",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus Group Discussions",
+        "isCorrect": true
+      },
+      {
+        "text": "Participant Observation",
+        "isCorrect": false
+      },
+      {
+        "text": "Structured interviews",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Focus group discussions involve group interaction and open-ended questions.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A researcher decided to conduct a study to explore the child feeding practices among mothers of under five children in a community. Which of the following qualitative techniques can the researcher employ to gather wide range of information on the topic in a short span of time?",
+    "options": [
+      {
+        "text": "Structured interview",
+        "isCorrect": false
+      },
+      {
+        "text": "In-depth interview",
+        "isCorrect": false
+      },
+      {
+        "text": "Participant Observation",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus Group Discussion",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Focus group discussions gather diverse views quickly.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In qualitative research, researchers interpret the social reality from the participants' point of view.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Qualitative research aims to understand emic perspectives.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statements is \"incorrect\" about in-depth interviews?",
+    "options": [
+      {
+        "text": "Findings are always generalizable",
+        "isCorrect": true
+      },
+      {
+        "text": "The transcripts are time consuming to analyze",
+        "isCorrect": false
+      },
+      {
+        "text": "Helps understand sensitive issues",
+        "isCorrect": false
+      },
+      {
+        "text": "Useful when participants are knowledgeable on a particular topic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-depth interview findings are not always generalizable; they provide depth, not breadth.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following statement is \"false\" about focus group discussion",
+    "options": [
+      {
+        "text": "Focus group discussions help understand local terminologies",
+        "isCorrect": false
+      },
+      {
+        "text": "Group interaction is integral for an effective discussion",
+        "isCorrect": false
+      },
+      {
+        "text": "Interrogation of the group is a pre-requisite",
+        "isCorrect": true
+      },
+      {
+        "text": "Audio and video recordings are done with prior consent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Interrogation (cross-examination) is not a feature; FGDs are open discussions.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Triangulation is the use of multiple methods, multiple theories and or multiple sources for a comprehensive understanding of the topic in question",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Triangulation enhances credibility by using multiple approaches.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following characteristics is NOT related to qualitative research data?",
+    "options": [
+      {
+        "text": "Subjective validity",
+        "isCorrect": false
+      },
+      {
+        "text": "Data is in text form",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypothesis testing is a goal",
+        "isCorrect": true
+      },
+      {
+        "text": "It involves interpretation of responses",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Qualitative research does not aim to test hypotheses; it aims to explore and generate them.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following CANNOT be done using qualitative research?",
+    "options": [
+      {
+        "text": "Viewing a social phenomenon holistically",
+        "isCorrect": false
+      },
+      {
+        "text": "Estimating the burden of a disease",
+        "isCorrect": true
+      },
+      {
+        "text": "Seeking in-depth understanding of a phenomenon",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Burden estimation requires quantitative methods.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A researcher wants to estimate the prevalence of exclusive breast feeding in a remote tribal population. She also wants to understand the myths and taboos associated with breast feeding. Which of the following approaches can be employed in this scenario?",
+    "options": [
+      {
+        "text": "Qualitative study",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical trial",
+        "isCorrect": false
+      },
+      {
+        "text": "Mixed-methods study",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mixed-methods combines quantitative (prevalence) and qualitative (myths/taboos).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is NOT a data collection method used in qualitative research?",
+    "options": [
+      {
+        "text": "Interviews",
+        "isCorrect": false
+      },
+      {
+        "text": "Sociogram",
+        "isCorrect": true
+      },
+      {
+        "text": "Participant observation",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus group discussion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sociogram is a quantitative mapping tool, not a qualitative data collection method.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is NOT a feature of \"in-depth interviews\"?",
+    "options": [
+      {
+        "text": "It involves two or more participants at a time",
+        "isCorrect": true
+      },
+      {
+        "text": "It follows an interview guide",
+        "isCorrect": false
+      },
+      {
+        "text": "It is suitable for a highly sensitive topic",
+        "isCorrect": false
+      },
+      {
+        "text": "It obtains rich contextualised information",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-depth interviews are one-on-one, not group interviews.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is an advantage of conducting \"in-depth interviews\"?",
+    "options": [
+      {
+        "text": "It expresses the \"Emic\" perspective",
+        "isCorrect": true
+      },
+      {
+        "text": "It is generalisable",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a quick process",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a systematic sampling approach",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In-depth interviews capture insider perspectives (emic).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. In a focus group discussion, it is easy to obtain personal behaviours on a sensitive issue",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Group settings may inhibit disclosure of sensitive personal behaviours.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is TRUE regarding \"participant observation\" method?",
+    "options": [
+      {
+        "text": "It is easy to analyse the data",
+        "isCorrect": false
+      },
+      {
+        "text": "The researcher himself becomes a part of the study group",
+        "isCorrect": true
+      },
+      {
+        "text": "Data obtained is very concise",
+        "isCorrect": false
+      },
+      {
+        "text": "The researcher interviews each participant in detail",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The researcher immerses in the group as a participant.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false. Data obtained from Focus Group Discussion may be sensitive to biased analysis.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "FGD data can be influenced by group dynamics and analyst bias.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The analytical approach where the researcher proceeds to develop a theory based on learnings obtained from the data is called",
+    "options": [
+      {
+        "text": "Grounded theory analysis",
+        "isCorrect": true
+      },
+      {
+        "text": "Content analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Schema analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Factor analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Grounded theory builds theory inductively from data.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In a study on hypertension, patients are categorized based on their systolic blood pressure as normal, pre-hypertension, stage 1 hypertension and stage 2 hypertension. What type of variable is this?",
+    "options": [
+      {
+        "text": "Qualitative",
+        "isCorrect": false
+      },
+      {
+        "text": "Descriptive",
+        "isCorrect": false
+      },
+      {
+        "text": "Nominal",
+        "isCorrect": false
+      },
+      {
+        "text": "Ordinal",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Categories have a natural order (ordinal).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Most commonly used measure of central tendency is",
+    "options": [
+      {
+        "text": "Mode",
+        "isCorrect": false
+      },
+      {
+        "text": "Median",
+        "isCorrect": false
+      },
+      {
+        "text": "Mean",
+        "isCorrect": true
+      },
+      {
+        "text": "Range",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mean is the most commonly used measure of central tendency.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "First quartile (Q1) is equivalent to",
+    "options": [
+      {
+        "text": "25th",
+        "isCorrect": true
+      },
+      {
+        "text": "50th",
+        "isCorrect": false
+      },
+      {
+        "text": "75th",
+        "isCorrect": false
+      },
+      {
+        "text": "1st",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Q1 is the 25th percentile.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Find the median in the following sample of observations: 12, 26, 10, 29, 48",
+    "options": [
+      {
+        "text": "29",
+        "isCorrect": false
+      },
+      {
+        "text": "48",
+        "isCorrect": false
+      },
+      {
+        "text": "26",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sorted: 10,12,26,29,48. Median is the middle value 26.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The following measure is not influenced by extreme values in a data set",
+    "options": [
+      {
+        "text": "Arithmetic Mean",
+        "isCorrect": false
+      },
+      {
+        "text": "Inter-quartile range",
+        "isCorrect": true
+      },
+      {
+        "text": "Range",
+        "isCorrect": false
+      },
+      {
+        "text": "'b' and 'c'",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Inter-quartile range (IQR) is resistant to outliers.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following statistics does not belong with the others?",
+    "options": [
+      {
+        "text": "Range",
+        "isCorrect": false
+      },
+      {
+        "text": "Variance",
+        "isCorrect": false
+      },
+      {
+        "text": "Mode",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard deviation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mode is a measure of central tendency; others are measures of dispersion.",
+    "topic": "biostatistics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Number of children per household is an example of a continuous variable",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Number of children is discrete (countable).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In a study, researchers are interested in measuring the cholesterol levels of participants. Cholesterol level is a variable",
+    "options": [
+      {
+        "text": "Ordinal",
+        "isCorrect": false
+      },
+      {
+        "text": "Nominal",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuous",
+        "isCorrect": true
+      },
+      {
+        "text": "Discrete",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cholesterol level is a continuous variable (can take any value).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In the following set of data, what is the mean? 4, 1, 9, 7, 3, 8, 2, 6",
+    "options": [
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "4.5",
+        "isCorrect": false
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sum = 40, n=8, mean = 5.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Difference between the minimum value and the maximum value of the observations",
+    "options": [
+      {
+        "text": "Variance",
+        "isCorrect": false
+      },
+      {
+        "text": "Inter-quartile range",
+        "isCorrect": false
+      },
+      {
+        "text": "Range",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard Deviation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Range = maximum - minimum.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following are measures of dispersion except",
+    "options": [
+      {
+        "text": "Mean",
+        "isCorrect": true
+      },
+      {
+        "text": "Variance",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Range",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mean is a measure of central tendency.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which percentile is equivalent to the median?",
+    "options": [
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Median = 50th percentile.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following are true for standard deviation (SD) EXCEPT",
+    "options": [
+      {
+        "text": "It is the square root of the average of the squared deviations of the observations from the arithmetic mean",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the most important measure of dispersion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A researcher measures fasting blood level of glucose of 100 participants. The mean blood sugar level was measured as 110 mg/dL. The standard deviation was 11 mg/dL. Calculate the coefficient of variance.",
+    "options": [
+      {
+        "text": "20%",
+        "isCorrect": false
+      },
+      {
+        "text": "14%",
+        "isCorrect": false
+      },
+      {
+        "text": "10%",
+        "isCorrect": true
+      },
+      {
+        "text": "25%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "CV = (SD/mean)*100 = (11/110)*100 = 10%.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A researcher measures the height of 100 school going children for his study. What type of variable is height?",
+    "options": [
+      {
+        "text": "Nominal",
+        "isCorrect": false
+      },
+      {
+        "text": "Ordinal",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuous",
+        "isCorrect": true
+      },
+      {
+        "text": "Discrete",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Height is continuous.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A chest physician observed the distribution of forced expiratory volume (FEV) in 100 Chronic Obstructive Pulmonary disease (COPD) patients and calculated a median value of 2.0 liters. The value of first and third quartile of the distribution was 1.5 liters and 3.0 liters respectively. Based on this data how many patients in the sample are expected to have a FEV between 1.5 and 3.0 liters?",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "75",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "IQR contains middle 50% of observations, so 50 patients.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The average of the absolute deviations of the observations from the arithmetic mean is known as",
+    "options": [
+      {
+        "text": "Variance",
+        "isCorrect": false
+      },
+      {
+        "text": "Inter-quartile range",
+        "isCorrect": false
+      },
+      {
+        "text": "Mean deviation",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard deviation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Mean deviation (average absolute deviation).",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In a study, a researcher was interested in measuring the hemoglobin levels of 10 participants. The values are 10.0, 8.5, 12.0, 14.0, 11.5, 13.5, 9.0, 12.0, 11.5, 7.5. What is the mode of this distribution?",
+    "options": [
+      {
+        "text": "7.5",
+        "isCorrect": false
+      },
+      {
+        "text": "12.0",
+        "isCorrect": true
+      },
+      {
+        "text": "10.9",
+        "isCorrect": false
+      },
+      {
+        "text": "14.0",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "12.0 appears twice; others appear once.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following are examples of a nominal variable EXCEPT",
+    "options": [
+      {
+        "text": "Gender",
+        "isCorrect": false
+      },
+      {
+        "text": "Age",
+        "isCorrect": true
+      },
+      {
+        "text": "Place of residence",
+        "isCorrect": false
+      },
+      {
+        "text": "Colour of eyes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Age is usually quantitative, not nominal.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is true about inter-quartile range?",
+    "options": [
+      {
+        "text": "It describes the middle value of the distribution",
+        "isCorrect": false
+      },
+      {
+        "text": "It divides the distribution into two halves",
+        "isCorrect": false
+      },
+      {
+        "text": "It covers the middle 50% of observations",
+        "isCorrect": true
+      },
+      {
+        "text": "It is affected by the extreme values in the distribution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "IQR covers the middle 50% of data.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "When the data set contains too many extreme values, the most representative average value is",
+    "options": [
+      {
+        "text": "Mean",
+        "isCorrect": false
+      },
+      {
+        "text": "Mode",
+        "isCorrect": false
+      },
+      {
+        "text": "Median",
+        "isCorrect": true
+      },
+      {
+        "text": "Variance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Median is robust to outliers.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The age of ten pregnant women who visited an ANC clinic is given. What is the mean age of this group? (26, 31, 25, 26, 30, 27, 25, 32, 25 and 33 years).",
+    "options": [
+      {
+        "text": "45",
+        "isCorrect": false
+      },
+      {
+        "text": "28",
+        "isCorrect": true
+      },
+      {
+        "text": "25",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sum = 280, n=10, mean = 28.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is a relative measure of dispersion when comparing variables which are measured in different units?",
+    "options": [
+      {
+        "text": "Coefficient of variation",
+        "isCorrect": true
+      },
+      {
+        "text": "Standard deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Variance",
+        "isCorrect": false
+      },
+      {
+        "text": "Range",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Coefficient of variation is unitless and allows comparison.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The following scores were obtained by ten medical students in a quiz: (5, 3, 6, 8, 7, 8, 3, 11, 6, 1) What is the median score of this group?",
+    "options": [
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sorted: 1,3,3,5,6,6,7,8,8,11. Median = average of 5th and 6th = (6+6)/2 = 6.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Height of the students in a particular class measured in centimeter is an example of a continuous variable",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Height is continuous.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is the appropriate measure of dispersion to report when median is reported as the measure of central tendency for a given set of data?",
+    "options": [
+      {
+        "text": "Standard deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Inter-quartile range",
+        "isCorrect": true
+      },
+      {
+        "text": "Variance",
+        "isCorrect": false
+      },
+      {
+        "text": "Coefficient of variance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Median is paired with IQR for dispersion.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In the NCD clinic of a primary health Centre, fasting blood sugar (in g/dl) of 11 patients was measured. The following values were obtained: (85, 91, 104, 108, 105, 120, 129, 202, 160, 400, 410). What is the most appropriate measure of central tendency for this data?",
+    "options": [
+      {
+        "text": "Mean = 120",
+        "isCorrect": false
+      },
+      {
+        "text": "Median = 120",
+        "isCorrect": true
+      },
+      {
+        "text": "Mean = 174.1",
+        "isCorrect": false
+      },
+      {
+        "text": "Median = 174.1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Due to extreme values (400,410), median is more appropriate. Sorted: 85,91,104,105,108,120,129,160,202,400,410. Median = 120.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following about \"Range\" is TRUE?",
+    "options": [
+      {
+        "text": "It indicates the way in which values cluster about a particular point",
+        "isCorrect": false
+      },
+      {
+        "text": "It gives the number of observations bearing the same value",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the difference between the minimum and maximum value",
+        "isCorrect": true
+      },
+      {
+        "text": "It shows the degree to which the mean value differs from its expected value",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Range = max - min.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In a survey, socio-economic status (SES) was collected in the following manner - Lower, Lower Middle, Upper Middle and Upper. What type of variable is SES?",
+    "options": [
+      {
+        "text": "Ordinal",
+        "isCorrect": true
+      },
+      {
+        "text": "Nominal",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuous",
+        "isCorrect": false
+      },
+      {
+        "text": "Discrete",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "SES categories have a natural order.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Body weights of 11 children who attended a pediatric OPD was measured. For this group, the first quartile, median, mean and third quartile were 8.5, 12, 12.9 and 16, respectively. Calculate the Interquartile Range.",
+    "options": [
+      {
+        "text": "3.5",
+        "isCorrect": false
+      },
+      {
+        "text": "7.5",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "24.5",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "IQR = Q3 - Q1 = 16 - 8.5 = 7.5.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The process by which some members of a population are selected as representative of the entire population is known as",
+    "options": [
+      {
+        "text": "Census",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Survey",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sampling is selection of a subset.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Sampling based upon equal chance of selection is called",
+    "options": [
+      {
+        "text": "Stratified random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Simple random sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Systematic sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Subjective sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Simple random sampling gives equal probability.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A researcher wishing to draw a sample from sequentially numbered houses uses a random starting point and then selects every 8th house, s/he has thus drawn a sample",
+    "options": [
+      {
+        "text": "Sequential",
+        "isCorrect": false
+      },
+      {
+        "text": "Systematic",
+        "isCorrect": true
+      },
+      {
+        "text": "Simple random",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratified",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Systematic sampling uses a fixed interval.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The following statement is correct regarding sampling error",
+    "options": [
+      {
+        "text": "Sampling error is difficult to measure in simple random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling error is easy to measure in stratified sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnitude of error can be measured in non-probability samples",
+        "isCorrect": false
+      },
+      {
+        "text": "The magnitude of error can be measured in probability samples",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Sampling error is quantifiable only in probability samples.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The only sampling method allows to draw valid conclusions about the population is",
+    "options": [
+      {
+        "text": "Non probability sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Convenience sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Probability sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Subjective sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Probability sampling allows statistical inference.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following are true regarding cluster sampling EXCEPT",
+    "options": [
+      {
+        "text": "It needs a complete list of units",
+        "isCorrect": true
+      },
+      {
+        "text": "The sampling unit is group of subjects",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling error is difficult to measure",
+        "isCorrect": false
+      },
+      {
+        "text": "Resources required are less",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cluster sampling does not require a complete list of all individual units, only clusters.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Methods used in probability samples are",
+    "options": [
+      {
+        "text": "Stratified sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Multi-stage sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Cluster sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are probability sampling methods.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following statements are true regarding simple random sampling EXCEPT",
+    "options": [
+      {
+        "text": "Sampling error is easily measurable",
+        "isCorrect": false
+      },
+      {
+        "text": "It needs a complete list of all units",
+        "isCorrect": false
+      },
+      {
+        "text": "It ensures equal chance of selection for each unit",
+        "isCorrect": false
+      },
+      {
+        "text": "It always achieves best representativeness",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Simple random sampling may not always be the most representative; stratified can be better.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "People who volunteer or who can be easily recruited are used in a sampling method called",
+    "options": [
+      {
+        "text": "Cluster sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Multi-stage sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Convenience sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Systematic sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Convenience sampling uses readily available subjects.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Based on the number of cigarettes per day, a researcher divides the population into three risk groups for lung cancer (like, moderate, high risk). If the researcher then draws a random sample from each of these risk groups independently, s/he has created a sample",
+    "options": [
+      {
+        "text": "Systematic",
+        "isCorrect": false
+      },
+      {
+        "text": "Simple random",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratified",
+        "isCorrect": true
+      },
+      {
+        "text": "Group data",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stratified sampling involves dividing into strata and sampling from each.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following are non-probability sampling methods EXCEPT",
+    "options": [
+      {
+        "text": "Convenience sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Snowball sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Quota sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Systematic sampling",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Systematic sampling is a probability method.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In a study to measure the prevalence of fluorosis in a district, towns are sampled first. This is followed by a sample of wards within the selected towns, and finally a sample of households within the selected wards. What is the type of the sampling used here?",
+    "options": [
+      {
+        "text": "Multistage sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Systematic random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Simple random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Convenience sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multistage sampling involves multiple stages of sampling.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The magnitude of sampling error can be measured in probability sampling.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Probability samples allow calculation of standard error.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following statements are true regarding stratified sampling EXCEPT",
+    "options": [
+      {
+        "text": "It classifies population into homogeneous subgroups",
+        "isCorrect": false
+      },
+      {
+        "text": "The probability of a participant being selected is unknown",
+        "isCorrect": true
+      },
+      {
+        "text": "The sampling error is difficult to measure",
+        "isCorrect": false
+      },
+      {
+        "text": "It allows inclusion of representative participants from all subgroups",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Probability is known in stratified sampling (it is a probability method).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is true about non-probability sampling?",
+    "options": [
+      {
+        "text": "It removes the possibility of bias in selection of participants",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling error can be measured",
+        "isCorrect": false
+      },
+      {
+        "text": "Quota sampling is a type of non-probability sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Inferences drawn from non-probability sampling can be generalized",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Quota sampling is a non-probability method.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Random sampling in probability samples reduces the probability of selection bias",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Random selection reduces selection bias.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statement is true regarding systematic random sampling?",
+    "options": [
+      {
+        "text": "Sampling error cannot be measured",
+        "isCorrect": false
+      },
+      {
+        "text": "The chance of selection for each sampling unit is unknown",
+        "isCorrect": false
+      },
+      {
+        "text": "The selected sampling units are likely to be more representative than simple random sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "It is a type of non-probability sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Systematic sampling can be more representative if the list is random.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A researcher planned a cross-sectional study to assess the level of satisfaction of patients attending a clinic. For this, the researcher selected the first 100 patients who visited the clinic starting from a fixed date. What is the type of the sampling mentioned in this case?",
+    "options": [
+      {
+        "text": "Snowball sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Purposive sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Simple random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratified random sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selecting the first 100 is convenience (a form of purposive).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The list of all individuals in the study population from whom study participants in a research are to be selected is known as",
+    "options": [
+      {
+        "text": "Sampling frame",
+        "isCorrect": true
+      },
+      {
+        "text": "Study population",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling unit",
+        "isCorrect": false
+      },
+      {
+        "text": "Study sample",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sampling frame is the list from which sample is drawn.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is an advantage of multistage sampling?",
+    "options": [
+      {
+        "text": "Sampling error is easy to measure",
+        "isCorrect": false
+      },
+      {
+        "text": "It does not require a complete list of the total population",
+        "isCorrect": true
+      },
+      {
+        "text": "It requires only one sampling list",
+        "isCorrect": false
+      },
+      {
+        "text": "It always achieves the best representative sample",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multistage sampling is practical when a complete list is unavailable.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following sampling method ensures that valid conclusions can be drawn about different subgroups in a population?",
+    "options": [
+      {
+        "text": "Simple random sample",
+        "isCorrect": false
+      },
+      {
+        "text": "Systematic random sample",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratified random sample",
+        "isCorrect": true
+      },
+      {
+        "text": "Cluster random sample",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stratified sampling ensures representation of subgroups.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following about simple random sampling method is FALSE?",
+    "options": [
+      {
+        "text": "It needs a complete list of the units in the target population",
+        "isCorrect": false
+      },
+      {
+        "text": "Purposive sampling is a type of simple random sample",
+        "isCorrect": true
+      },
+      {
+        "text": "It draws units from the target population randomly",
+        "isCorrect": false
+      },
+      {
+        "text": "It gives equal chance of selection to every unit in the target population",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Purposive sampling is non-probability, not simple random.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Sampling activers:",
+    "options": [
+      {
+        "text": "Efficient utilization of resources",
+        "isCorrect": true
+      },
+      {
+        "text": "Elimination of random error",
+        "isCorrect": false
+      },
+      {
+        "text": "Low non-response rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Complete enumeration of population",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sampling allows efficient use of resources; it does not eliminate random error.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In simple random sampling, the probability of selection of each individual is",
+    "options": [
+      {
+        "text": "Unequal",
+        "isCorrect": false
+      },
+      {
+        "text": "Equal",
+        "isCorrect": true
+      },
+      {
+        "text": "Unknown",
+        "isCorrect": false
+      },
+      {
+        "text": "One",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Simple random sampling gives equal probability.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which one of the following biases is prevented by an appropriate sampling technique?",
+    "options": [
+      {
+        "text": "Volunteer bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Interviewee's bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Social desirability bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Recall bias",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Random sampling reduces volunteer bias; other biases are not prevented by sampling.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In a neighborhood with 5000 houses, a researcher wants to obtain a systematic random sample of 50 houses. What will be the sampling interval in this case?",
+    "options": [
+      {
+        "text": "1000",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "isCorrect": true
+      },
+      {
+        "text": "0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "0.01",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sampling interval = N/n = 5000/50 = 100.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which one of the following statement about cluster sampling is FALSE?",
+    "options": [
+      {
+        "text": "Units within a cluster are heterogeneous",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling frame of the entire study area is not required",
+        "isCorrect": false
+      },
+      {
+        "text": "Variability between clusters is assumed to be high",
+        "isCorrect": true
+      },
+      {
+        "text": "Sampling error is difficult to measure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cluster sampling aims to have heterogeneous clusters (like the population), not high variability between clusters.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which one of the following statements about multistage sampling is TRUE?",
+    "options": [
+      {
+        "text": "It saves resources as compared to simple random sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "It requires a complete listing of the entire population",
+        "isCorrect": false
+      },
+      {
+        "text": "It's sampling error can be easily measured",
+        "isCorrect": false
+      },
+      {
+        "text": "It is not suitable for sampling from a large population",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multistage sampling is cost-effective for large populations.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which one of the following about stratified random sampling is FALSE?",
+    "options": [
+      {
+        "text": "Units within a strata are homogeneous",
+        "isCorrect": false
+      },
+      {
+        "text": "Sample is taken from every strata",
+        "isCorrect": false
+      },
+      {
+        "text": "Precision improves with low numbers sampled in each stratum",
+        "isCorrect": true
+      },
+      {
+        "text": "Stratum specific estimates are weighted to obtain the overall estimate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Precision improves with adequate sample per stratum; low numbers reduce precision.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "State whether True or False: Commonly used statistical inferences have the assumption of a probability sample.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Statistical inference relies on probability sampling.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Statistical power is defined as the probability of",
+    "options": [
+      {
+        "text": "Accepting a null hypothesis when it is false",
+        "isCorrect": false
+      },
+      {
+        "text": "Rejecting a null hypothesis when it is true",
+        "isCorrect": false
+      },
+      {
+        "text": "Rejecting a null hypothesis when it is false",
+        "isCorrect": true
+      },
+      {
+        "text": "Failing to reject a null hypothesis when it is false",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Power = 1 - β = probability of correctly rejecting false null.",
+    "topic": "biostatistics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Steps in the estimation of sample size included all of the following EXCEPT",
+    "options": [
+      {
+        "text": "Identify major study variable",
+        "isCorrect": false
+      },
+      {
+        "text": "Decide on the desired precision of the estimate",
+        "isCorrect": false
+      },
+      {
+        "text": "Adjust for population size",
+        "isCorrect": false
+      },
+      {
+        "text": "Adjust for selection bias",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Selection bias is not directly adjusted in sample size calculation.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "A type-1 error occurs when",
+    "options": [
+      {
+        "text": "The null hypothesis is rejected when it is false",
+        "isCorrect": false
+      },
+      {
+        "text": "The null hypothesis is not rejected when it is false",
+        "isCorrect": false
+      },
+      {
+        "text": "The null hypothesis is not rejected when it is true",
+        "isCorrect": false
+      },
+      {
+        "text": "The null hypothesis is rejected when it is true",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Type I error = rejecting true null hypothesis.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Exact calculation of design effect for a study parameter can take place after study completion",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Design effect is calculated post-hoc to account for clustering.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Population variance can be estimated from",
+    "options": [
+      {
+        "text": "A pilot study",
+        "isCorrect": false
+      },
+      {
+        "text": "Reports of previous studies",
+        "isCorrect": false
+      },
+      {
+        "text": "Guessing",
+        "isCorrect": false
+      },
+      {
+        "text": "'a' and 'b'",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Pilot studies or previous literature provide variance estimates.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The recommended minimum level of power for an analytical study",
+    "options": [
+      {
+        "text": "5%",
+        "isCorrect": false
+      },
+      {
+        "text": "95%",
+        "isCorrect": false
+      },
+      {
+        "text": "80%",
+        "isCorrect": true
+      },
+      {
+        "text": "0.05%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "80% power is commonly accepted minimum.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In general, sample size formula takes into account the crude association between exposure and outcome as well as the confounders",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Sample size formulas do not directly incorporate confounders; they focus on main exposure-outcome association.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Design effect of \"more than 1\" needs to be considered in studies involving",
+    "options": [
+      {
+        "text": "Cluster sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Simple random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratified random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-probability sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cluster sampling leads to design effect >1 due to intra-cluster correlation.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is necessary in sample size determination?",
+    "options": [
+      {
+        "text": "Desired confidence level",
+        "isCorrect": false
+      },
+      {
+        "text": "Desired precision",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnitude of the population variance",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are essential inputs.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which one of the following statements is false?",
+    "options": [
+      {
+        "text": "Design effect is a relative change in the variance due to use of clusters",
+        "isCorrect": false
+      },
+      {
+        "text": "As the magnitude of the expected effect increases, the required sample size increases",
+        "isCorrect": true
+      },
+      {
+        "text": "The population variance is unknown in general and has to be estimated",
+        "isCorrect": false
+      },
+      {
+        "text": "Larger the sample size, smaller the sampling error",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Larger expected effect requires smaller sample size, not larger.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "A type-1 error occurs when",
+    "options": [
+      {
+        "text": "The null hypothesis is rejected when it is false",
+        "isCorrect": false
+      },
+      {
+        "text": "The null hypothesis is not rejected when it is false",
+        "isCorrect": false
+      },
+      {
+        "text": "The null hypothesis is not rejected when it is true",
+        "isCorrect": false
+      },
+      {
+        "text": "The null hypothesis is rejected when it is true",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Type I error = rejecting true null hypothesis.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is true about β error?",
+    "options": [
+      {
+        "text": "It is the probability of correctly rejecting the null hypothesis when it is false",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following are essential statistical considerations for sample size calculation EXCEPT:",
+    "options": [
+      {
+        "text": "Desired precision",
+        "isCorrect": false
+      },
+      {
+        "text": "Anticipated proportion of factor of interest",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling method",
+        "isCorrect": false
+      },
+      {
+        "text": "Allocated budget",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Budget is not a statistical consideration; it's a practical constraint.",
+    "topic": "biostatistics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "For each confounder/variable added in the study empirically 10% increase in the sample size should be made.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rule of thumb: increase sample size by 10% per additional variable for adjustment.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "The design effect should be calculated after completion of the study and it, need not be counted at the design stage.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Design effect should be accounted for during sample size calculation at design stage.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "When estimating sample size for a cross-sectional study, we need to account for",
+    "options": [
+      {
+        "text": "Expected proportion of characteristic of interest",
+        "isCorrect": false
+      },
+      {
+        "text": "Estimated design effect, in case of cluster sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Population size",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All these factors are considered.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The power of a study",
+    "options": [
+      {
+        "text": "Does not influence the sample size",
+        "isCorrect": false
+      },
+      {
+        "text": "Represented as 'a'",
+        "isCorrect": false
+      },
+      {
+        "text": "Can be defined as the probability of correctly rejecting null hypothesis when it is false",
+        "isCorrect": true
+      },
+      {
+        "text": "Represented as the probability of making a Type I error",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Power = 1 - β = probability of correctly rejecting false null.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The following are needed to calculate sample size for analytical studies using simple random sampling method EXCEPT",
+    "options": [
+      {
+        "text": "Desired value for the probability of a",
+        "isCorrect": false
+      },
+      {
+        "text": "Magnitude of the expected effect based on previous studies",
+        "isCorrect": false
+      },
+      {
+        "text": "Desired value for the probability of b",
+        "isCorrect": false
+      },
+      {
+        "text": "Estimated design effect",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Design effect is not needed for simple random sampling (it equals 1).",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "A researcher wants to estimate the prevalence of surgical site infection following cesarean section at a tertiary care hospital. What would be the minimum number of sample size to estimate the magnitude of surgical site infection following cesarean section if it is estimated that the proportion of surgical site infection will be 10% in the hospital considering 5% absolute precision and 95% confidence level (Z a/2 = 1.96).",
+    "options": [
+      {
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "text": "138",
+        "isCorrect": true
+      },
+      {
+        "text": "148",
+        "isCorrect": false
+      },
+      {
+        "text": "158",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "n = (1.96^2 * 0.1 * 0.9) / (0.05^2) = 138.3 ≈ 138.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Precision is described as a measure of how close an estimate is to the true value of a population parameter.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Precision refers to closeness of repeated estimates (reliability); accuracy is closeness to true value.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a cross-sectional study, a group of researchers wanted to estimate the prevalence of cephalosporin-resistant E.coli among adult males with urinary tract infections. From previous literature, the prevalence was found to be 6.5%. If the researchers want to estimate the prevalence with a 20% relative precision and 95% significance level, what is the minimum sample size required?",
+    "options": [
+      {
+        "text": "1042",
+        "isCorrect": false
+      },
+      {
+        "text": "1381",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "600",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "n = (Z^2 * p * (1-p)) / (relative precision * p)^2. With p=0.065, d=0.013 (20% of 0.065), n ≈ 1381.",
+    "topic": "literature_review",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following factors is NOT essential for calculating sample size for a single mean estimation?",
+    "options": [
+      {
+        "text": "Need for statistical significance",
+        "isCorrect": true
+      },
+      {
+        "text": "Assumptions about population standard deviation",
+        "isCorrect": false
+      },
+      {
+        "text": "Precision",
+        "isCorrect": false
+      },
+      {
+        "text": "Significance level",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Need for statistical significance is not directly a parameter; significance level, precision, and SD are used.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Adjustments to a calculated sample size need NOT be done for which of the following reasons?",
+    "options": [
+      {
+        "text": "Non-response rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Finite population size",
+        "isCorrect": false
+      },
+      {
+        "text": "Cluster design",
+        "isCorrect": false
+      },
+      {
+        "text": "Hospital-based study",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Hospital-based study does not inherently require sample size adjustment beyond other factors.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. A pilot study can be conducted to get an estimate of the expected prevalence of the disease being studied to calculate the minimum required sample size.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pilot studies provide parameter estimates for sample size calculation.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A cross-sectional study aims to estimate the prevalence of hybrid liver disease among patients undergoing ultrasonography in a tertiary care hospital. Which of the following is NOT required for calculating the minimum required sample size for this objective?",
+    "options": [
+      {
+        "text": "Significance level",
+        "isCorrect": false
+      },
+      {
+        "text": "Assumed prevalence",
+        "isCorrect": false
+      },
+      {
+        "text": "Precision",
+        "isCorrect": false
+      },
+      {
+        "text": "Population variance",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Population variance is not used for prevalence estimation; p*(1-p) is used.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "What is Type I error?",
+    "options": [
+      {
+        "text": "The probability of accepting the null hypothesis when it is false",
+        "isCorrect": false
+      },
+      {
+        "text": "The probability of rejecting the null hypothesis when it is true",
+        "isCorrect": true
+      },
+      {
+        "text": "The probability of rejecting the null hypothesis when it is false",
+        "isCorrect": false
+      },
+      {
+        "text": "The probability of accepting the null hypothesis when it is true",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Type I error is rejecting true null hypothesis.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Ability of a study to detect correctly the presence of an association is known as",
+    "options": [
+      {
+        "text": "Precision",
+        "isCorrect": false
+      },
+      {
+        "text": "Power",
+        "isCorrect": true
+      },
+      {
+        "text": "Confidence",
+        "isCorrect": false
+      },
+      {
+        "text": "Significance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Power is the ability to detect an effect if it exists.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Standard deviation of a sampling distribution is called systematic error",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Standard deviation of sampling distribution is standard error, not systematic error.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Design effect is considered for which of the following sampling strategy?",
+    "options": [
+      {
+        "text": "Cluster sampling",
+        "isCorrect": true
+      },
+      {
+        "text": "Simple random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratified random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-probability sampling",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Design effect is used to adjust for clustering.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a hospital based cross-sectional study, it is planned to estimate the mean D-dimer level among COVID-19 patients. From previous literature, the standard deviation was found to be 200 ng/mL, if the researchers went to estimate the mean with a 50 ng/mL precision and 95% significance level, what is the minimum sample size required?",
+    "options": [
+      {
+        "text": "62",
+        "isCorrect": true
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      },
+      {
+        "text": "31",
+        "isCorrect": false
+      },
+      {
+        "text": "248",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "n = (1.96^2 * 200^2) / 50^2 = (3.8416*40000)/2500 = 153664/2500 ≈ 61.5 → 62.",
+    "topic": "literature_review",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Selection of study participants depends on",
+    "options": [
+      {
+        "text": "Representativeness",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceptable cost",
+        "isCorrect": false
+      },
+      {
+        "text": "Adequate size",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All three factors influence participant selection.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Target population is determined by",
+    "options": [
+      {
+        "text": "Demographic characteristics",
+        "isCorrect": false
+      },
+      {
+        "text": "Temporal characteristics",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical characteristics",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"c\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Target population is defined by demographic and clinical criteria, and often temporal as well.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Study sample is a subset of accessible population",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The study sample is drawn from the accessible population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Representativeness of a study sample refers to",
+    "options": [
+      {
+        "text": "The extent to which the characteristics of the sample accurately reflect the characteristics of the population",
+        "isCorrect": true
+      },
+      {
+        "text": "The size of the sample which is large enough",
+        "isCorrect": false
+      },
+      {
+        "text": "Volunteering nature of the subjects from the population",
+        "isCorrect": false
+      },
+      {
+        "text": "The extent to which the characteristics of exposed population accurately reflect the characteristics of unexposed sample",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Representativeness means sample mirrors the population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Non-response in a study can be minimized by",
+    "options": [
+      {
+        "text": "Repeat contact of the study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing compensation for participants time",
+        "isCorrect": false
+      },
+      {
+        "text": "Less invasive and less sensitive questionnaires",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All strategies help reduce non-response.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "External validity means",
+    "options": [
+      {
+        "text": "The degree to which the inferences drawn from a study can be generalized to a broader population beyond the study population",
+        "isCorrect": true
+      },
+      {
+        "text": "The degree to which the observed findings lead to correct inferences about phenomena taking place in the study sample",
+        "isCorrect": false
+      },
+      {
+        "text": "The degree to which a test actually measures what it is designed to measure",
+        "isCorrect": false
+      },
+      {
+        "text": "The degree to which the findings are reliable",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "External validity = generalizability.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Participants may be excluded from the study because of",
+    "options": [
+      {
+        "text": "Interference with the success of study follow-up",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethical concerns",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference with the quality of data collection or non-acceptance to participate in the study",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are valid exclusion reasons.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "While choosing the accessible population and the sampling approach for selection of study population, an important factor that we need to consider is",
+    "options": [
+      {
+        "text": "Simplicity",
+        "isCorrect": false
+      },
+      {
+        "text": "Technology",
+        "isCorrect": false
+      },
+      {
+        "text": "Feasibility",
+        "isCorrect": true
+      },
+      {
+        "text": "Reliability",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Feasibility (practicality) is key.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "If your research question is related to diagnosis, treatment or prognosis of a severe medical condition, then it is an easy and cost-effective way to recruit the study population from the community",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Recruiting from community for severe conditions is difficult and costly; hospital-based is easier.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Reasons for interference with the success of follow-up in a study may include",
+    "options": [
+      {
+        "text": "Migration of some study participants from the study area",
+        "isCorrect": false
+      },
+      {
+        "text": "Marriage of some of the female study participants because of which they might move out of the study area",
+        "isCorrect": false
+      },
+      {
+        "text": "Refusal for follow-up",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All can cause loss to follow-up.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The population defined by clinical and demographic characteristics is called",
+    "options": [
+      {
+        "text": "Target population",
+        "isCorrect": true
+      },
+      {
+        "text": "Accessible population",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Target population is defined by eligibility criteria including clinical and demographic.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The population defined by geographical and temporal characteristics is called as",
+    "options": [
+      {
+        "text": "Target population",
+        "isCorrect": false
+      },
+      {
+        "text": "Accessible population",
+        "isCorrect": true
+      },
+      {
+        "text": "Subset",
+        "isCorrect": false
+      },
+      {
+        "text": "Sample size",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Accessible population is the subset of target population that is available (geographically/temporally).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Random errors can be effectively handled by",
+    "options": [
+      {
+        "text": "Randomisation",
+        "isCorrect": false
+      },
+      {
+        "text": "Representativeness",
+        "isCorrect": false
+      },
+      {
+        "text": "Adequate sample size",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adequate sample size reduces random error.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A researcher found an inference about a particular disease of interest. If he/she wants to generalize the results, it is important to have",
+    "options": [
+      {
+        "text": "Internal validity",
+        "isCorrect": false
+      },
+      {
+        "text": "External validity",
+        "isCorrect": true
+      },
+      {
+        "text": "Feasibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Accuracy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Generalization requires external validity.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Reasons for interference with the success of follow-up in a study may include",
+    "options": [
+      {
+        "text": "Out-migration of some study participants from the study area",
+        "isCorrect": false
+      },
+      {
+        "text": "Marriage of some of the female study participants because of which they might move out of the study area",
+        "isCorrect": false
+      },
+      {
+        "text": "Refusal for follow-up",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Same as earlier; all cause loss to follow-up.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Less invasive and less sensitive questionnaires will",
+    "options": [
+      {
+        "text": "Increase the power",
+        "isCorrect": false
+      },
+      {
+        "text": "Decrease the power",
+        "isCorrect": false
+      },
+      {
+        "text": "Improve the significance",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce the non response",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Less intrusive questionnaires may increase response rates.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The external validity in a research study means",
+    "options": [
+      {
+        "text": "The degree to which the observed findings lead to correct inferences about phenomena taking place in the study sample",
+        "isCorrect": false
+      },
+      {
+        "text": "The degree to which a test actually measures what it is designed to measure",
+        "isCorrect": false
+      },
+      {
+        "text": "The degree to which the inferences drawn from a study can be generalized to a broader population beyond the study population",
+        "isCorrect": true
+      },
+      {
+        "text": "The degree to which the findings are reliable",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "External validity = generalizability.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The degree to which the observed findings lead to correct inferences about phenomena of interest in the study sample",
+    "options": [
+      {
+        "text": "Reliability",
+        "isCorrect": false
+      },
+      {
+        "text": "Feasibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Internal validity",
+        "isCorrect": true
+      },
+      {
+        "text": "External validity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Internal validity concerns inferences within the study sample.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which factor is important to consider while choosing the accessible population and the sampling approach?",
+    "options": [
+      {
+        "text": "Feasibility",
+        "isCorrect": true
+      },
+      {
+        "text": "Sensitivity",
+        "isCorrect": false
+      },
+      {
+        "text": "Specificity",
+        "isCorrect": false
+      },
+      {
+        "text": "Reliability",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Feasibility is a key practical consideration.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The participants may be excluded from the study because of",
+    "options": [
+      {
+        "text": "Interference with the success of study follow-up",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethical concerns",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference with the quality of data collection",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are valid exclusion reasons.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following helps to minimize the random error in a research study?",
+    "options": [
+      {
+        "text": "Limited study duration",
+        "isCorrect": false
+      },
+      {
+        "text": "Adequate sample size",
+        "isCorrect": true
+      },
+      {
+        "text": "Adequate budget",
+        "isCorrect": false
+      },
+      {
+        "text": "More than six investigators",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Larger sample size reduces random error.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Representativeness of the study participants similar to the population of interest can help in which of the following aspects of a research study?",
+    "options": [
+      {
+        "text": "Generalizability of the findings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "An investigator intends to estimate the prevalence of Urinary Tract infection (UTI) among circumcised children (<5 years old) in Jaipur city. However, the researcher selects the study participants from one government hospital. Which of the following is the target population in this study?",
+    "options": [
+      {
+        "text": "All children aged <5 years in the city",
+        "isCorrect": false
+      },
+      {
+        "text": "All circumcised children aged <5 years in the city",
+        "isCorrect": true
+      },
+      {
+        "text": "All circumcised children aged <5 years attending the government hospital",
+        "isCorrect": false
+      },
+      {
+        "text": "All children having UTI in the city",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Target population is all circumcised children <5 in Jaipur city.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is the accessible population in the above study?",
+    "options": [
+      {
+        "text": "All children aged <5 years in the city",
+        "isCorrect": false
+      },
+      {
+        "text": "All circumcised children aged <5 years in the city",
+        "isCorrect": false
+      },
+      {
+        "text": "All circumcised children aged <5 years attending the government hospital",
+        "isCorrect": true
+      },
+      {
+        "text": "All children having UTI in the city",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Accessible population is the subset available at the hospital.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. High non-response rate in a study may affect the internal validity.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Non-response can introduce bias, affecting internal validity.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is TRUE about study validity?",
+    "options": [
+      {
+        "text": "An internally valid study result is always generalizable to the target population",
+        "isCorrect": false
+      },
+      {
+        "text": "An internally valid study result may or may not be generalizable to the target population",
+        "isCorrect": true
+      },
+      {
+        "text": "An externally valid study result is not generalizable to the target population",
+        "isCorrect": false
+      },
+      {
+        "text": "A study without internal validity can be generalized to the target population",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Internal validity does not guarantee external validity.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following statements on study populations is TRUE?",
+    "options": [
+      {
+        "text": "Study sample is a subset of the accessible population",
+        "isCorrect": true
+      },
+      {
+        "text": "Target population is a subset of the accessible population",
+        "isCorrect": false
+      },
+      {
+        "text": "Accessible population is a subset of the study sample",
+        "isCorrect": false
+      },
+      {
+        "text": "Target population is a subset of the study sample",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The sample is drawn from the accessible population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false. Biases can affect both internal and external validity.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bias can compromise both internal and external validity.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a community based vaccine trial, which aims to compare the 1 year incidence of intussusception in children receiving/not receiving rotavirus vaccine, which of the following can be a likely exclusion criterion?",
+    "options": [
+      {
+        "text": "Children who may leave the study area within a month",
+        "isCorrect": true
+      },
+      {
+        "text": "Children aged 0 months to 24 months",
+        "isCorrect": false
+      },
+      {
+        "text": "Children without pre-existing intestinal anomalies",
+        "isCorrect": false
+      },
+      {
+        "text": "Children who have not received rotavirus vaccine previously",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Children likely to leave the area would interfere with follow-up.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a cohort study planned to estimate the incidence of birth defects among Zika virus infected pregnant women in Chennai city, which of the following CANNOT be an inclusion criterion?",
+    "options": [
+      {
+        "text": "First trimester pregnant women with lab-confirmed Zika virus infection",
+        "isCorrect": false
+      },
+      {
+        "text": "Pregnant women who are permanent residents of Chennai city",
+        "isCorrect": false
+      },
+      {
+        "text": "Pregnant women aged above 18 years",
+        "isCorrect": false
+      },
+      {
+        "text": "Pregnant women taking drugs known to cause birth defects",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Women taking teratogenic drugs would confound the association and may be excluded.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following statements regarding study objectives is correct?",
+    "options": [
+      {
+        "text": "Objectives should be defined at the planning stage of study",
+        "isCorrect": true
+      },
+      {
+        "text": "Objectives can be defined at any time of the study",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives can be changed even at the end of the study",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives should be defined before identifying the research question",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Objectives must be set at the planning stage, after the research question.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is (are) required to determine the key indicators for planned research study?",
+    "options": [
+      {
+        "text": "Frame study objectives",
+        "isCorrect": false
+      },
+      {
+        "text": "Identify parameters needed for the key indicators",
+        "isCorrect": false
+      },
+      {
+        "text": "Choose the right study design",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are needed to define indicators.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following can improve efficiency of a research study?",
+    "options": [
+      {
+        "text": "Time management",
+        "isCorrect": false
+      },
+      {
+        "text": "Planning and scheduling activities",
+        "isCorrect": false
+      },
+      {
+        "text": "Budgeting",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All improve efficiency.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following represents the correct sequence in a life cycle of a study?",
+    "options": [
+      {
+        "text": "Identifying data needs, formulating study objectives, planning analysis, spelling out research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Formulating study objectives, planning analysis, spelling out research question, identifying data needs",
+        "isCorrect": false
+      },
+      {
+        "text": "Identifying data needs, spelling out research question, formulating study objectives, planning analysis",
+        "isCorrect": true
+      },
+      {
+        "text": "Formulating study objectives, spelling out research question, identifying data needs, planning analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The typical sequence: research question → objectives → design → data needs → analysis plan.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "It should be ensured that products/deliverables of health research projects are delivered within the",
+    "options": [
+      {
+        "text": "Defined timeframe",
+        "isCorrect": false
+      },
+      {
+        "text": "Defined budget",
+        "isCorrect": false
+      },
+      {
+        "text": "Expected quality standards",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are important deliverables.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statements best describes the study objectives?",
+    "options": [
+      {
+        "text": "They should be minimum, achievable and clear",
+        "isCorrect": false
+      },
+      {
+        "text": "They can be primary and/or secondary",
+        "isCorrect": false
+      },
+      {
+        "text": "Adding objectives during study implementation is a good practice",
+        "isCorrect": false
+      },
+      {
+        "text": "'a' and 'b'",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Objectives should be minimal, achievable, clear, and can be primary/secondary. Adding objectives later is not good practice.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Principles to be followed while collecting the information elements are",
+    "options": [
+      {
+        "text": "Use the variables that will best reflect the information element",
+        "isCorrect": false
+      },
+      {
+        "text": "Adopt standardized case definitions and laboratory criteria/normal ranges",
+        "isCorrect": false
+      },
+      {
+        "text": "Choose the most accurate ways of collecting information on various elements",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are good principles.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Study conducted following an ad hoc approach may lead to the following consequences",
+    "options": [
+      {
+        "text": "Generation of useful data in programs or for policy making",
+        "isCorrect": false
+      },
+      {
+        "text": "Efficient utilization of resources",
+        "isCorrect": false
+      },
+      {
+        "text": "Serious difficulties in analysis and interpretation",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ad hoc studies often lead to analysis and interpretation difficulties.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Common reasons for research study failures",
+    "options": [
+      {
+        "text": "Poorly defined research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Vague timelines",
+        "isCorrect": false
+      },
+      {
+        "text": "Lack of supervision",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are common reasons.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Sample size for a cross-sectional study is decided based on the following",
+    "options": [
+      {
+        "text": "Assumed/reported prevalence",
+        "isCorrect": true
+      },
+      {
+        "text": "Confidence interval",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceptable precision",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is a criterion for a good research question?",
+    "options": [
+      {
+        "text": "Long and self explanatory question using complex terms",
+        "isCorrect": false
+      },
+      {
+        "text": "A question based on ill-defined hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "A question based on strong hunch on part of the investigator",
+        "isCorrect": false
+      },
+      {
+        "text": "A question based on established theory and some research evidence",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Good research questions build on existing evidence and theory.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following can be considered true in case of ad hoc approach to conduct a research study?",
+    "options": [
+      {
+        "text": "Its advantages are the low development effort and possibility of getting results in a short time span",
+        "isCorrect": false
+      },
+      {
+        "text": "Its advantage is that the accuracy of the results is usually high",
+        "isCorrect": false
+      },
+      {
+        "text": "Only 'a'",
+        "isCorrect": true
+      },
+      {
+        "text": "Both 'a' and 'b'",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ad hoc may be fast but accuracy is usually low.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A cross sectional study is carried out to examine whether naval medical personnel of a higher rank have more positive copying skills than those of a lower rank. Which of the following statement is true of this study?",
+    "options": [
+      {
+        "text": "Neither variable is dependent as the researcher cannot manipulate them",
+        "isCorrect": false
+      },
+      {
+        "text": "The independent variable is rank and the dependent variable is copying skills",
+        "isCorrect": true
+      },
+      {
+        "text": "The independent variable is copying skills and the dependent variable is rank",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rank is the exposure (independent), copying skills is outcome (dependent).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Indicators are considered positive when they have a direct relationship (association, correlation) with the state of health. Which of the following are the examples of positive indicators?",
+    "options": [
+      {
+        "text": "The proportion of cured tuberculosis cases",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence of AIDS",
+        "isCorrect": false
+      },
+      {
+        "text": "Life expectancy at birth",
+        "isCorrect": false
+      },
+      {
+        "text": "'a' and 'c'",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Positive indicators reflect good health (cure proportion, life expectancy). Incidence of AIDS is negative.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following techniques is preferentially used when the population is fixed?",
+    "options": [
+      {
+        "text": "Purposive sampling technique",
+        "isCorrect": false
+      },
+      {
+        "text": "Area sampling technique",
+        "isCorrect": false
+      },
+      {
+        "text": "Systematic sampling technique",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Systematic sampling is often used with a fixed list.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A study began in 1980 with enrolment of a group of 7000 adults in Pondicherry who were asked about their alcohol consumption, smoking, diet, environmental risk factors etc. All the participants were periodically examined and evaluated for evidence of various types of cancers between 1990-1995. Which of the following study designs was used by the investigators?",
+    "options": [
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Prospective cohort study",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      },
+      {
+        "text": "Retrospective cohort study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure measured at baseline (1980) and outcomes assessed later (1990-1995) - prospective cohort.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "An increased number of postoperative wound infections were recorded in patients who underwent incision appendectomy compared with those who had a laparoscopic procedure. Which of the following statement/s is/are true in such a scenario?",
+    "options": [
+      {
+        "text": "This association may simply be owing to the presence of a confounding factor",
+        "isCorrect": false
+      },
+      {
+        "text": "Association between the two can be better studied in randomized controlled clinical trials",
+        "isCorrect": false
+      },
+      {
+        "text": "Both 'a' and 'b'",
+        "isCorrect": true
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Confounding possible; RCT would provide stronger evidence.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In a study to evaluate the effectiveness of a new medication, which of the following will generate a stronger evidence?",
+    "options": [
+      {
+        "text": "Randomized controlled trial",
+        "isCorrect": true
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "RCT provides highest level of evidence for effectiveness.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is a reason for the failure of a study?",
+    "options": [
+      {
+        "text": "Poorly stated research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Unrealistic timeline",
+        "isCorrect": false
+      },
+      {
+        "text": "Inadequate supervision",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All can cause failure.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following represents the correct sequence in the life cycle of a study?\ni. Developing research question\nii. Planning the data analysis\niii. Data collection\niv. Data analysis",
+    "options": [
+      {
+        "text": "i, ii, iii, iv",
+        "isCorrect": false
+      },
+      {
+        "text": "i, ii, iii, iv",
+        "isCorrect": false
+      },
+      {
+        "text": "i, ii, iii, iv",
+        "isCorrect": false
+      },
+      {
+        "text": "i, ii, iii, iv",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following factor is NOT essential for effective planning and management of a study?",
+    "options": [
+      {
+        "text": "Time management",
+        "isCorrect": false
+      },
+      {
+        "text": "Financial management",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduction of sample size",
+        "isCorrect": true
+      },
+      {
+        "text": "Team work",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reducing sample size may compromise validity; it's not a management goal.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is to be followed while collecting the information elements?",
+    "options": [
+      {
+        "text": "Use of variables that best reflect the information element",
+        "isCorrect": false
+      },
+      {
+        "text": "Standardized case definitions",
+        "isCorrect": false
+      },
+      {
+        "text": "Use of validated and standardized methods",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are best practices.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false. Framing several study objectives improves the study planning and management",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Too many objectives can diffuse focus; better to have few clear objectives.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. Selection of study design should be related to the objectives.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Objectives determine the appropriate study design.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A postgraduate wants to do a community based thesis. Which of the following is a part of the planning and program management of the study?",
+    "options": [
+      {
+        "text": "Calculating sample size",
+        "isCorrect": false
+      },
+      {
+        "text": "Arranging transport to community",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing thesis",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are parts of planning and management.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following can be used to represent the duration, timeline and sequence of activities and milestones of a research project?",
+    "options": [
+      {
+        "text": "Bar chart",
+        "isCorrect": false
+      },
+      {
+        "text": "Histogram",
+        "isCorrect": false
+      },
+      {
+        "text": "Gantt chart",
+        "isCorrect": true
+      },
+      {
+        "text": "Pie chart",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Gantt chart is used for project scheduling.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Who is primarily responsible for resource allocation and time management in a study?",
+    "options": [
+      {
+        "text": "Institute where the research is conducted",
+        "isCorrect": false
+      },
+      {
+        "text": "Principal investigator",
+        "isCorrect": true
+      },
+      {
+        "text": "Funding agency",
+        "isCorrect": false
+      },
+      {
+        "text": "Scientific committee",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The principal investigator is responsible for managing resources and timeline.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which component of the data collection instrument is constituted by open, closed and semi-open items?",
+    "options": [
+      {
+        "text": "Introduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Identifier",
+        "isCorrect": false
+      },
+      {
+        "text": "Questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Concluding statement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Questions are the items with response formats.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Self-administered questionnaire can be",
+    "options": [
+      {
+        "text": "Paper-based or computer-assisted",
+        "isCorrect": true
+      },
+      {
+        "text": "Used in face-to-face interviews",
+        "isCorrect": false
+      },
+      {
+        "text": "Used in telephonic interviews",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Self-administered implies respondent fills it themselves; not face-to-face or telephone.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "While formulating the questions, all the following need to be followed, EXCEPT",
+    "options": [
+      {
+        "text": "Short and clear questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid ambiguities",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid words of every-day language",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid negatives and double negatives",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Everyday language should be used to ensure understanding.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Structured observation guide",
+    "options": [
+      {
+        "text": "Is useful to document certain processes",
+        "isCorrect": false
+      },
+      {
+        "text": "Use checklist of items",
+        "isCorrect": false
+      },
+      {
+        "text": "Can be used for in-depth interviews",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Structured observation uses checklists for processes.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The interviewer does not provide options for responses",
+    "options": [
+      {
+        "text": "Open-ended questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Close-ended questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Semi-open questions",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Open-ended questions have no predefined options.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is the disadvantage of closed questions with dichotomous options in a study questionnaire?",
+    "options": [
+      {
+        "text": "Detailed information available",
+        "isCorrect": false
+      },
+      {
+        "text": "Overemphilies the issues",
+        "isCorrect": false
+      },
+      {
+        "text": "Fears an unclear position",
+        "isCorrect": true
+      },
+      {
+        "text": "May not be useful for key well framed issues",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Forced choice may not capture nuances.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The information about participant's attitudes for behaviors such as wearing helmets, washing hands before eating, constitute",
+    "options": [
+      {
+        "text": "Facts",
+        "isCorrect": false
+      },
+      {
+        "text": "Knowledge",
+        "isCorrect": false
+      },
+      {
+        "text": "Judgments",
+        "isCorrect": true
+      },
+      {
+        "text": "Texts",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Attitudes are judgments.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The type of questions in which there is a possibility to add other answer in addition to the options suggested",
+    "options": [
+      {
+        "text": "Open questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Semi-open questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Closed questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Close questions with multiple options",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Semi-open questions have an 'other' option.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The type of questions in a questionnaire which allow creation of continuous variables as responses",
+    "options": [
+      {
+        "text": "Closed questions with quantitative answers",
+        "isCorrect": false
+      },
+      {
+        "text": "Open questions with quantitative answers",
+        "isCorrect": false
+      },
+      {
+        "text": "Both of the above",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Both can yield continuous data if numerical.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All are true regarding the order of questions in a data collection tool EXCEPT",
+    "options": [
+      {
+        "text": "From intimate to casual",
+        "isCorrect": true
+      },
+      {
+        "text": "From general to specific",
+        "isCorrect": false
+      },
+      {
+        "text": "From single to complicate",
+        "isCorrect": false
+      },
+      {
+        "text": "In chronological order, if questions related to sequence of events",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Questions should go from casual to intimate (easy to sensitive).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A question was framed by an ophthalmologist as a part of data collection tool for her research. \"Which of the following symptoms you had in the last one week?\" The options were 1. Eye pain 2. Redness of eye 3. Watering of eye 4. Low vision Given that a study participant may have multiple complaints, which of the following best describes the type of question?",
+    "options": [
+      {
+        "text": "Open question",
+        "isCorrect": false
+      },
+      {
+        "text": "Closed questions with dichotomous options",
+        "isCorrect": false
+      },
+      {
+        "text": "Closed question with multiple options",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Closed question with multiple options (check all that apply).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Reliability denotes",
+    "options": [
+      {
+        "text": "Precision",
+        "isCorrect": false
+      },
+      {
+        "text": "Repeatability",
+        "isCorrect": false
+      },
+      {
+        "text": "Reproducibility",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Reliability encompasses all these.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "This should not be done in data collection",
+    "options": [
+      {
+        "text": "Training of staff members",
+        "isCorrect": false
+      },
+      {
+        "text": "Review of collected data for quality and completeness",
+        "isCorrect": false
+      },
+      {
+        "text": "Manipulation of data",
+        "isCorrect": true
+      },
+      {
+        "text": "Validation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Manipulation of data is unethical and invalid.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Supportive supervision is essential for a good data collection process",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Supervision ensures quality.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The collected data should be",
+    "options": [
+      {
+        "text": "Complete",
+        "isCorrect": false
+      },
+      {
+        "text": "Readable",
+        "isCorrect": false
+      },
+      {
+        "text": "Consistent",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are important quality attributes.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is (are) true about the training of data collection staff?",
+    "options": [
+      {
+        "text": "Conduct on-site training",
+        "isCorrect": false
+      },
+      {
+        "text": "Conduct mock training sessions",
+        "isCorrect": false
+      },
+      {
+        "text": "Training is always optional",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Training should be thorough; it is not optional.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  }
+]

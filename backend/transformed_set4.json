@@ -1,0 +1,3979 @@
+[
+  {
+    "questionText": "Which one of the following is the proper way of validating the data?",
+    "options": [
+      {
+        "text": "Repetition of full data collection in the same population",
+        "isCorrect": false
+      },
+      {
+        "text": "Data collection in new population",
+        "isCorrect": false
+      },
+      {
+        "text": "Repetition of data collection in a randomly selected subset in the same population",
+        "isCorrect": true
+      },
+      {
+        "text": "Repeat data collection is not required",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Validation is best done by repeating data collection in a random subset to check consistency.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Appropriate means to troubleshoot the difficulties in data collection process",
+    "options": [
+      {
+        "text": "Regular review meetings",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitate the discussion to identify issues during the review",
+        "isCorrect": false
+      },
+      {
+        "text": "Clarify the issues experienced by staff during data collection",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All these help identify and resolve problems.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "There is no need to present the study and its objectives to the field investigators",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Field investigators must understand the study to collect data properly.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statement is (are) true regarding data collection for an epidemiological study?",
+    "options": [
+      {
+        "text": "Reliability refers to consistency of information",
+        "isCorrect": false
+      },
+      {
+        "text": "Accuracy is the ability of a measurement to be correct on an average",
+        "isCorrect": false
+      },
+      {
+        "text": "Feasibility is the ability of investigator to understand the data",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Reliability and accuracy are key; feasibility is about practicality, not about understanding.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Time pressure during data collection may result in dilution of data quality",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Rushed data collection often compromises quality.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A data collection tool should be",
+    "options": [
+      {
+        "text": "Valid",
+        "isCorrect": false
+      },
+      {
+        "text": "Reliable",
+        "isCorrect": false
+      },
+      {
+        "text": "Both \"a\" and \"b\"",
+        "isCorrect": true
+      },
+      {
+        "text": "None",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A good tool must be both valid and reliable.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A neurosurgeon is planning for a hospital-based study on the patients coming to the emergency department with head injury. The collected data should be",
+    "options": [
+      {
+        "text": "Complete",
+        "isCorrect": false
+      },
+      {
+        "text": "Readable",
+        "isCorrect": false
+      },
+      {
+        "text": "Consistent",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Data must meet all quality criteria.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following should not be done in relation to data collection?",
+    "options": [
+      {
+        "text": "Training of staff members",
+        "isCorrect": false
+      },
+      {
+        "text": "Review of collected data for quality and completeness",
+        "isCorrect": false
+      },
+      {
+        "text": "Validation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false: Plotting a data collection tool should be done under supervision",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Supervised pretesting ensures quality.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All of the following are true about a 'question by question guide', except",
+    "options": [
+      {
+        "text": "It is a document for the data collectors",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps in maintaining uniformity of the data collection",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps participants on how to respond",
+        "isCorrect": true
+      },
+      {
+        "text": "It clarifies doubts on data collection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The guide is for data collectors, not participants.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Time pressure during data collection may result in dilution of the data quality",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Same as earlier.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which one of the following is the proper way of validating the data?",
+    "options": [
+      {
+        "text": "Repetition of full data collection in the same population",
+        "isCorrect": false
+      },
+      {
+        "text": "Data collection in a new population",
+        "isCorrect": false
+      },
+      {
+        "text": "Repetition of data collection in a randomly selected subset in the same population",
+        "isCorrect": true
+      },
+      {
+        "text": "Repeat data collection not required",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Validation by repeat in a subset.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following statement is true regarding data collection for an epidemiological study?",
+    "options": [
+      {
+        "text": "Reliability refers to consistency of information",
+        "isCorrect": false
+      },
+      {
+        "text": "Accuracy is the ability of a measurement to be correct on an average",
+        "isCorrect": false
+      },
+      {
+        "text": "Both 'a' and 'b'",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Both are correct.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Who is mainly responsible to check the accuracy of data collection instruments before leaving the location?",
+    "options": [
+      {
+        "text": "Field investigator",
+        "isCorrect": false
+      },
+      {
+        "text": "Field supervisor",
+        "isCorrect": true
+      },
+      {
+        "text": "Principal investigator",
+        "isCorrect": false
+      },
+      {
+        "text": "Study participant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The field supervisor is typically responsible for on-site checks.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following statements are true about training of the data collectors, except",
+    "options": [
+      {
+        "text": "Essential to ensure good quality data",
+        "isCorrect": false
+      },
+      {
+        "text": "The investigators should choose the right people",
+        "isCorrect": false
+      },
+      {
+        "text": "Communication skill is important for the data collectors",
+        "isCorrect": false
+      },
+      {
+        "text": "Online training is not essential for data collectors",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Online training can be essential; it depends on context, but it is not universally non-essential.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The ability of an instrument to produce similar results on repeated measurement is called",
+    "options": [
+      {
+        "text": "Validity",
+        "isCorrect": false
+      },
+      {
+        "text": "Reliability",
+        "isCorrect": true
+      },
+      {
+        "text": "Accuracy",
+        "isCorrect": false
+      },
+      {
+        "text": "Sensitivity",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Reliability = reproducibility.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The mean value of fasting blood sugar among 50 healthy volunteers in a community was found to be 90 g/dL with a standard deviation of 5 mg/dL using a new diagnostic test. In the same volunteers, the gold standard test found a mean of 88 g/dL with standard deviation of 4.7 g/dL. What can be said about the new diagnostic test?",
+    "options": [
+      {
+        "text": "The new diagnostic test is valid",
+        "isCorrect": false
+      },
+      {
+        "text": "The new diagnostic test is reliable",
+        "isCorrect": true
+      },
+      {
+        "text": "The new diagnostic test is valid and reliable",
+        "isCorrect": false
+      },
+      {
+        "text": "The new diagnostic test is invalid and unreliable",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The new test gives similar results to the gold standard (close mean, similar SD), suggesting reliability but validity is about agreement with true value.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is NOT used as a criterion to judge the quality of data collected in a study?",
+    "options": [
+      {
+        "text": "Accuracy",
+        "isCorrect": false
+      },
+      {
+        "text": "Repeatability",
+        "isCorrect": false
+      },
+      {
+        "text": "Precision",
+        "isCorrect": false
+      },
+      {
+        "text": "External validity",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "External validity is about generalizability, not directly about data quality.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following should NOT be done during data collection in a study?",
+    "options": [
+      {
+        "text": "Referring to the data collection guide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false. Accuracy of an instrument is the ability to measure what it intends to measure.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "That is the definition of validity, but often accuracy is used synonymously.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is the correct sequence of steps of data collection?",
+    "options": [
+      {
+        "text": "Preparation of data collection guide, Training of the data collector, Checking the collected data for completeness, Validating the collected data",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true and false. A data collection guidebook can be revised time to time as issues in the data collection process are identified.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Iterative improvement is acceptable.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following should NOT be done during training of data collectors?",
+    "options": [
+      {
+        "text": "Simulating the data collection procedure",
+        "isCorrect": false
+      },
+      {
+        "text": "Discussing the study objectives with them",
+        "isCorrect": false
+      },
+      {
+        "text": "Using an early version of the questionnaire for training",
+        "isCorrect": true
+      },
+      {
+        "text": "Reviewing the question guide according to queries",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Training should use the final version, not an early draft.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following does NOT apply in checking the quality of filled forms during data collection?",
+    "options": [
+      {
+        "text": "Completeness",
+        "isCorrect": false
+      },
+      {
+        "text": "Consistency",
+        "isCorrect": false
+      },
+      {
+        "text": "Readability",
+        "isCorrect": false
+      },
+      {
+        "text": "Statistical significance",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Statistical significance is not a quality check for individual forms.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "During data collection in a study, a data collector is faced with a situation where the participant refuses to answer a particular question in the middle of the interview. What is the appropriate action in this situation?",
+    "options": [
+      {
+        "text": "End the interview and report to the investigator",
+        "isCorrect": false
+      },
+      {
+        "text": "Continue the interview with the remaining questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Seek the answer to that question from family members",
+        "isCorrect": false
+      },
+      {
+        "text": "Try to persuade the participant to answer the question somehow",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Respect participant's refusal and continue with remaining questions.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Steps in data management include",
+    "options": [
+      {
+        "text": "Defining a variable, creating a study database and dictionary",
+        "isCorrect": false
+      },
+      {
+        "text": "Enter data, correct errors and create data set for analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Backup and archive data set",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are essential steps.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "When we are creating variable name, it should be",
+    "options": [
+      {
+        "text": "Clearly understandable and should refer to the questionnaire",
+        "isCorrect": false
+      },
+      {
+        "text": "Long and can have spaces",
+        "isCorrect": false
+      },
+      {
+        "text": "Consistent and without duplicates",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"c\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Variable names should be clear, consistent, and without spaces.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In a data management system, each row represents a",
+    "options": [
+      {
+        "text": "Variable",
+        "isCorrect": false
+      },
+      {
+        "text": "Record",
+        "isCorrect": true
+      },
+      {
+        "text": "Heading",
+        "isCorrect": false
+      },
+      {
+        "text": "Appendix",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Each row is a record (observation).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is (are) the specifications that we need to check before doing data entry?",
+    "options": [
+      {
+        "text": "Minimum and maximum values, legal codes, skip patterns",
+        "isCorrect": false
+      },
+      {
+        "text": "Record name and description of record",
+        "isCorrect": false
+      },
+      {
+        "text": "Automatic coding, coping data from preceding record and calculations",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"c\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Range checks, skip patterns, and automated features should be verified.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Identify in the database is (are)",
+    "options": [
+      {
+        "text": "Unique",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintained by a computerized index",
+        "isCorrect": false
+      },
+      {
+        "text": "Secured by quality assurance procedures",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Identifiers must be unique, indexed, and protected.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Key elements of data management",
+    "options": [
+      {
+        "text": "Data structure and data entry",
+        "isCorrect": false
+      },
+      {
+        "text": "Individual and aggregated databases",
+        "isCorrect": false
+      },
+      {
+        "text": "Mother and daughter databases",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are important.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "The design of data collection instrument",
+    "options": [
+      {
+        "text": "Data entry friendly",
+        "isCorrect": false
+      },
+      {
+        "text": "Outline of major data collection topics/times",
+        "isCorrect": false
+      },
+      {
+        "text": "Auto coding function",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All facilitate smooth data management.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "When we are coding for data entry, we should",
+    "options": [
+      {
+        "text": "Refer numerical coding",
+        "isCorrect": false
+      },
+      {
+        "text": "Use highly complex codes",
+        "isCorrect": false
+      },
+      {
+        "text": "Decide on the codes for \"missing values\" and \"not applicable\" items",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"c\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Use numeric codes and specify missing/NA codes.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "When information is available at various levels (e.g. at Village, Household, Individual and others, etc.), we can store information at each level in separate databases and link when necessary",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Normalized databases are linked.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is (are) not true about normalized database?",
+    "options": [
+      {
+        "text": "Normalized database facilitates further aggregation",
+        "isCorrect": false
+      },
+      {
+        "text": "It has only one count by record",
+        "isCorrect": false
+      },
+      {
+        "text": "Normalized database does not facilitate further data aggregation",
+        "isCorrect": true
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Normalized databases facilitate aggregation.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "A postgraduate researcher has completed the data collection for her thesis. During data management, she should do all the following, except",
+    "options": [
+      {
+        "text": "Applying for the ethics committee clearance",
+        "isCorrect": true
+      },
+      {
+        "text": "Create study database",
+        "isCorrect": false
+      },
+      {
+        "text": "Create dataset for analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Back-up dataset",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethics clearance should be obtained before data collection, not after.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Data documentation includes information about the following items",
+    "options": [
+      {
+        "text": "Structure (Name, number of records etc.) alone",
+        "isCorrect": false
+      },
+      {
+        "text": "Storage information (Media, location, backup information)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a study on cancer, the \"stage of cancer\" was recorded as Stage I, Stage II, Stage III and Stage IV. Which of the following variable types best describes the \"stage of cancer\"?",
+    "options": [
+      {
+        "text": "Nominal",
+        "isCorrect": false
+      },
+      {
+        "text": "Ordinal",
+        "isCorrect": true
+      },
+      {
+        "text": "Categorical",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stage has a natural order (ordinal).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In a study with 100 participants, age was recorded as a continuous variable. During data entry, it was seen that age was missing in the forms for 11 people. Which of the following is TRUE in this situation?",
+    "options": [
+      {
+        "text": "Missing values can be coded as \"999\"",
+        "isCorrect": true
+      },
+      {
+        "text": "Age variable should be removed from the study",
+        "isCorrect": false
+      },
+      {
+        "text": "An arbitrary value can be assigned by the data entry operator",
+        "isCorrect": false
+      },
+      {
+        "text": "Participants with missing age should be removed from the study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Missing values are coded as a special value (e.g., 999) for later handling.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. While entering the systolic blood pressure (expected value 40 to 200) value in a database, coding the missing value as 99 may lead to an erroneous result.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "99 is within the possible range and would be mistaken as a real value; use a code outside range.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "The three stages of data analysis are in the following order",
+    "options": [
+      {
+        "text": "Descriptive stage, analytical stage and recording stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Recording stage, descriptive stage and analytical stage",
+        "isCorrect": true
+      },
+      {
+        "text": "Analytical stage, descriptive stage and recording stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Descriptive stage, coding stage, recording stage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "First record/clean data, then describe, then analyze.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "We need to avoid the following while performing data analysis",
+    "options": [
+      {
+        "text": "Post hoc analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Data drenching",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratified data analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Post hoc and data drenching (overanalyzing) are problematic; stratified analysis is valid.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In the descriptive stage of analysis, we use logistic regression models",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Logistic regression is used in analytical stage, not descriptive.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "\"Exp-Info\" is a software used for data entry and data analysis",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Epi Info is a software package for data entry and analysis.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In analytical stage of data analysis, we perform the following in order",
+    "options": [
+      {
+        "text": "Stratified analysis, univariate analysis and multivariate analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Univariate analysis, stratified analysis and multivariate analysis",
+        "isCorrect": true
+      },
+      {
+        "text": "Multivariate analysis, univariate analysis and stratified analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Frequency analysis and univariate analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typically: univariate → bivariate/stratified → multivariate.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Among the seven steps of data analysis strategy, the sequence of data analysis is as follows\nA. Conduct advanced analysis\nB. Identify main variables\nC. Become familiar with the data\nD. Identify study type",
+    "options": [],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In case of descriptive studies, which of the following is wrong?",
+    "options": [
+      {
+        "text": "We describe the study outcome for 1 group",
+        "isCorrect": false
+      },
+      {
+        "text": "We compare the study outcome for 2 groups",
+        "isCorrect": true
+      },
+      {
+        "text": "We calculate the incidence for cohort or surveillance data",
+        "isCorrect": false
+      },
+      {
+        "text": "We calculate prevalence for cross sectional survey",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Descriptive studies do not compare groups.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "If we are doing an analytical study and the study outcome is of acute nature and rare condition what is the appropriate (i) study design and (ii) measure of association?",
+    "options": [
+      {
+        "text": "Cohort study - Relative risk",
+        "isCorrect": false
+      },
+      {
+        "text": "Case-control study - Odds ratio",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-sectional study - Prevalence ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "Surveillance - Incidence",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Case-control is efficient for rare outcomes; OR is the measure.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Analysis plan depends on",
+    "options": [
+      {
+        "text": "Objectives of the study",
+        "isCorrect": false
+      },
+      {
+        "text": "Budget",
+        "isCorrect": false
+      },
+      {
+        "text": "Study type (Descriptive or analytical)",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"c\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Analysis plan is guided by objectives and study type.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Use of spreadsheets, such as Excel, should be avoided for data management and analysis",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Spreadsheets can lead to errors; dedicated statistical software is preferred.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Multivariate regression models are used during the descriptive stage of analysis",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Multivariate models are analytical.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. Hypothesis testing is conducted in an analytical epidemiological study.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Analytical studies test hypotheses.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Identify the correct sequence in the steps of data analysis.\nI. Identify exposure, outcome and other variables.\nII. Check data for consistency, duplicates and missing values.\nIII. Examine association between outcome and exposure.\nIV. Examine baseline characteristics of the study population.",
+    "options": [
+      {
+        "text": "I, II, III, IV",
+        "isCorrect": false
+      },
+      {
+        "text": "I, II, IV, III",
+        "isCorrect": false
+      },
+      {
+        "text": "II, I, IV, III",
+        "isCorrect": false
+      },
+      {
+        "text": "I, II, IV, III",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is NOT done during the analytic stage of data analysis?",
+    "options": [
+      {
+        "text": "Calculating frequency of the outcome in one group",
+        "isCorrect": true
+      },
+      {
+        "text": "Calculating frequency of the outcome by age and gender",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculating odds ratio between exposure and outcome",
+        "isCorrect": false
+      },
+      {
+        "text": "Applying logistic regression",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Simple frequency is descriptive; analytic stage involves measures of association and modeling.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Relative risk is calculated in which of the following study designs?",
+    "options": [
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": true
+      },
+      {
+        "text": "Case study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case control study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "RR is used in cohort studies.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false. Risk ratios can be calculated in a descriptive cross-sectional study.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Risk ratios require incidence data; cross-sectional studies measure prevalence, so prevalence ratios can be used, but not risk ratios.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In a case-control study to examine the association between mobile phone use and brain tumor, the odds ratio was found to be 6.0. What is the correct interpretation?",
+    "options": [
+      {
+        "text": "Odds ratio 1.5",
+        "isCorrect": false
+      },
+      {
+        "text": "Relative risk 1.5",
+        "isCorrect": false
+      },
+      {
+        "text": "Odds ratio 6",
+        "isCorrect": false
+      },
+      {
+        "text": "Relative risk 6",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In a case control conducted taking 100 autism children and 200 normal children in Bhopal city, it was found that 90 autism children and 60 normal children had a history of instrumental delivery. Calculate the measure of association between instrumental delivery and autism.",
+    "options": [
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "21",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Odds ratio = (90/10) / (60/140) = 9 / 0.4286 = 21? Wait recalc: Odds cases = 90/10 = 9; odds controls = 60/140 = 0.4286; OR = 9/0.4286 = 21. So answer 21.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In which of the following guidelines, discussion on rationale and justification of risk benefit analysis of research and voluntary consent in research was initiated?",
+    "options": [
+      {
+        "text": "Belmont report",
+        "isCorrect": false
+      },
+      {
+        "text": "Helsinki declaration",
+        "isCorrect": false
+      },
+      {
+        "text": "Nuremberg code",
+        "isCorrect": true
+      },
+      {
+        "text": "CIOMS guidelines",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Nuremberg Code (1947) first emphasized voluntary consent and risk/benefit.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In which type of the following study/studies is (are) informed consent not necessary?",
+    "options": [
+      {
+        "text": "Investigation of an outbreak",
+        "isCorrect": false
+      },
+      {
+        "text": "Analysis of mortality data of 2001-2010",
+        "isCorrect": false
+      },
+      {
+        "text": "Using verbal autopsy to determine the cause of death",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Outbreak investigation may be public health emergency; secondary data and verbal autopsy may be exempt if de-identified.",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In which of the following type of research, ethical review is (are) mandatory?",
+    "options": [
+      {
+        "text": "Prevalence of HIV infection using blood investigation",
+        "isCorrect": false
+      },
+      {
+        "text": "Awareness about diabetes using questionnaire only",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculate out of pocket expenditure using secondary data",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All involve human participants or data; ethical review is mandatory.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is not important in the context of an informed consent document?",
+    "options": [
+      {
+        "text": "Detailed description of study procedures",
+        "isCorrect": false
+      },
+      {
+        "text": "Budget of the study",
+        "isCorrect": true
+      },
+      {
+        "text": "Details regarding compensation and post-trial access to care",
+        "isCorrect": false
+      },
+      {
+        "text": "Contact details of the Principal Investigator",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Budget is not required in the consent document.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In the middle of a clinical trial, one participant decides to withdraw from the trial. But, the investigator pressures the participant to continue in the study till it completes. Which of the following ethical principles does the investigator violate?",
+    "options": [
+      {
+        "text": "Justice",
+        "isCorrect": false
+      },
+      {
+        "text": "Autonomy",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Autonomy includes right to withdraw without pressure.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In which of the following situations is ethics review essential?",
+    "options": [
+      {
+        "text": "When already available or archived data are used for research",
+        "isCorrect": false
+      },
+      {
+        "text": "Involving some risk when some questions are asked, some samples are collected or some drugs are given",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": true
+      },
+      {
+        "text": "Only \"b\"",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Both situations may require ethics review; even secondary data may need review if identifiable.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A study participant can be forced by the investigator to continue in a trial against his will. This is in conflict with which of the following ethical principles?",
+    "options": [
+      {
+        "text": "Autonomy",
+        "isCorrect": true
+      },
+      {
+        "text": "Justice",
+        "isCorrect": false
+      },
+      {
+        "text": "Beneficence",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Autonomy ensures voluntary participation.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The physician should do what is medically indicated, do good than possible harm. This principle is encompassed in the ethical dimension of:",
+    "options": [
+      {
+        "text": "Beneficence",
+        "isCorrect": true
+      },
+      {
+        "text": "Justice",
+        "isCorrect": false
+      },
+      {
+        "text": "Nonmaleficence",
+        "isCorrect": false
+      },
+      {
+        "text": "Autonomy",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Beneficence is doing good; nonmaleficence is avoiding harm. Here both are implied, but \"do good\" is beneficence.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Study monitors, regulators and ethics committee members have an authority to verify the consent documentation of research participants.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "They have the right to audit consent documents.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is not true about an informed consent?",
+    "options": [
+      {
+        "text": "It helps participants take an informed decision about participation in the research study",
+        "isCorrect": false
+      },
+      {
+        "text": "It has information on potential risks and benefits of the study",
+        "isCorrect": false
+      },
+      {
+        "text": "It process intends to protect the study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "It taken by coercion is considered valid",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Coerced consent is invalid.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following have the guidance in the Belmont report?",
+    "options": [
+      {
+        "text": "The procedure of \"informed consent\"",
+        "isCorrect": false
+      },
+      {
+        "text": "The basic ethics principles of autonomy, justice and beneficence",
+        "isCorrect": false
+      },
+      {
+        "text": "Review by ethics committee",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Belmont report outlines principles and informed consent.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is typically not within the domain of ethical review of the proposed research?",
+    "options": [
+      {
+        "text": "Novelty of research",
+        "isCorrect": false
+      },
+      {
+        "text": "Competence of researchers",
+        "isCorrect": false
+      },
+      {
+        "text": "Relevance of research",
+        "isCorrect": false
+      },
+      {
+        "text": "To advocate for the study in the community",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Advocacy is not an ethical review function; ethics review focuses on protection.",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "The process of informed consent can be repeated several times during the research study if necessary.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Re-consent may be needed if new information arises.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "As part of evaluation of a new vaccine which requires taking a daily oral dose of a reinfected vaccine, the research team offers to provide a refrigerator to families of participants who don't have one. Which of the following ethical issues the Institutional Ethics Committee will have to deal with while reviewing the research study?",
+    "options": [
+      {
+        "text": "Undue inducement",
+        "isCorrect": true
+      },
+      {
+        "text": "Coercion",
+        "isCorrect": false
+      },
+      {
+        "text": "Compromising principle of justice",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Providing valuable goods may unduly influence participation.",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In an observational study on menstrual hygiene among school going girls aged 14 to 16 years, informed assent will be required to be taken from the adolescent girls. In addition, consent from parents/guardians is also required.",
+    "options": [],
+    "explanation": "",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. Once a participant has provided informed consent, it cannot be withdrawn.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Participants can withdraw consent at any time.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of these is NOT a part of informed consent process?",
+    "options": [
+      {
+        "text": "Confidentiality",
+        "isCorrect": false
+      },
+      {
+        "text": "Disclosures of risks and benefits",
+        "isCorrect": false
+      },
+      {
+        "text": "Compensation for lost wages",
+        "isCorrect": false
+      },
+      {
+        "text": "Encouraging the person to consent",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Encouragement (coercion) is not part of proper consent.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following statement is NOT correct?",
+    "options": [
+      {
+        "text": "Compensation for participants is offered for trial related injury",
+        "isCorrect": false
+      },
+      {
+        "text": "Research participants can be paid for travel expenses",
+        "isCorrect": false
+      },
+      {
+        "text": "Payment can be offered to encourage participation",
+        "isCorrect": true
+      },
+      {
+        "text": "Wage loss of the participants can be compensated",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Payment to encourage participation may be undue inducement.",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is NOT a responsibility of the institutional Ethics Committee?",
+    "options": [
+      {
+        "text": "Evaluate the potential benefit from the study to the community",
+        "isCorrect": false
+      },
+      {
+        "text": "Protect the rights of the study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanction funding for the study",
+        "isCorrect": true
+      },
+      {
+        "text": "Re-evaluate the study if and when modified",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethics committee does not sanction funding.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "When a particular ethnic group is excluded from a research study without any valid, scientific reasons, this is breach of:",
+    "options": [
+      {
+        "text": "Autonomy",
+        "isCorrect": false
+      },
+      {
+        "text": "Justice",
+        "isCorrect": true
+      },
+      {
+        "text": "Beneficence",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-maleficence",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Justice requires fair distribution of burdens and benefits.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A study design that randomly assigns participants into an experimental group or a control group is called as",
+    "options": [
+      {
+        "text": "Cohort study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomized controlled trial",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "RCT involves random assignment.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statements is (are) true in case of adverse events in a clinical trial?",
+    "options": [
+      {
+        "text": "An unexpected clinical/familial/social problem that occurs during treatment with a drug or other therapy is termed as adverse event",
+        "isCorrect": false
+      },
+      {
+        "text": "Adverse events do not have to be caused by the drug or therapy under trial",
+        "isCorrect": false
+      },
+      {
+        "text": "Temporal relationship between study product administration and adverse events is critically important",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All statements are correct definitions.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "To ensure that safety and welfare of the research participants is adequately protected, it is important that the clinical trial protocol is critically reviewed for the following",
+    "options": [
+      {
+        "text": "Scientific content",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethical issues",
+        "isCorrect": false
+      },
+      {
+        "text": "Regulatory norms",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All reviews are necessary.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Informed consent is provided after explanation of",
+    "options": [
+      {
+        "text": "All study procedures",
+        "isCorrect": false
+      },
+      {
+        "text": "Risks",
+        "isCorrect": false
+      },
+      {
+        "text": "Benefits",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Consent requires full disclosure.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Bodies like Drug Controller General of India (DCGI) and Health Ministry Screening Committee (HMSC) are concerned with the following",
+    "options": [
+      {
+        "text": "Regulatory review",
+        "isCorrect": true
+      },
+      {
+        "text": "Scientific review",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethics review",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "These are regulatory bodies.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is (are) monitored in a clinical trial?",
+    "options": [
+      {
+        "text": "Adherence to Good Clinical Practice (GCP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Documentation of informed consent, randomization and study product administration",
+        "isCorrect": false
+      },
+      {
+        "text": "Adverse events reporting",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are monitored.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The primary responsibilities of the Data Safety Monitoring Body (DSMB) are to",
+    "options": [
+      {
+        "text": "Periodically review and evaluate the accumulated study data for participant safety, study conduct and progress of trial",
+        "isCorrect": false
+      },
+      {
+        "text": "Periodically review and evaluate the accumulated study data for participant safety, study conduct and progress and make recommendation concerning the continuation, modification, or termination of the trial",
+        "isCorrect": true
+      },
+      {
+        "text": "Periodically make recommendations concerning the continuation, modification, or termination of the trial",
+        "isCorrect": false
+      },
+      {
+        "text": "Decide the randomization sequence",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DSMB reviews and recommends.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following best describes the advantages of conducting a Randomized controlled trial?",
+    "options": [
+      {
+        "text": "It is only effective design for overcoming selection bias of participants",
+        "isCorrect": true
+      },
+      {
+        "text": "The result can be readily generalized",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a simple, uncomplicated and nonregulated study design",
+        "isCorrect": false
+      },
+      {
+        "text": "It requires small sample size",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "RCT is the best design to reduce selection bias.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "When is the informed consent obtained from the subjects in a clinical trial?",
+    "options": [
+      {
+        "text": "Prior to participation in the trial",
+        "isCorrect": true
+      },
+      {
+        "text": "Just after the trial has started",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Consent must be obtained before any study procedures.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Investigators are required to report adverse events occurring during a clinical trial to which of the following agencies?",
+    "options": [
+      {
+        "text": "Regulatory authority",
+        "isCorrect": false
+      },
+      {
+        "text": "Sponsor",
+        "isCorrect": false
+      },
+      {
+        "text": "Institutional Ethics Committee",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All must be informed.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A method of allocating treatment such that each subject has an equal chance of receiving any of the possible treatments in a clinical trial is known as:",
+    "options": [
+      {
+        "text": "Blinding",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomization",
+        "isCorrect": true
+      },
+      {
+        "text": "Allocation concealment",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Randomization ensures equal chance.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statements regarding document storage and archival after the conclusion of a trial, is correct?",
+    "options": [
+      {
+        "text": "If the data is computerized, there is no need to archive paper based records.",
+        "isCorrect": false
+      },
+      {
+        "text": "The investigator has a right to refuse to show the data even to regulatory authorities",
+        "isCorrect": false
+      },
+      {
+        "text": "Archival for a period of 5 - 15 years as per the requirement of the sponsor may be necessary",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Archival is required for a specified period.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is not true?",
+    "options": [
+      {
+        "text": "Data Safety Monitoring Body (DSMB) is an independent entity.",
+        "isCorrect": false
+      },
+      {
+        "text": "DSMB is appointed by the investigators",
+        "isCorrect": true
+      },
+      {
+        "text": "DSMB periodically reviews and evaluates the accumulated study data for participants' safety",
+        "isCorrect": false
+      },
+      {
+        "text": "DSMB assures that the scientific integrity of the trial is maintained during the period of interim analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "DSMB is independent, not appointed by investigators.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "An unexpected clinical/familial/social problem that occurs while on treatment with a drug or other therapy during participation in a clinical trial without any judgment about causality or relationship to the drug is known as:",
+    "options": [
+      {
+        "text": "Serious adverse event",
+        "isCorrect": false
+      },
+      {
+        "text": "Adverse event",
+        "isCorrect": true
+      },
+      {
+        "text": "Reportable event",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adverse event (AE) is any untoward occurrence without causality assessment.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Clinical trials require review at various levels as per the in-country guidelines. State whether true or false.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multiple reviews are required.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The most common method of preventing potential harm to study participants is by adhering to trial stoppage rules based on evidence on unacceptable toxicity or adverse effects rates seen during monitoring. State whether true or false.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Stoppage rules protect participants.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is true about screening protocol of a clinical trial?",
+    "options": [
+      {
+        "text": "Those who are interested in participating in the trial participate in an interview may have to undergo medical examination",
+        "isCorrect": false
+      },
+      {
+        "text": "Eligibility of the potential participant is determined in screening",
+        "isCorrect": false
+      },
+      {
+        "text": "Information on study related procedures and inclusion and exclusion criteria are provided by the study investigators to the potential participants",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above three statements are true",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above is true",
+        "isCorrect": false
+      },
+      {
+        "text": "Only 'a' is true",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "All statements are correct.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Reimbursements for which of the following raise no ethical questions?",
+    "options": [
+      {
+        "text": "Compensating for the time spent in coming over and the loss of daily wages due to participation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following statements is wrong?",
+    "options": [
+      {
+        "text": "Drug Controller General of India is a Regulatory Authority in India",
+        "isCorrect": false
+      },
+      {
+        "text": "Institutional Governing Board is responsible for scientific review of projects",
+        "isCorrect": true
+      },
+      {
+        "text": "Institutional Ethics Committee is responsible for ethics review of a proposal",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Scientific review is typically by a scientific committee, not the governing board.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following are NOT methods for identifying and preventing potential harm to study participants?",
+    "options": [
+      {
+        "text": "Adverse and serious adverse events reporting",
+        "isCorrect": false
+      },
+      {
+        "text": "Periodic review of the project by Data Safety Monitoring Board",
+        "isCorrect": false
+      },
+      {
+        "text": "Close watch on enrolment targets",
+        "isCorrect": true
+      },
+      {
+        "text": "Regular monitoring of the trial by a pre-identified monitoring agency",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Enrolment targets are not directly a harm prevention method.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "State whether true or false. The scientific advisory committee examines the safety and welfare of the research participants in a trial.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Safety and welfare are the responsibility of ethics committee and DSMB, not scientific advisory committee.",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "If the project is getting funded internationally, which of the following committees looks at the regulatory affairs?",
+    "options": [
+      {
+        "text": "Health ministry screening committee",
+        "isCorrect": true
+      },
+      {
+        "text": "Genetic engineering approval committee",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethics committee",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Health Ministry Screening Committee (HMSC) reviews international funded projects in India.",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "State whether true or false. In order for a clinical trial to be ethically appropriate, participants must give their informed voluntary consent.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Informed voluntary consent is a cornerstone of ethical research.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is FALSE with regard to data analysis in clinical trials?",
+    "options": [
+      {
+        "text": "Baseline characteristics of participants should be compared across study arms",
+        "isCorrect": false
+      },
+      {
+        "text": "Interim analysis can be performed if pre-stated in the protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "Analyses in clinical trials are only descriptive in nature",
+        "isCorrect": true
+      },
+      {
+        "text": "People who are lost to follow up can be included in the analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Clinical trials involve analytical (inferential) analysis, not just descriptive.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is FALSE when dealing with serious adverse events in a clinical trial?",
+    "options": [
+      {
+        "text": "Making provision for free treatment",
+        "isCorrect": false
+      },
+      {
+        "text": "Informing the regulatory authorities",
+        "isCorrect": false
+      },
+      {
+        "text": "Taking action only if 1% are affected by the adverse events",
+        "isCorrect": true
+      },
+      {
+        "text": "Withdrawing the implicated intervention for the affected",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Any serious adverse event requires action regardless of percentage.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A trial can be pre-maturely stopped if",
+    "options": [
+      {
+        "text": "A significant unanticipated risk is demonstrated",
+        "isCorrect": true
+      },
+      {
+        "text": "The investigators lose interest",
+        "isCorrect": false
+      },
+      {
+        "text": "The principal investigator retires",
+        "isCorrect": false
+      },
+      {
+        "text": "Minor adverse events are reported",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Safety concerns are a valid reason to stop.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Data Safety Monitoring Body (DSMB) is primarily responsible for which of the following?",
+    "options": [
+      {
+        "text": "Periodically review and evaluate the accumulated study data for participant safety",
+        "isCorrect": false
+      },
+      {
+        "text": "Periodically review and evaluate the study conduct and progress",
+        "isCorrect": false
+      },
+      {
+        "text": "Make recommendations concerning the continuation, modification, or termination of a clinical trial",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "DSMB covers all these.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "If there are many study objectives, it may be necessary to differentiate the objectives into primary and secondary or general and specific objectives",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Differentiation helps focus.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which among the following is not a component of concept paper?",
+    "options": [
+      {
+        "text": "Background and justification",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives and Methods",
+        "isCorrect": false
+      },
+      {
+        "text": "Expected benefits, Key references and budget",
+        "isCorrect": false
+      },
+      {
+        "text": "Conclusion",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Concept paper typically does not include a conclusion section.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is NOT true about references in the concept paper?",
+    "options": [
+      {
+        "text": "We can cite references in Introduction and Methods section",
+        "isCorrect": false
+      },
+      {
+        "text": "It is important to write references following standard guidelines",
+        "isCorrect": false
+      },
+      {
+        "text": "Statements should be linked to references",
+        "isCorrect": false
+      },
+      {
+        "text": "We can have as many references as possible",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "References should be relevant, not unlimited.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The \"Background and justification\" section in the concept paper should be written in the following sequence",
+    "options": [
+      {
+        "text": "Known and unknown aspects of the problem, information that needs to be generated to address the problem in an effective manner and statements of objectives",
+        "isCorrect": false
+      },
+      {
+        "text": "Known and unknown aspects of the problem, importance of the study problem and information that needs to be generated to address the problem in an effective manner",
+        "isCorrect": false
+      },
+      {
+        "text": "Importance of the study problem, known and unknown aspects of the problem and information that needs to be generated to address the problem in an effective manner",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Typically start with importance, then known/unknown, then gap.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Advantages of writing a concept paper include",
+    "options": [
+      {
+        "text": "You may be able to organize your ideas",
+        "isCorrect": false
+      },
+      {
+        "text": "It gives an opportunity to stand out and receive a positive response from reviewers",
+        "isCorrect": false
+      },
+      {
+        "text": "You are sure to get funding",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Concept paper helps organize and get feedback, but does not guarantee funding.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The elements of the methods section in the concept proposal needs to be adopted according to the study design chosen",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methods are design-specific.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The ethics section of the concept proposal should include information about",
+    "options": [
+      {
+        "text": "Key measures taken to protect the study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "The ethics committee to which the study will be submitted for approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Scientific committee that will review the study",
+        "isCorrect": false
+      },
+      {
+        "text": "\"a\" and \"b\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Ethics section focuses on protection and submission.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following needs to be spelled out in \"Expected benefits\" section of the concept proposal?",
+    "options": [
+      {
+        "text": "Expected outputs that the study will generate with timeline",
+        "isCorrect": false
+      },
+      {
+        "text": "Proposed immediate action based on research findings",
+        "isCorrect": false
+      },
+      {
+        "text": "How this research may set agenda for further research",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are relevant.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Budget estimate is not mandatory in the concept proposals. However, it would be very useful to prepare the indicative budget for key items",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Indicative budget is helpful.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "While writing the concept papers for intervention studies, the methods section must have the following details",
+    "options": [
+      {
+        "text": "Primary and secondary outcome definitions",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomization, sequence allocation and allocation concealment",
+        "isCorrect": false
+      },
+      {
+        "text": "Dose, frequency, nature of intervention",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are essential for intervention studies.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Immediately after identification of research topic and statement of objectives, it may be preferable to",
+    "options": [
+      {
+        "text": "Write protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "Outline one-page concept paper",
+        "isCorrect": true
+      },
+      {
+        "text": "Prepare dummy tables as per the analysis plan",
+        "isCorrect": false
+      },
+      {
+        "text": "Seek review by an institutional ethics committee",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A concept paper helps refine ideas before full protocol.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "References need to be written following standard guidelines such as International Committee of Medical Journal Editors (ICMJE)",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Standard citation style is required.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is the guideline that can be used for drafting protocols for a clinical trial?",
+    "options": [
+      {
+        "text": "SPIRIT",
+        "isCorrect": true
+      },
+      {
+        "text": "PRISMA",
+        "isCorrect": false
+      },
+      {
+        "text": "CARE",
+        "isCorrect": false
+      },
+      {
+        "text": "STROBE",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "SPIRIT is for trial protocols; PRISMA for systematic reviews; CARE for case reports; STROBE for observational studies.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Why is concept paper necessary for a research project?",
+    "options": [
+      {
+        "text": "It helps to finish the data collection rapidly",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps to organize the ideas",
+        "isCorrect": true
+      },
+      {
+        "text": "It helps to get instant approval of ethics committee",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps to publish the research quickly",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concept paper helps organize ideas and get feedback.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following components are included in the background and justification section of the concept paper?",
+    "options": [
+      {
+        "text": "Context of the study problem",
+        "isCorrect": true
+      },
+      {
+        "text": "Operational definitions",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling technique",
+        "isCorrect": false
+      },
+      {
+        "text": "Study procedure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Background includes context, not operational details.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following information is not addressed in the ethics section of the concept paper?",
+    "options": [
+      {
+        "text": "Information about sample and data storage",
+        "isCorrect": false
+      },
+      {
+        "text": "Key measures taken to protect the study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "The ethics committee to which the study will be submitted for approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Budget for salary of the project staff",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Budget is not part of ethics section.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is a component of concept paper?",
+    "options": [
+      {
+        "text": "Abstract",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives and Methods",
+        "isCorrect": true
+      },
+      {
+        "text": "Conclusion",
+        "isCorrect": false
+      },
+      {
+        "text": "Discussion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Objectives and Methods are core components.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is the basis for writing a one page concept paper?",
+    "options": [
+      {
+        "text": "Lack of time to draft a complete protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "Overcomes inhibitions in drafting a complete protocol",
+        "isCorrect": true
+      },
+      {
+        "text": "It is mandatory for scientific committee protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "For ethics committee approval",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It helps overcome inertia in starting a full protocol.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The indicative budget in a concept paper includes salaries, per diem, travel, equipment and supplies",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "These are typical budget items.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The concept paper helps agencies for",
+    "options": [
+      {
+        "text": "Screening the proposal for funding",
+        "isCorrect": true
+      },
+      {
+        "text": "Scientific committee approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethics committee approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Publishing the manuscript",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concept papers are used for initial funding screening.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is NOT included in the background section of a concept paper?",
+    "options": [
+      {
+        "text": "Importance of a health problem",
+        "isCorrect": false
+      },
+      {
+        "text": "Known fact about the health problem",
+        "isCorrect": false
+      },
+      {
+        "text": "Prior contribution of the researcher in the topic",
+        "isCorrect": true
+      },
+      {
+        "text": "Knowledge gap in that topic",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prior contribution is not typically part of background; it's more about the problem, not the researcher.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The methods section of the concept paper contains the following:",
+    "options": [
+      {
+        "text": "Key operational definitions",
+        "isCorrect": true
+      },
+      {
+        "text": "Conclusions",
+        "isCorrect": false
+      },
+      {
+        "text": "Context of study",
+        "isCorrect": false
+      },
+      {
+        "text": "Novelty of the study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methods include operational definitions.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following best describes the 'Typical Benefits' section of a concept paper?",
+    "options": [
+      {
+        "text": "Financial benefit to the funding agency",
+        "isCorrect": false
+      },
+      {
+        "text": "Policy changes based on the study findings",
+        "isCorrect": true
+      },
+      {
+        "text": "Financial benefit to the researcher",
+        "isCorrect": false
+      },
+      {
+        "text": "Academic improvement of the researchers",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Benefits are typically scientific, policy, or health outcomes.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following are components of a concept paper?",
+    "options": [
+      {
+        "text": "Study title and references",
+        "isCorrect": false
+      },
+      {
+        "text": "Study title, abstract and references",
+        "isCorrect": true
+      },
+      {
+        "text": "Abstract and references",
+        "isCorrect": false
+      },
+      {
+        "text": "Study title, results and references",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concept paper includes title, abstract, and references.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Sampling strategy is discussed in which of the following section of a concept paper?",
+    "options": [
+      {
+        "text": "Background",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives",
+        "isCorrect": false
+      },
+      {
+        "text": "Methodologies",
+        "isCorrect": true
+      },
+      {
+        "text": "Results",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sampling is part of methodology.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statement is true about the 'Referent' section of a concept paper?",
+    "options": [
+      {
+        "text": "References must be written following standard guidelines",
+        "isCorrect": true
+      },
+      {
+        "text": "Unlimited references are preferred in a concept paper",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "References should follow standard style; they should be relevant, not unlimited.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Description of the intervention is essential in a research protocol for",
+    "options": [
+      {
+        "text": "Experimental study",
+        "isCorrect": true
+      },
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Intervention description is essential for experimental studies.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Inclusion and exclusion criteria should be included under the following section in the protocol",
+    "options": [
+      {
+        "text": "Sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Study population",
+        "isCorrect": true
+      },
+      {
+        "text": "Study design",
+        "isCorrect": false
+      },
+      {
+        "text": "Sample size",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "They define the study population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The details regarding data quality assurance should be written in the following section in the protocol",
+    "options": [
+      {
+        "text": "Data collection",
+        "isCorrect": true
+      },
+      {
+        "text": "Data analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Project implementation",
+        "isCorrect": false
+      },
+      {
+        "text": "Data entry",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Quality assurance is part of data collection procedures.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The following annexure in the study protocol deals with toxicity management",
+    "options": [
+      {
+        "text": "Study management forms",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard operating procedures",
+        "isCorrect": false
+      },
+      {
+        "text": "Consent forms",
+        "isCorrect": false
+      },
+      {
+        "text": "Adverse event management form",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Adverse event/toxicity management is handled in a specific form.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Study population, sample size and sampling are included in the following section of the protocol",
+    "options": [
+      {
+        "text": "Introduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Methods",
+        "isCorrect": true
+      },
+      {
+        "text": "Objectives",
+        "isCorrect": false
+      },
+      {
+        "text": "Expected Benefits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "These are part of methods.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "First step for writing a successful protocol",
+    "options": [
+      {
+        "text": "Write a one page concept paper",
+        "isCorrect": false
+      },
+      {
+        "text": "Identify topic, research question and objectives",
+        "isCorrect": true
+      },
+      {
+        "text": "Write a draft protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "Seek ethics approval",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Start with topic, question, and objectives.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Key outcomes and exposures should be explained under",
+    "options": [
+      {
+        "text": "Data analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Data collection tools",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Operational definitions",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Operational definitions specify how variables are measured.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Human participant protection paragraph addresses all except",
+    "options": [
+      {
+        "text": "Confidentiality",
+        "isCorrect": false
+      },
+      {
+        "text": "Risks",
+        "isCorrect": false
+      },
+      {
+        "text": "Compensation",
+        "isCorrect": false
+      },
+      {
+        "text": "Sample size calculation",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Sample size is not part of human protection.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Willingness of 'study participants' to participate in the study is obtained by",
+    "options": [
+      {
+        "text": "Informed consent",
+        "isCorrect": true
+      },
+      {
+        "text": "Oral commitment",
+        "isCorrect": false
+      },
+      {
+        "text": "Willingness not necessary",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Informed consent documents willingness.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The section that guides how the objectives lead to indicators",
+    "options": [
+      {
+        "text": "Introduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Study design",
+        "isCorrect": false
+      },
+      {
+        "text": "Budget",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Objectives define indicators.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following statements is True regarding the first draft of the protocol",
+    "options": [
+      {
+        "text": "The draft is the final document and has to be adhered to as it is.",
+        "isCorrect": false
+      },
+      {
+        "text": "The concept paper can be used as an outline for drafting the first draft of the protocol.",
+        "isCorrect": true
+      },
+      {
+        "text": "Background with justification, method of conducting the study and expected benefits are stated briefly as in the concept paper.",
+        "isCorrect": false
+      },
+      {
+        "text": "Additional references must not be added.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concept paper provides a useful outline.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "It is ideal that the first draft of the protocol",
+    "options": [
+      {
+        "text": "Exceeds >2000 words",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exceed >2000 words",
+        "isCorrect": true
+      },
+      {
+        "text": "Exceeds >3000 words",
+        "isCorrect": false
+      },
+      {
+        "text": "Does not exceed >3000 words",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concise first draft (under 2000 words) is preferable.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Data collection paragraph in the protocol should specify all, EXCEPT",
+    "options": [
+      {
+        "text": "The kind of data that will be collected",
+        "isCorrect": false
+      },
+      {
+        "text": "Information about the data collector involved in data collection",
+        "isCorrect": false
+      },
+      {
+        "text": "The detailed manner in which the data collector is going to collect the data",
+        "isCorrect": false
+      },
+      {
+        "text": "The details of how the collected data will be used for policy recommendations",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Policy recommendations are not part of data collection.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Mode of data entry, software for data analysis and plan for data analysis are included in the following section of the protocol",
+    "options": [
+      {
+        "text": "Introduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Methods",
+        "isCorrect": true
+      },
+      {
+        "text": "Objectives",
+        "isCorrect": false
+      },
+      {
+        "text": "Expected Benefits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "These are part of methods (analysis plan).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is a step for drafting a successful protocol?",
+    "options": [
+      {
+        "text": "Writing an abstract",
+        "isCorrect": false
+      },
+      {
+        "text": "Submitting for peer review",
+        "isCorrect": true
+      },
+      {
+        "text": "Seeking consent from participants",
+        "isCorrect": false
+      },
+      {
+        "text": "Data analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Peer review is a step in protocol development.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following statements is true?",
+    "options": [
+      {
+        "text": "It is sufficient to mention whether the study is quantitative or qualitative in study design section",
+        "isCorrect": false
+      },
+      {
+        "text": "The concept paper can contain more than 20 references relating to the study",
+        "isCorrect": true
+      },
+      {
+        "text": "Sample size calculation is not necessary for conducting research",
+        "isCorrect": false
+      },
+      {
+        "text": "Human subject protection statement should be included in the methods section",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Concept paper can have many references; others are false.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "The introduction can be 40% of the content of the protocol",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Introduction should be concise, not 40%.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following sections mentions about the detailed plan for conducting the study",
+    "options": [
+      {
+        "text": "Introduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Results",
+        "isCorrect": false
+      },
+      {
+        "text": "Methods",
+        "isCorrect": true
+      },
+      {
+        "text": "Discussion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Methods contain the detailed plan.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is a part of introduction section of the protocol?",
+    "options": [
+      {
+        "text": "Inclusion and Exclusion criteria",
+        "isCorrect": false
+      },
+      {
+        "text": "Detailed budget",
+        "isCorrect": false
+      },
+      {
+        "text": "Participant safety and protection",
+        "isCorrect": false
+      },
+      {
+        "text": "Background with justification",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Introduction includes background and justification.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Informed consent, procedures for minimizing participant risk and compensations are included in which of the following sections",
+    "options": [
+      {
+        "text": "Introduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Abstract",
+        "isCorrect": false
+      },
+      {
+        "text": "Human subject protection",
+        "isCorrect": true
+      },
+      {
+        "text": "Study procedure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Human subject protection covers these.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is NOT an appropriate step of protocol development?",
+    "options": [
+      {
+        "text": "Development of research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Preparation of the analysis plan",
+        "isCorrect": false
+      },
+      {
+        "text": "Development of study tool",
+        "isCorrect": false
+      },
+      {
+        "text": "Invitation of data collection",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Data collection happens after protocol development, not during.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In which of the following section of a protocol, is the analysis plan written?",
+    "options": [
+      {
+        "text": "Objective",
+        "isCorrect": false
+      },
+      {
+        "text": "Results",
+        "isCorrect": false
+      },
+      {
+        "text": "Budget",
+        "isCorrect": false
+      },
+      {
+        "text": "Methods",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Analysis plan is part of methods.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false. Study population and the study sample are same.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Population is broader; sample is subset.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is CORRECT about operational definitions in a study protocol?",
+    "options": [
+      {
+        "text": "It is part of the background section",
+        "isCorrect": false
+      },
+      {
+        "text": "It spells out the key research gaps",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following component is LEAST appropriate for a project implementation plan?",
+    "options": [
+      {
+        "text": "Calculating sample size",
+        "isCorrect": true
+      },
+      {
+        "text": "Coordinating project activities",
+        "isCorrect": false
+      },
+      {
+        "text": "Assigning job responsibilities",
+        "isCorrect": false
+      },
+      {
+        "text": "Preparing project timeline",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sample size is determined during design, not part of implementation plan.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Human subjects are protected by all the following mechanisms, EXCEPT",
+    "options": [
+      {
+        "text": "Obtaining informed consent from the participants",
+        "isCorrect": false
+      },
+      {
+        "text": "Reviewing proposal by the ethics committee",
+        "isCorrect": false
+      },
+      {
+        "text": "Incentivizing target population for participation",
+        "isCorrect": true
+      },
+      {
+        "text": "Compensating participants for loss of wages",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Incentivizing can be coercive; it's not a protection mechanism.",
+    "topic": "ethics",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which section of a protocol describes the need to maintain anonymity of study participants while sharing data to others?",
+    "options": [
+      {
+        "text": "Human subject protection",
+        "isCorrect": true
+      },
+      {
+        "text": "Data collection methods",
+        "isCorrect": false
+      },
+      {
+        "text": "Data analysis plan",
+        "isCorrect": false
+      },
+      {
+        "text": "Expected benefits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Confidentiality/anonymity is part of human subject protection.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In the methods section of a protocol, a researcher can include all the following, EXCEPT",
+    "options": [
+      {
+        "text": "Analysis plan",
+        "isCorrect": false
+      },
+      {
+        "text": "Supportive reference",
+        "isCorrect": false
+      },
+      {
+        "text": "Expected benefits",
+        "isCorrect": true
+      },
+      {
+        "text": "Quality assurance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Expected benefits are not in methods; they are in separate section.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The number of study participants required for a research study can be decided by",
+    "options": [
+      {
+        "text": "Pilot study",
+        "isCorrect": false
+      },
+      {
+        "text": "Sample size calculation",
+        "isCorrect": false
+      },
+      {
+        "text": "Sampling procedure",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All contribute to determining sample size.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All of the following statements regarding research publications are correct. Except",
+    "options": [
+      {
+        "text": "Publishing paper is important for getting promotion in academic institutions",
+        "isCorrect": false
+      },
+      {
+        "text": "Publishing research findings help to identify the research gaps",
+        "isCorrect": false
+      },
+      {
+        "text": "Negative findings in a research should not be published",
+        "isCorrect": true
+      },
+      {
+        "text": "Publishing research findings improves the credibility of a researcher",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Negative findings should be published to avoid publication bias.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A senior resident of Psychiatry department of a medical college wrote a manuscript based on his thesis work. He has put his wife's name as a co-author who is working in the Physiology department of the same college. Which of the following statements supports the act of the senior resident in providing authorship to his wife?",
+    "options": [
+      {
+        "text": "He can give authorship to anyone since it is his research work",
+        "isCorrect": false
+      },
+      {
+        "text": "The guide should decide on who should be the authors",
+        "isCorrect": false
+      },
+      {
+        "text": "His wife has contributed in designing the residents' thesis work",
+        "isCorrect": true
+      },
+      {
+        "text": "It is not a good practice to include researcher from different departments as authors",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Authorship should be based on substantial contribution.",
+    "topic": "literature_review",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is incorrect about authorship?",
+    "options": [
+      {
+        "text": "Authorship confers credit, implies responsibility and accountability of the published work",
+        "isCorrect": false
+      },
+      {
+        "text": "International Committee of Medical Journal Editors recommends criteria on authorship",
+        "isCorrect": false
+      },
+      {
+        "text": "It is mandatory to declare the contribution of each author",
+        "isCorrect": false
+      },
+      {
+        "text": "It is not mandatory that all authors should approve the final version of the manuscript",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All authors must approve final version.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is false about plagiarism?",
+    "options": [
+      {
+        "text": "It can be copying and pasting of contents from a published manuscript",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be copying someone's idea",
+        "isCorrect": false
+      },
+      {
+        "text": "It is not considered as a serious publication misconduct",
+        "isCorrect": true
+      },
+      {
+        "text": "'Urkund' is one of the software used to check plagiarism",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Plagiarism is serious misconduct.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is (are) the consequences of plagiarism of manuscript?",
+    "options": [
+      {
+        "text": "The journal can retract the manuscript",
+        "isCorrect": false
+      },
+      {
+        "text": "Institute can take action on the author/researcher",
+        "isCorrect": false
+      },
+      {
+        "text": "The researcher loses professional reputation",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are possible consequences.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "You have finished writing a manuscript and plan to publish it. Which of the following is the best practice?",
+    "options": [
+      {
+        "text": "Submit to multiple journals at the same time",
+        "isCorrect": false
+      },
+      {
+        "text": "Submit to a journal and wait for the journal's response",
+        "isCorrect": true
+      },
+      {
+        "text": "Submit to many journals, once it gets published in one journal, withdraw it from the other journals",
+        "isCorrect": false
+      },
+      {
+        "text": "Submit the same manuscript in different languages to different journals",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Simultaneous submission is unethical.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A researcher conducted a study to identify risk factors for exacerbation of bronchial asthma. The researcher was due for job promotion. However, the researcher was lacking enough publications to ensure promotion. Hence, in order to have maximum number of publications from the work, the researcher decided to produce three different manuscripts instead of one manuscript comprehensively covering all",
+    "options": [],
+    "explanation": "",
+    "topic": "literature_review",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "A group of researchers submitted a manuscript in a reputed journal. Even after 5 months of submission, they did not receive the peer review comments from the journal. The authors decided to submit the manuscript to a different journal without informing the editor of the previous journal. Which of the following terms describes the situation best?",
+    "options": [
+      {
+        "text": "Duplicate publication",
+        "isCorrect": false
+      },
+      {
+        "text": "Simultaneous submission",
+        "isCorrect": true
+      },
+      {
+        "text": "Self-citation",
+        "isCorrect": false
+      },
+      {
+        "text": "Breach of confidentiality",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Submitting to another journal while first is still under review is simultaneous submission, which is unethical.",
+    "topic": "literature_review",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Dr. D has copied the idea of Dr. A for his thesis. Copying an idea shouldn't be considered as plagiarism.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Copying ideas without attribution is plagiarism.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Dr. A is in the process of writing review of literature for her thesis. Her guide has instructed her to avoid plagiarism. Dr. A should take all the following measures to avoid plagiarism, except",
+    "options": [
+      {
+        "text": "Avoid copying and pasting",
+        "isCorrect": false
+      },
+      {
+        "text": "Acknowledge original sources",
+        "isCorrect": false
+      },
+      {
+        "text": "Take help of anti-plagiarism software",
+        "isCorrect": false
+      },
+      {
+        "text": "Copy from her own previous work.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Copying from own previous work without citation is self-plagiarism.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is correct in relation to the conflict of interest?",
+    "options": [
+      {
+        "text": "Conflict of interest is always financial",
+        "isCorrect": false
+      },
+      {
+        "text": "Conflict of interest necessarily changes the outcome of interest",
+        "isCorrect": false
+      },
+      {
+        "text": "It is recommended to hide the COI during submission of a manuscript",
+        "isCorrect": false
+      },
+      {
+        "text": "Readers can determine the influence of COI on conclusion of the paper",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "COI must be disclosed so readers can assess.",
+    "topic": "literature_review",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "An editor of a reputed journal found that most of the finding of a manuscript matches with a previously published paper by different authors. The editor considered it as a case of plagiarism. Which of the following about plagiarism is true?",
+    "options": [
+      {
+        "text": "The journal can retract the article, if already published",
+        "isCorrect": false
+      },
+      {
+        "text": "The editor can inform the author's institute about it",
+        "isCorrect": false
+      },
+      {
+        "text": "The researchers may lose their reputation",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are possible actions.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is TRUE regarding a clinical trial?",
+    "options": [
+      {
+        "text": "It is mandatory to register the trial under \"Clinical Trials Registry of India\" after completing it.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethical issues are considerably low in clinical trials when compared with descriptive studies.",
+        "isCorrect": false
+      },
+      {
+        "text": "Informed consent is a must for recruiting a study participant in a clinical trial",
+        "isCorrect": true
+      },
+      {
+        "text": "Both \"a\" and \"c\"",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Informed consent is mandatory; registration should be done before enrolment.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Altering the original data to obtain a statistically significant result by the researcher is known as",
+    "options": [
+      {
+        "text": "Fabrication",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsification",
+        "isCorrect": true
+      },
+      {
+        "text": "Fascination",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsification",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Altering data is falsification; fabricating is making up data.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following help in reducing ethical issues associated with research publication, EXCEPT",
+    "options": [
+      {
+        "text": "Obtaining the institutional ethics committee permission",
+        "isCorrect": false
+      },
+      {
+        "text": "Including a guest author to improve the acceptance of the manuscript",
+        "isCorrect": true
+      },
+      {
+        "text": "Obtaining permission from the copyright holder to reproduce a figure",
+        "isCorrect": false
+      },
+      {
+        "text": "Declaring familial relationship between an author and the CEO of the funding agency",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Guest authorship is unethical.",
+    "topic": "literature_review",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is INCORRECT about publishing research finding?",
+    "options": [
+      {
+        "text": "Publication often helps in career progression and academic promotion",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a way to communicate research findings with the peer groups",
+        "isCorrect": false
+      },
+      {
+        "text": "Conflicts of interest can be suppressed as it has implication in study findings",
+        "isCorrect": true
+      },
+      {
+        "text": "It identifies research gaps",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "COI must be disclosed, not suppressed.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. The first author is mostly responsible for addressing the comments received from the reviewers of the journal.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "First author typically handles correspondence.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Submitting a manuscript to more than one journal at the same time is known as",
+    "options": [
+      {
+        "text": "Duplicate publication",
+        "isCorrect": false
+      },
+      {
+        "text": "Self-citation",
+        "isCorrect": false
+      },
+      {
+        "text": "Simultaneous publication",
+        "isCorrect": true
+      },
+      {
+        "text": "Peer review",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Simultaneous submission.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is NOT an essential criterion for authorship?",
+    "options": [
+      {
+        "text": "Conceptualizing the study",
+        "isCorrect": false
+      },
+      {
+        "text": "Drafting the manuscript",
+        "isCorrect": false
+      },
+      {
+        "text": "Approval of the final manuscript",
+        "isCorrect": false
+      },
+      {
+        "text": "Being departmental head",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Departmental head does not automatically qualify as author.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A Post Graduate in a medical college submitted a proposal to the ethics committee of the institute. The committee found that the proposal is a new copy of an earlier proposal from the same department. This act of the PG can be best termed as",
+    "options": [
+      {
+        "text": "Fabrication",
+        "isCorrect": false
+      },
+      {
+        "text": "Falsification",
+        "isCorrect": false
+      },
+      {
+        "text": "Plagiarism",
+        "isCorrect": true
+      },
+      {
+        "text": "Breach of confidentiality",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Copying another's proposal without attribution is plagiarism.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. Unpublished work must be acknowledged in a manuscript.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Unpublished work should be cited with permission.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,2277 @@
+[
+  {
+    "questionText": "Which of the following areas can be included in health research?\ni. Improving the health of the population.\nii. Predicting progression of a disease in a patient.\niii. Prevention of various diseases\niv. To explore various societal, community based and programmatic interventions for disease prevention and control",
+    "options": [
+      {
+        "text": "i and ii",
+        "isCorrect": false
+      },
+      {
+        "text": "i and iii",
+        "isCorrect": false
+      },
+      {
+        "text": "i, ii, iii and iv",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Health research encompasses all these areas, including improving health, predicting disease progression, prevention, and exploring societal interventions.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is appropriate for sample and sample size?",
+    "options": [
+      {
+        "text": "Should be representative of the population [External validity or generalizability]",
+        "isCorrect": false
+      },
+      {
+        "text": "Should be adequate [power to draw meaningful inferences]",
+        "isCorrect": false
+      },
+      {
+        "text": "Both 'a' and 'b'",
+        "isCorrect": true
+      },
+      {
+        "text": "Neither 'a' nor 'b'",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A good sample must be both representative (to allow generalization) and adequate (to have enough power for statistical analysis).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statements are correct regarding defining inclusion and exclusion criteria in a study protocol?",
+    "options": [
+      {
+        "text": "They should be vague because this will allow greater and easy enrollment",
+        "isCorrect": false
+      },
+      {
+        "text": "They should be very specific",
+        "isCorrect": true
+      },
+      {
+        "text": "They should be very large in number",
+        "isCorrect": false
+      },
+      {
+        "text": "It is not important to define exclusion criteria in a clinical trial",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Inclusion and exclusion criteria must be clearly and specifically defined to ensure the study population is appropriate and to minimize bias.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following are examined as part of regulatory review?",
+    "options": [
+      {
+        "text": "Information regarding transfer of funds and utilization of funds",
+        "isCorrect": false
+      },
+      {
+        "text": "Shipment of samples and transfer of data outside the country",
+        "isCorrect": false
+      },
+      {
+        "text": "Sharing and protection of intellectual property",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Regulatory review covers financial aspects, data/sample transfer, and intellectual property to ensure compliance with national and international regulations.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following statements is not true in case of pilot study?",
+    "options": [
+      {
+        "text": "They are conducted for developing and testing adequacy of research instruments",
+        "isCorrect": false
+      },
+      {
+        "text": "They establish whether the sampling frame and technique are effective",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethics committee approves the main study only after successful completion of the pilot study",
+        "isCorrect": true
+      },
+      {
+        "text": "They are small scale studies",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethics committee approval is required before any study (including pilot) begins; the main study does not require pilot completion for approval.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Before initiating a study involving primary data collection, the Principal Investigator must ensure that various approvals are obtained. Which of the following approvals is absolutely mandatory?",
+    "options": [
+      {
+        "text": "Scientific committee approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethics committee approval",
+        "isCorrect": true
+      },
+      {
+        "text": "Technical committee approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Regulatory authority approval",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethics committee approval is mandatory to protect the rights and welfare of human participants; scientific approval may also be required but ethics is non-negotiable.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which is the best source of information on 'effect modifiers' while exploring cause and effect relationship in a research study?",
+    "options": [
+      {
+        "text": "Deductive thinking",
+        "isCorrect": false
+      },
+      {
+        "text": "Thorough review of literature",
+        "isCorrect": true
+      },
+      {
+        "text": "Intelligent guessing",
+        "isCorrect": false
+      },
+      {
+        "text": "Discussing with experienced researchers",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A thorough literature review provides existing evidence on potential effect modifiers, guiding study design and analysis.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The policy makers want to know whether introduction of pentavalent vaccine in the national program is resulting in reduction in the number of Hemophilus influenza cases. Which of the following studies will they have to conduct to find an answer?",
+    "options": [
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Field trial",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A field trial (a type of community intervention study) is appropriate to assess the impact of a vaccine program on disease incidence.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "What is true about Confounders?",
+    "options": [
+      {
+        "text": "They affect both study variable as well as outcome",
+        "isCorrect": false
+      },
+      {
+        "text": "Their effect can be minimized by proper study design and through stratified analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Both 'a' and 'b'",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Confounders are associated with both exposure and outcome, and their influence can be reduced by design (randomization, matching) or analysis (stratification, multivariate).",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is not a type of study design?",
+    "options": [
+      {
+        "text": "Qualitative study",
+        "isCorrect": false
+      },
+      {
+        "text": "Observational study",
+        "isCorrect": false
+      },
+      {
+        "text": "Retrospective study",
+        "isCorrect": false
+      },
+      {
+        "text": "Pilot study",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A pilot study is a preliminary small-scale study to test feasibility, not a distinct type of study design like observational or experimental designs.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Any systematic error in the design, conduct or analysis of a study that results in an erroneous estimate of an exposure's effect on the risk of disease is called:",
+    "options": [
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      },
+      {
+        "text": "Bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Interaction",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratification",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bias is any systematic error that leads to an incorrect estimate of the association between exposure and outcome.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is not part of ethics review of a project?",
+    "options": [
+      {
+        "text": "Informed consent document and procedure",
+        "isCorrect": false
+      },
+      {
+        "text": "Competence of researcher and institute conducting research",
+        "isCorrect": false
+      },
+      {
+        "text": "Sharing and protection of intellectual property",
+        "isCorrect": true
+      },
+      {
+        "text": "Care and support during and after completion of research",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Intellectual property issues are typically part of regulatory or institutional review, not the core ethics review focused on participant protection.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A study was conducted to assess the extrapyramidal side effects of a new antipsychotic drug in patients with schizophrenia. Many of these patients were smokers and some of them were on anticholinergic drugs. What was the role of the anticholinergic drugs in this study?",
+    "options": [
+      {
+        "text": "Confounder",
+        "isCorrect": false
+      },
+      {
+        "text": "Random Variable",
+        "isCorrect": false
+      },
+      {
+        "text": "Effect Modifier",
+        "isCorrect": true
+      },
+      {
+        "text": "Independent Variable",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Anticholinergic drugs can modify the occurrence or severity of extrapyramidal side effects; they act as effect modifiers rather than confounders.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Before initiating a study involving primary data collection, the Principal Investigator must ensure that various approvals are obtained. Which of the following approvals is absolutely mandatory?",
+    "options": [
+      {
+        "text": "Scientific committee approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethics committee approval",
+        "isCorrect": true
+      },
+      {
+        "text": "Technical committee approval",
+        "isCorrect": false
+      },
+      {
+        "text": "Regulatory authority approval",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ethics committee approval is mandatory for all research involving human participants to ensure ethical conduct and participant safety.",
+    "topic": "ethics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The policy makers want to know whether introduction of a new rotavirus vaccine in the national immunization programme is resulting in reduction of morbidity and mortality from rotavirus disease. Which of the following studies will they have to conduct to find an answer?",
+    "options": [
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      },
+      {
+        "text": "Field randomized trial",
+        "isCorrect": true
+      },
+      {
+        "text": "Case-series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A field randomized trial (cluster randomized trial) is the most rigorous design to evaluate the impact of a vaccine program on disease outcomes.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "What effect does increasing the sample size have upon the random error?",
+    "options": [
+      {
+        "text": "It increases the random error",
+        "isCorrect": false
+      },
+      {
+        "text": "It has no effect on the random error",
+        "isCorrect": false
+      },
+      {
+        "text": "It reduces the random error",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Larger sample size decreases the standard error, thereby reducing random error and increasing precision.",
+    "topic": "biostatistics",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following will best describe the scientific inquiry that seeks to understand the acceptability and functionality of a health program?",
+    "options": [
+      {
+        "text": "Basic science research",
+        "isCorrect": false
+      },
+      {
+        "text": "Translational research",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical research",
+        "isCorrect": false
+      },
+      {
+        "text": "Implementation research",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Implementation research focuses on understanding how programs are delivered, adopted, and function in real-world settings.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The following statements describe confounding and effect modification. Which of the statement is/are correct?\na) In a study of relationship between coffee drinking and oro-pharyngeal cancer, smoking is a confounder\nb) It is study to explore relationship between hepatitis B infection and post-infection hepatic sequelae, habit of alcohol drinking acts as an effect modifier and patients with this habit may be excluded from the study",
+    "options": [
+      {
+        "text": "Only a",
+        "isCorrect": true
+      },
+      {
+        "text": "Only b",
+        "isCorrect": false
+      },
+      {
+        "text": "Both a and b",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither a nor b",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Statement a is correct because smoking is associated with both coffee drinking and oral cancer, making it a confounder. Statement b is incorrect; effect modifiers should not be excluded; they are studied to understand differential effects.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Issues regarding shipment of samples and transfer of data outside the country are examined by:",
+    "options": [
+      {
+        "text": "Regulatory review",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethics review",
+        "isCorrect": false
+      },
+      {
+        "text": "Scientific review",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Such issues fall under regulatory oversight to ensure compliance with national and international laws regarding data and material transfer.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Health research is usually focused on which of the following areas?",
+    "options": [
+      {
+        "text": "Estimation of disease burden in a population",
+        "isCorrect": false
+      },
+      {
+        "text": "Prevention of common diseases in the community",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluation of public health programs",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Health research covers all these areas: measuring disease burden, prevention, and program evaluation.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is NOT a component of a research study?",
+    "options": [
+      {
+        "text": "Setting up the institute scientific committee",
+        "isCorrect": true
+      },
+      {
+        "text": "Calculating sample size",
+        "isCorrect": false
+      },
+      {
+        "text": "Development of a study tool",
+        "isCorrect": false
+      },
+      {
+        "text": "Framing the research question",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Setting up a scientific committee is an institutional activity, not a direct component of a research study's design or conduct.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A research team is to study the relationship between COVID-19 infection in pregnancy and birth weight. Currently, there is no evidence on this topic. Which of the following options is the scope of this health research?",
+    "options": [
+      {
+        "text": "Verifying and confirming known information",
+        "isCorrect": false
+      },
+      {
+        "text": "Getting additional or new information",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaluating ongoing programs",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Since no evidence exists, the research aims to generate new information, not confirm existing knowledge.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is NOT a critical consideration in planning a health research?",
+    "options": [
+      {
+        "text": "Adequate justification",
+        "isCorrect": false
+      },
+      {
+        "text": "Clear and focused research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Standard case definitions",
+        "isCorrect": false
+      },
+      {
+        "text": "Financial gain",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Financial gain for the researcher is not a critical scientific consideration; the focus should be on scientific merit and ethical conduct.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Identify the CORRECT statement about implementation of a research",
+    "options": [
+      {
+        "text": "Research findings must be approved by the funder",
+        "isCorrect": false
+      },
+      {
+        "text": "Research finding must be error free",
+        "isCorrect": false
+      },
+      {
+        "text": "Adequate sample size is a prerequisite",
+        "isCorrect": true
+      },
+      {
+        "text": "Pilot study can be done during data analysis stage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adequate sample size is essential for reliable results; pilot studies are done before main data collection, not during analysis.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is an element of life cycle of research?",
+    "options": [
+      {
+        "text": "Identify data needs and spell out the research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Formulate the objective and design the study",
+        "isCorrect": false
+      },
+      {
+        "text": "Draw conclusion and give recommendation to stakeholders",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All listed steps are part of the research life cycle from question formulation to dissemination.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following verbs is preferably used in the statement of objectives of an analytical research study?",
+    "options": [
+      {
+        "text": "Estimate",
+        "isCorrect": false
+      },
+      {
+        "text": "Determine",
+        "isCorrect": true
+      },
+      {
+        "text": "Study",
+        "isCorrect": false
+      },
+      {
+        "text": "Describe",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Analytical studies aim to determine associations or effects, so 'determine' is appropriate, whereas 'estimate' is more for descriptive studies.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Sources of research question is/are",
+    "options": [
+      {
+        "text": "Published literature",
+        "isCorrect": false
+      },
+      {
+        "text": "Being alert to new ideas",
+        "isCorrect": false
+      },
+      {
+        "text": "Careful observation and teaching",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Research questions can arise from literature, clinical observations, new ideas, and educational activities.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is stated mainly for statistical purpose?",
+    "options": [
+      {
+        "text": "Research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives",
+        "isCorrect": false
+      },
+      {
+        "text": "Research hypothesis",
+        "isCorrect": true
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The research hypothesis is specifically formulated for statistical testing (null vs. alternative).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "If your objective is to estimate the prevalence of a health problem in a community in 2015, identify the type of research question this study is addressing",
+    "options": [
+      {
+        "text": "Analytical research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Descriptive research question",
+        "isCorrect": true
+      },
+      {
+        "text": "Hypothetical research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Experimental research question",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Estimating prevalence is a descriptive objective, not analytical (which would involve comparisons).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is the first step in the life cycle of research?",
+    "options": [
+      {
+        "text": "Spell out the research question",
+        "isCorrect": true
+      },
+      {
+        "text": "Formulate the objective of the study",
+        "isCorrect": false
+      },
+      {
+        "text": "Identify the data needs",
+        "isCorrect": false
+      },
+      {
+        "text": "Choose the study design",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The research question is the foundation; all other steps follow from it.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A clear research question facilitates to do the following",
+    "options": [
+      {
+        "text": "Choose the most optimal design",
+        "isCorrect": false
+      },
+      {
+        "text": "Identify who should be included as study population",
+        "isCorrect": false
+      },
+      {
+        "text": "Specify the outcomes that should be measured",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A clear research question guides all aspects of study design, including choice of design, population, and outcomes.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statements is incorrect?",
+    "options": [
+      {
+        "text": "A good research question should be feasible, interesting, Novel, Ethical and Relevant",
+        "isCorrect": false
+      },
+      {
+        "text": "A good research question should be in epidemiological terms",
+        "isCorrect": true
+      },
+      {
+        "text": "A good research question facilitates to choose optimal design",
+        "isCorrect": false
+      },
+      {
+        "text": "A good research question will focus on one issue",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A research question does not need to be phrased in epidemiological terms; it should be clear and answerable regardless of phrasing.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The verb \"estimate\" is used in the objective of analytical research studies",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Estimate is more appropriate for descriptive studies (e.g., prevalence), while analytical studies use verbs like determine, compare, assess association.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The process of refining the \"ideas\" into research questions begins with general uncertainty about a health issue and narrows down to a specific, concrete researchable issue",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "This describes the typical funneling process from broad curiosity to a focused research question.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statement is incorrect about a good research question?",
+    "options": [
+      {
+        "text": "Research question should advance scientific knowledge, improve practice, influence policy",
+        "isCorrect": false
+      },
+      {
+        "text": "Research question should be approved by the ethics committee",
+        "isCorrect": true
+      },
+      {
+        "text": "Research question should confirm, refutes or extends previous findings",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The ethics committee reviews the study protocol, not the research question itself. The question does not require their approval.",
+    "topic": "ethics",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following are characteristic of good research hypothesis (EXCEPT)",
+    "options": [
+      {
+        "text": "Research hypothesis should be simple",
+        "isCorrect": false
+      },
+      {
+        "text": "Research hypothesis should be derived of any ambiguity about study participants and variables",
+        "isCorrect": false
+      },
+      {
+        "text": "Research hypothesis should be focused on primary objective",
+        "isCorrect": false
+      },
+      {
+        "text": "Research hypothesis should be written once the study is completed",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Hypothesis must be stated a priori, before data collection, not after study completion.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following verb is used in the statement of objective of a descriptive research study?",
+    "options": [
+      {
+        "text": "Estimate",
+        "isCorrect": true
+      },
+      {
+        "text": "Determine",
+        "isCorrect": false
+      },
+      {
+        "text": "Examine",
+        "isCorrect": false
+      },
+      {
+        "text": "Compare",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Descriptive studies estimate parameters like prevalence, incidence, or means. Compare is for analytical studies.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A research question states about what the results of the study might ultimately contribute to that particular field of science",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A good research question often includes the potential significance or contribution to the field.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Purely descriptive research questions do not require a hypothesis.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Descriptive studies aim to describe, not test associations, so they typically do not have a hypothesis to test.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Identify the type of research question if the objective of a study is \"To determine the effect of tobacco cessation services on tuberculosis treatment outcomes among patients with tuberculosis under National Tuberculosis (Elimination Program\")",
+    "options": [
+      {
+        "text": "Descriptive research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypothetical research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Analytical research question",
+        "isCorrect": true
+      },
+      {
+        "text": "Experimental research question",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It seeks to determine an effect (association/causal relationship), which is analytical. It is not experimental unless intervention is assigned by investigator.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "As per the following objectives a hypothesis should be stated for which study?",
+    "options": [
+      {
+        "text": "To determine the association of maternal smoking during pregnancy with respiratory infectious disease morbidity and mortality in infants",
+        "isCorrect": true
+      },
+      {
+        "text": "To estimate the lifetime prevalence of mental health morbidities among elderly people in India",
+        "isCorrect": false
+      },
+      {
+        "text": "To describe the pattern of physical activity among school going children aged 6-18 years",
+        "isCorrect": false
+      },
+      {
+        "text": "To describe the temporal and spatial trends of mortality due to cardiovascular diseases, by age and sex in India during 2009-2019",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A hypothesis is needed when testing an association (analytical study), not for purely descriptive objectives.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following are components of FINER criteria for a research question (EXCEPT)",
+    "options": [
+      {
+        "text": "Feasible",
+        "isCorrect": false
+      },
+      {
+        "text": "Reliable",
+        "isCorrect": true
+      },
+      {
+        "text": "Novel",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethical",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "FINER stands for Feasible, Interesting, Novel, Ethical, Relevant. Reliable is not part of this acronym.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which is the last step in the life cycle of research?",
+    "options": [
+      {
+        "text": "Spell out the research question",
+        "isCorrect": false
+      },
+      {
+        "text": "Formulate the objective of the study",
+        "isCorrect": false
+      },
+      {
+        "text": "Formulate recommendations",
+        "isCorrect": true
+      },
+      {
+        "text": "Choose the study design",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Research culminates in drawing conclusions and formulating recommendations for stakeholders.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The following are the steps in framing a research question.\n1. Review of state of art information\n2. Define measurable exposures & outcomes\n3. Raise a question\n4. Decide worth investigating by peer review\nChoose the correct sequence of framing a research question from below.",
+    "options": [
+      {
+        "text": "1,3,2,4",
+        "isCorrect": false
+      },
+      {
+        "text": "3,1,2,4",
+        "isCorrect": true
+      },
+      {
+        "text": "3,2,1,4",
+        "isCorrect": false
+      },
+      {
+        "text": "3,1,4,2",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "First raise a question, then review literature, define measurable variables, and finally get peer input on its worth.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A clear research question is required in order to facilitate the following:",
+    "options": [
+      {
+        "text": "To choose an optimal study design",
+        "isCorrect": false
+      },
+      {
+        "text": "To identify the outcomes that need to be measured",
+        "isCorrect": false
+      },
+      {
+        "text": "To decide when the outcomes need to be measured",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A clear research question guides design, outcome selection, and timing of measurements.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Characteristics of a good hypothesis are all, EXCEPT:",
+    "options": [
+      {
+        "text": "There should be no ambiguity about the study variables",
+        "isCorrect": false
+      },
+      {
+        "text": "It should be stated \"a priori\"",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be revised based on the study findings",
+        "isCorrect": true
+      },
+      {
+        "text": "It should specify one exposure and one outcome",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Hypothesis must be stated before data collection; revising it based on findings would be post-hoc and invalid.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is NOT an ideal source of a research question?",
+    "options": [
+      {
+        "text": "Reviewing the published literature",
+        "isCorrect": false
+      },
+      {
+        "text": "Attending conferences where latest findings are shared",
+        "isCorrect": false
+      },
+      {
+        "text": "Observing keenly in the out-patient clinic",
+        "isCorrect": false
+      },
+      {
+        "text": "Making existing datasets for research question",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Making existing datasets is not a source of a question; it's a resource after a question is formed.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is TRUE for a \"Descriptive Research Question\"?",
+    "options": [
+      {
+        "text": "Involves observations to measure a quantity",
+        "isCorrect": true
+      },
+      {
+        "text": "Involves comparison groups",
+        "isCorrect": false
+      },
+      {
+        "text": "Tests the efficacy of interventions",
+        "isCorrect": false
+      },
+      {
+        "text": "Requires hypothesis testing",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Descriptive research quantifies a phenomenon without comparing groups or testing hypotheses.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following characteristics best describe a good research question?",
+    "options": [
+      {
+        "text": "Feasible, Novel, Ethical",
+        "isCorrect": true
+      },
+      {
+        "text": "Feasible, Noble, Ethical",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethical, Novel, Institute",
+        "isCorrect": false
+      },
+      {
+        "text": "Fantastic, Novel, Relevant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "FINER criteria: Feasible, Interesting, Novel, Ethical, Relevant. The most essential are feasible, novel, ethical.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "State whether true or false. A research study is conducted to estimate the significance of COVID-19 in Ahmedabad city during April-June 2020. This is an example of analytical research question.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Estimating significance (e.g., prevalence) is descriptive; analytical would compare groups or test associations.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statement about study objectives is FALSE?",
+    "options": [
+      {
+        "text": "Objectives are stated in scientific terms.",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives can be primary and secondary",
+        "isCorrect": false
+      },
+      {
+        "text": "Each objective is written using multiple verbs",
+        "isCorrect": true
+      },
+      {
+        "text": "Objectives should be specific",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Each objective should use a single action verb to maintain clarity and focus.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In the life cycle of research, \"spelling out the research question\" is followed by",
+    "options": [
+      {
+        "text": "Preparing data collection instrument",
+        "isCorrect": false
+      },
+      {
+        "text": "Formulating study objectives",
+        "isCorrect": true
+      },
+      {
+        "text": "Collecting data",
+        "isCorrect": false
+      },
+      {
+        "text": "Formulating recommendation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "After the research question, we formulate specific objectives that will answer that question.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "How can the given study objective be improved? \"To understand the anemia in pregnancy\"",
+    "options": [
+      {
+        "text": "Using appropriate action verbs",
+        "isCorrect": false
+      },
+      {
+        "text": "Specifying the outcome measure",
+        "isCorrect": false
+      },
+      {
+        "text": "Specifying the study setting and time period",
+        "isCorrect": false
+      },
+      {
+        "text": "All the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "A good objective should specify action (e.g., estimate, compare), the outcome (e.g., prevalence of anemia), setting, and time.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is NOT a step in framing an ideal research question?",
+    "options": [
+      {
+        "text": "Literature review",
+        "isCorrect": false
+      },
+      {
+        "text": "Peer review",
+        "isCorrect": false
+      },
+      {
+        "text": "Broadening the initial question",
+        "isCorrect": true
+      },
+      {
+        "text": "Defining measurable outcomes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "We narrow down the initial question, not broaden it, to make it specific and answerable.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The ability to apply the principles of analysis to identify those studies which are unbiased and valid is called as",
+    "options": [
+      {
+        "text": "Critical appraisal",
+        "isCorrect": true
+      },
+      {
+        "text": "Information seeking",
+        "isCorrect": false
+      },
+      {
+        "text": "Information management",
+        "isCorrect": false
+      },
+      {
+        "text": "Systematic Review",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Critical appraisal is the process of assessing the validity, reliability, and applicability of research studies.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A is a collection of articles, abstracts, scientific proceedings, books, citations etc. that is organized so that it can easily be accessed while doing literature review",
+    "options": [
+      {
+        "text": "Database",
+        "isCorrect": true
+      },
+      {
+        "text": "Critical appraisal",
+        "isCorrect": false
+      },
+      {
+        "text": "Hand disk",
+        "isCorrect": false
+      },
+      {
+        "text": "Index",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A database is an organized collection of references for efficient retrieval.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Why should we need to do a literature review?",
+    "options": [
+      {
+        "text": "Save yourself from work",
+        "isCorrect": false
+      },
+      {
+        "text": "Know the subject matter better",
+        "isCorrect": false
+      },
+      {
+        "text": "Suggest new research topics, questions and methods",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Literature review helps understand existing knowledge, avoid duplication, and identify gaps for new research.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The process of scanning the literature efficiently using manual or computerized methods to identify a set of potentially useful articles and books is called as",
+    "options": [
+      {
+        "text": "Information seeking",
+        "isCorrect": false
+      },
+      {
+        "text": "Critical appraisal",
+        "isCorrect": false
+      },
+      {
+        "text": "Database management",
+        "isCorrect": false
+      },
+      {
+        "text": "Information retrieval",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Information retrieval is the process of identifying relevant documents from a large collection.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In the Boolean search strategy AND tells that database that you want records that contain all the words you specify",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AND narrows the search by requiring all terms to be present.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is unethical while writing a Literature Review?",
+    "options": [
+      {
+        "text": "The contents from the studies should be presented honestly",
+        "isCorrect": false
+      },
+      {
+        "text": "The contents from the studies should not be distorted",
+        "isCorrect": false
+      },
+      {
+        "text": "It is not necessary to address the weakness of the study in a scholarly manner",
+        "isCorrect": true
+      },
+      {
+        "text": "Sources should be accurately documented",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It is unethical to ignore weaknesses; a good review should critically appraise and mention limitations.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Critical appraisal is done in an organized and systematic manner",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Critical appraisal requires a structured approach to minimize bias.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The process of identifying, within a large document collection, a subset of documents whose content is most relevant to user's need is called as",
+    "options": [
+      {
+        "text": "Information retrieval",
+        "isCorrect": true
+      },
+      {
+        "text": "Information management",
+        "isCorrect": false
+      },
+      {
+        "text": "Systematic Review",
+        "isCorrect": false
+      },
+      {
+        "text": "Narrative Review",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "This is the definition of information retrieval.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The query system in the information retrieval process of literature review is",
+    "options": [
+      {
+        "text": "User defined",
+        "isCorrect": true
+      },
+      {
+        "text": "Provider defined",
+        "isCorrect": false
+      },
+      {
+        "text": "Conditional",
+        "isCorrect": false
+      },
+      {
+        "text": "Not structured",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "The user defines the query (keywords, Boolean operators) based on their research need.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In the National Library of Medicine (NLM), MeSH means",
+    "options": [
+      {
+        "text": "Medical Services Heading",
+        "isCorrect": false
+      },
+      {
+        "text": "Medical Subject Heading",
+        "isCorrect": true
+      },
+      {
+        "text": "Medical Subject Helpline",
+        "isCorrect": false
+      },
+      {
+        "text": "Medicine Services Helpline",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "MeSH stands for Medical Subject Headings, a controlled vocabulary for indexing articles in MEDLINE/PubMed.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In literature review method of identifying studies which are unbiased and valid is known as critical appraisal",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Critical appraisal specifically assesses the validity and bias of studies.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Choose the correct sequence of the steps of systematically doing literature search from below",
+    "options": [
+      {
+        "text": "Organize the information, identify the lacuna, develop the research question, synthesize the results",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following about literature review is correct EXCEPT",
+    "options": [
+      {
+        "text": "It identifies lacuna in the existing knowledge about a topic",
+        "isCorrect": false
+      },
+      {
+        "text": "It saves valuable time for a researcher",
+        "isCorrect": false
+      },
+      {
+        "text": "It helps the researcher in arriving the conclusion of a study",
+        "isCorrect": true
+      },
+      {
+        "text": "It suggests the researcher about new research topics",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Literature review helps in planning, not in arriving at conclusions; conclusions come from data analysis.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "While drafting a scientific manuscript, literature review is useful on the following section EXCEPT",
+    "options": [
+      {
+        "text": "Introduction",
+        "isCorrect": false
+      },
+      {
+        "text": "Methods",
+        "isCorrect": false
+      },
+      {
+        "text": "Results",
+        "isCorrect": true
+      },
+      {
+        "text": "Discussion",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Results section presents original findings; it does not include literature review.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following about PubMed is incorrect?",
+    "options": [
+      {
+        "text": "PubMed comprises more than 25 million citations for biomedical literature",
+        "isCorrect": false
+      },
+      {
+        "text": "Citations may include links to full-text article from PubMed Central",
+        "isCorrect": false
+      },
+      {
+        "text": "PubMed is developed and maintained by the National Centre for Biotechnology Information (NCBI), at the U.S. National Library of Medicine (NLM)",
+        "isCorrect": false
+      },
+      {
+        "text": "PubMed is a gold service provider for searching of literature",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "PubMed is a free search engine, not a 'gold service provider' which would imply paid access; it is widely used but not a commercial provider.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following are examples of databases",
+    "options": [
+      {
+        "text": "MEDLINE",
+        "isCorrect": true
+      },
+      {
+        "text": "EMBASE",
+        "isCorrect": false
+      },
+      {
+        "text": "CNASL",
+        "isCorrect": false
+      },
+      {
+        "text": "Google scholar",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Literature searches are important to do at the start of a project; and do not need to continue throughout the project.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Literature searching should be ongoing to keep up with new publications during the project.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following search query should be used to find the articles on chest pain other than angina?",
+    "options": [
+      {
+        "text": "Chest pain AND angina",
+        "isCorrect": false
+      },
+      {
+        "text": "Chest pain OR angina",
+        "isCorrect": false
+      },
+      {
+        "text": "Chest pain NOT angina",
+        "isCorrect": true
+      },
+      {
+        "text": "Chest pain EXCEPT angina",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "NOT excludes the term angina from the results.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A researcher wants to assess effects of polyunsaturated fatty acids (PUFA) on diabetes prognosis. For this, the researcher searches related articles in PubMed and Google scholar. This process is known as",
+    "options": [
+      {
+        "text": "Information retrieval",
+        "isCorrect": true
+      },
+      {
+        "text": "Indexing",
+        "isCorrect": false
+      },
+      {
+        "text": "Critical appraisal",
+        "isCorrect": false
+      },
+      {
+        "text": "Data management",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Information retrieval is the act of finding relevant documents.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following about MeSH is incorrect?",
+    "options": [
+      {
+        "text": "MeSH thrasures is controlled vocabulary produced by the National Library of Medicine",
+        "isCorrect": false
+      },
+      {
+        "text": "It consists of sets of terms naming descriptors in a hierarchical structure that permits searching at various levels of specificity",
+        "isCorrect": false
+      },
+      {
+        "text": "It is used for indexing and searching of biomedical and health-related information",
+        "isCorrect": false
+      },
+      {
+        "text": "MeSH is used for EMBASE database",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "MeSH is used for MEDLINE/PubMed; EMBASE uses Emtree, not MeSH.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is INCORRECT about literature review for a proposed study?",
+    "options": [
+      {
+        "text": "Begins with a systematic literature search",
+        "isCorrect": false
+      },
+      {
+        "text": "Involves critical appraisal of retrieved studies",
+        "isCorrect": false
+      },
+      {
+        "text": "Presents existing knowledge concisely",
+        "isCorrect": false
+      },
+      {
+        "text": "Guides the findings of the proposed study",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Literature review guides the design and hypothesis, but does not guide findings; findings come from the study itself.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A researcher conducts a review of literature to identify a set of potentially useful articles and books related to their research topic. This process is known as",
+    "options": [
+      {
+        "text": "Indexing",
+        "isCorrect": false
+      },
+      {
+        "text": "Critical appraisal",
+        "isCorrect": false
+      },
+      {
+        "text": "Data management",
+        "isCorrect": false
+      },
+      {
+        "text": "Information seeking",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Information seeking is the process of looking for information resources.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Literature review is a well thought out and organized search for all literature published on a particular topic in a library or online database.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It is systematic and organized, though 'all literature' is ideal but may be limited by practical constraints.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following search query in PubMed will give relevant articles for the following question? \"What is the burden of gastroenteritis among children?\"",
+    "options": [
+      {
+        "text": "Gastroenteritis OR children",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastroenteritis AND children",
+        "isCorrect": true
+      },
+      {
+        "text": "Gastroenteritis BUT children",
+        "isCorrect": false
+      },
+      {
+        "text": "Gastroenteritis NOT children",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "AND ensures both concepts are present, narrowing to articles on gastroenteritis in children.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following Boolean operator will give the highest number of results when used between two given search terms?",
+    "options": [
+      {
+        "text": "AND",
+        "isCorrect": false
+      },
+      {
+        "text": "NOT",
+        "isCorrect": false
+      },
+      {
+        "text": "OR",
+        "isCorrect": true
+      },
+      {
+        "text": "ALL",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "OR expands the search by including either term, giving the most results.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A researcher wants to study the effect of physical activity on reduction of systolic blood pressure among patients with hypertension. The researcher has identified a subset of document which are most relevant to the research question within a large document collection. This process is known as",
+    "options": [
+      {
+        "text": "Information management",
+        "isCorrect": false
+      },
+      {
+        "text": "Critical appraisal",
+        "isCorrect": false
+      },
+      {
+        "text": "Information retrieval",
+        "isCorrect": true
+      },
+      {
+        "text": "Literature organization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Identifying relevant subset from a collection is information retrieval.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The organized collection of articles, abstracts, scientific proceedings, books, and citations used for the purpose of literature review, is known as",
+    "options": [
+      {
+        "text": "Database",
+        "isCorrect": true
+      },
+      {
+        "text": "Data management",
+        "isCorrect": false
+      },
+      {
+        "text": "Critical appraisal",
+        "isCorrect": false
+      },
+      {
+        "text": "Index",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "This is the definition of a database.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following does not satisfy the ethical principles in conducting a literature review?",
+    "options": [
+      {
+        "text": "Results of previous studies are presented without distortion",
+        "isCorrect": false
+      },
+      {
+        "text": "Weaknesses of previous studies are highlighted",
+        "isCorrect": false
+      },
+      {
+        "text": "Previous studies are accurately cited",
+        "isCorrect": false
+      },
+      {
+        "text": "Reputation of study authors are questioned",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Questioning authors' reputation is unethical; review should focus on the work, not ad hominem.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "For which of the following purpose is the Boolean operator \"OR\" commonly used in literature search?",
+    "options": [
+      {
+        "text": "Connecting synonyms of one key concept",
+        "isCorrect": true
+      },
+      {
+        "text": "Connecting different key concepts",
+        "isCorrect": false
+      },
+      {
+        "text": "Connecting keywords which need to be excluded",
+        "isCorrect": false
+      },
+      {
+        "text": "Connecting keywords to narrow down the results",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "OR is used to combine synonyms or related terms to broaden a concept.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Medical Subject Headings is a controlled vocabulary that is used for indexing articles in",
+    "options": [
+      {
+        "text": "PubMed",
+        "isCorrect": true
+      },
+      {
+        "text": "Google scholar",
+        "isCorrect": false
+      },
+      {
+        "text": "Scopus",
+        "isCorrect": false
+      },
+      {
+        "text": "Health on Net",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "MeSH is used by PubMed/MEDLINE; other databases use their own vocabularies.",
+    "topic": "literature_review",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following must be considered while measuring occurrence of a disease?",
+    "options": [
+      {
+        "text": "The number of people affected by the disease",
+        "isCorrect": false
+      },
+      {
+        "text": "The population size from which the cases of disease arise",
+        "isCorrect": false
+      },
+      {
+        "text": "The length of the time the population is followed",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Disease frequency measures require numerator (cases), denominator (population), and time period.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "________ is most useful for evaluating the impact of prevention programme",
+    "options": [
+      {
+        "text": "Point prevalence",
+        "isCorrect": false
+      },
+      {
+        "text": "Period prevalence",
+        "isCorrect": false
+      },
+      {
+        "text": "Case fatality",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Incidence reflects new cases; prevention aims to reduce incidence, so it is the key measure.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which one of the following statements is true?",
+    "options": [
+      {
+        "text": "High cure rate can increase the prevalence of a disease",
+        "isCorrect": true
+      },
+      {
+        "text": "Low case fatality can reduce the prevalence of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "Both 'a' and 'b' are true",
+        "isCorrect": false
+      },
+      {
+        "text": "High cure rate and high case fatality can reduce the prevalence of a disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "High cure rate prolongs survival, increasing prevalence; low case fatality also increases prevalence by keeping people alive.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Measures of disease frequency",
+    "options": [
+      {
+        "text": "Incidence",
+        "isCorrect": false
+      },
+      {
+        "text": "Prevalence",
+        "isCorrect": false
+      },
+      {
+        "text": "Birth rate",
+        "isCorrect": false
+      },
+      {
+        "text": "'a' and 'b'",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Incidence and prevalence are the two main measures of disease frequency.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A measure that reflects severity of an acute infectious disease",
+    "options": [
+      {
+        "text": "Case fatality ratio",
+        "isCorrect": true
+      },
+      {
+        "text": "Incidence rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Prevalence",
+        "isCorrect": false
+      },
+      {
+        "text": "Mortality rate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Case fatality ratio (deaths among cases) reflects severity of acute diseases.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Incidence data can be used to measure the occurrence of disease with gradual onset",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Incidence requires well-defined onset; gradual onset diseases are better measured with prevalence.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "This measure reflects the impact of a disease on population in terms of death",
+    "options": [
+      {
+        "text": "Incidence density",
+        "isCorrect": false
+      },
+      {
+        "text": "Case fatality",
+        "isCorrect": false
+      },
+      {
+        "text": "Disease specific mortality",
+        "isCorrect": true
+      },
+      {
+        "text": "Attack rate",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Disease-specific mortality reflects deaths from the disease in the population.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "While measuring the frequency of a chronic disease in a community in terms of incidence per 1000 persons per year, and point prevalence per 1000 persons, what is the expected pattern of incidence and prevalence?",
+    "options": [
+      {
+        "text": "Low prevalence, high incidence",
+        "isCorrect": false
+      },
+      {
+        "text": "High prevalence, low incidence",
+        "isCorrect": true
+      },
+      {
+        "text": "Both prevalence and incidence will be similar",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above statements are true",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chronic diseases with low incidence and long duration tend to have high prevalence relative to incidence.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a study among 3400 children aged 5-10 years, 16 children were diagnosed with autistic disorder. Calculate the prevalence of autism per 1000 children",
+    "options": [
+      {
+        "text": "4.01",
+        "isCorrect": false
+      },
+      {
+        "text": "5.53",
+        "isCorrect": false
+      },
+      {
+        "text": "3.35",
+        "isCorrect": false
+      },
+      {
+        "text": "4.71",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Prevalence = (16/3400)*1000 = 4.71 per 1000.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Statistic used to estimate the risk of acquiring a disease",
+    "options": [
+      {
+        "text": "Prevalence",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence",
+        "isCorrect": true
+      },
+      {
+        "text": "Mortality rate",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Incidence measures risk (probability) of developing disease over a period.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is the appropriate measure when a researcher wishes to know the burden of a particular disease in terms of the number of deaths it causes in a specified geographical region and population?",
+    "options": [
+      {
+        "text": "Incidence density",
+        "isCorrect": false
+      },
+      {
+        "text": "Case fatality",
+        "isCorrect": false
+      },
+      {
+        "text": "Attack rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Disease specific mortality",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Disease-specific mortality rate gives the number of deaths from that disease in the population.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "If health policy makers want to evaluate the impact of a prevention program, which is the appropriate measure to be considered?",
+    "options": [],
+    "explanation": "",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "in a specified geographical area at a specific point in time?",
+    "options": [
+      {
+        "text": "Cumulative incidence",
+        "isCorrect": false
+      },
+      {
+        "text": "Point Prevalence",
+        "isCorrect": true
+      },
+      {
+        "text": "Incidence rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Case fatality ratio",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Point prevalence is the proportion of a population with the disease at a specific point in time.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "in a study, 300 children were followed up for a period of one year to determine the burden of acute respiratory infections (ARI). Calculate the incidence density if the total number of ARI episodes recorded was 1500.",
+    "options": [
+      {
+        "text": "5 episodes per child year",
+        "isCorrect": true
+      },
+      {
+        "text": "0.2 episodes per child year",
+        "isCorrect": false
+      },
+      {
+        "text": "3 episodes per child year",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 episodes per child year",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Incidence density = 1500 episodes / 300 person-years = 5 episodes per child-year.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A total of 100 people with hypertension were followed up for 3 years to observe for the development of myocardial infarction in a cohort study. At the end of first year, 10 people developed myocardial infarction, at the end of second year, 10 people left the study and at the end of third year, another 10 people developed myocardial infarction. Calculate the total person-years of observation in this study?",
+    "options": [
+      {
+        "text": "250",
+        "isCorrect": false
+      },
+      {
+        "text": "260",
+        "isCorrect": false
+      },
+      {
+        "text": "270",
+        "isCorrect": true
+      },
+      {
+        "text": "280",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Person-years = (100*1) + (90*1) + (80*1) = 270, assuming events and loss occur at end of each year.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "During a one-year follow-up, a psychiatrist determined the burden of suicidal ideation among 100 patients with drug addiction. Seven patients had previous history of suicidal ideation and 20 patients developed it for the first time. What is the incidence of suicidal ideation in the study population?",
+    "options": [
+      {
+        "text": "7% per year",
+        "isCorrect": false
+      },
+      {
+        "text": "20% per year",
+        "isCorrect": false
+      },
+      {
+        "text": "21.5% per year",
+        "isCorrect": true
+      },
+      {
+        "text": "27 per year",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Incidence = new cases / population at risk = 20 / (100-7) = 20/93 ≈ 21.5%.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,2322 @@
+[
+  {
+    "questionText": "In a food poisoning outbreak, 75 people were affected. Among them, 50 were hospitalized, and two died. Calculate the case-fatality ratio",
+    "options": [
+      {
+        "text": "1.2%",
+        "isCorrect": false
+      },
+      {
+        "text": "2.7%",
+        "isCorrect": true
+      },
+      {
+        "text": "4%",
+        "isCorrect": false
+      },
+      {
+        "text": "8%",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Case fatality = (deaths / total cases) * 100 = (2/75)*100 = 2.67% ≈ 2.7%.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is NOT required for calculating prevalence of a disease?",
+    "options": [
+      {
+        "text": "Pre-existing cases of the disease",
+        "isCorrect": false
+      },
+      {
+        "text": "New cases of the disease",
+        "isCorrect": false
+      },
+      {
+        "text": "Total number of people at risk",
+        "isCorrect": false
+      },
+      {
+        "text": "Total person-time of observation",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Prevalence uses a population at a point in time, not person-time. Person-time is for incidence density.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following condition tends to reduce the prevalence of a particular disease?",
+    "options": [
+      {
+        "text": "high cure rate",
+        "isCorrect": true
+      },
+      {
+        "text": "low case fatality ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "improved case detection rate",
+        "isCorrect": false
+      },
+      {
+        "text": "immigration of diseased people",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "High cure rate removes cases faster, reducing prevalence. Low case fatality would increase prevalence.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In which of the following conditions, prevalence is an appropriate measure of disease frequency?",
+    "options": [
+      {
+        "text": "Common cold episodes in elderly",
+        "isCorrect": false
+      },
+      {
+        "text": "Number of exacerbations in asthma patients",
+        "isCorrect": false
+      },
+      {
+        "text": "Proportion of foot ulcers in Diabetes Mellitus",
+        "isCorrect": true
+      },
+      {
+        "text": "Number of diarrhoea episodes in children",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Prevalence is appropriate for chronic conditions like foot ulcers; acute recurrent events are better measured with incidence.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is INCORRECT about case fatality?",
+    "options": [
+      {
+        "text": "It reflects the severity of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "High case fatality indicates poor prognosis",
+        "isCorrect": false
+      },
+      {
+        "text": "It relates the number of deaths to the number of cases of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a true rate",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Case fatality is a proportion, not a true rate (which includes time).",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Study design(s) useful for describing uncommon clinical manifestations.",
+    "options": [
+      {
+        "text": "Case reports",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      },
+      {
+        "text": "Both 'a' and 'b'",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Case reports and case series are ideal for describing rare or novel clinical presentations.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Cross-sectional studies are used to",
+    "options": [
+      {
+        "text": "Estimate prevalence",
+        "isCorrect": false
+      },
+      {
+        "text": "Generate hypotheses",
+        "isCorrect": false
+      },
+      {
+        "text": "Describe trends",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Cross-sectional studies can estimate prevalence, generate hypotheses, and describe trends, though they cannot establish temporality.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "In a cross-sectional study, we can observe one or more outcomes",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cross-sectional studies can measure multiple outcomes simultaneously.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which one of the following is useful to measure the burden or magnitude of a disease or risk factor?",
+    "options": [
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": true
+      },
+      {
+        "text": "Case report",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cross-sectional studies estimate prevalence, providing the burden of disease or risk factors.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is wrong about descriptive study designs?",
+    "options": [
+      {
+        "text": "Describe the study outcome for 1 group",
+        "isCorrect": false
+      },
+      {
+        "text": "Compare the study outcomes for 2 group",
+        "isCorrect": true
+      },
+      {
+        "text": "Calculate the incidence for surveillance data",
+        "isCorrect": false
+      },
+      {
+        "text": "Calculate prevalence for cross-sectional study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Descriptive studies do not compare groups; they describe a single group or population.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Descriptive epidemiology study designs can answer all of the following questions.",
+    "options": [
+      {
+        "text": "Who?",
+        "isCorrect": false
+      },
+      {
+        "text": "When?",
+        "isCorrect": false
+      },
+      {
+        "text": "Where?",
+        "isCorrect": false
+      },
+      {
+        "text": "Why?",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Descriptive studies answer who, when, where; analytical studies answer why.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which one of the following study designs does not employ comparison groups to answer the primary study objectives?",
+    "options": [
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": true
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical trials",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A descriptive cross-sectional study may not have a comparison group; analytical cross-sectional does compare.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Unit of observation in the cross-sectional study is",
+    "options": [
+      {
+        "text": "Individual",
+        "isCorrect": false
+      },
+      {
+        "text": "Group",
+        "isCorrect": false
+      },
+      {
+        "text": "Both 'a' and 'b'",
+        "isCorrect": true
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "It can be individual (survey) or group (ecological cross-sectional).",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Case reports can include presentation of",
+    "options": [
+      {
+        "text": "Unique features/symptoms of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "Rare manifestation of common disease",
+        "isCorrect": false
+      },
+      {
+        "text": "New or unfamiliar diseases.",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Case reports can present any of these.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Advantage of the ecological study is",
+    "options": [
+      {
+        "text": "Relate rate of disease and exposure",
+        "isCorrect": true
+      },
+      {
+        "text": "Useful to test hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "Useful to study rare diseases",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ecological studies can relate group-level exposure and disease rates, but are limited for hypothesis testing.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A researcher can assess the following by conducting a descriptive study EXCEPT",
+    "options": [
+      {
+        "text": "Population in which the disease was prevalent",
+        "isCorrect": false
+      },
+      {
+        "text": "Period in which the disease occurred",
+        "isCorrect": false
+      },
+      {
+        "text": "Risk factors of the disease",
+        "isCorrect": true
+      },
+      {
+        "text": "Place distribution of the disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Risk factors require analytical studies; descriptive studies only describe distribution.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The following study design provides group exposure and group response/outcome without knowing the individual exposure and response for a specific health problem",
+    "options": [
+      {
+        "text": "Ecological study",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross sectional survey",
+        "isCorrect": false
+      },
+      {
+        "text": "Case report",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ecological studies use aggregate data, not individual-level information.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following study design will be helpful if the department of health wants to know the burden of a particular disease?",
+    "options": [
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross sectional survey",
+        "isCorrect": true
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      },
+      {
+        "text": "Case report",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cross-sectional survey directly estimates burden (prevalence) in the population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A clinician comes across an unusual presentation of a particular neurological disorder. If the clinician describes this single case in detail and publishes the same in a journal, then it will be called",
+    "options": [
+      {
+        "text": "Analytical study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case report",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross sectional survey",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A detailed description of a single case is a case report.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The advantage of an ecological study is that",
+    "options": [
+      {
+        "text": "It is analytical in nature",
+        "isCorrect": false
+      },
+      {
+        "text": "It will cover individual level information on risk factors and disease",
+        "isCorrect": false
+      },
+      {
+        "text": "It will be useful to test hypotheses",
+        "isCorrect": false
+      },
+      {
+        "text": "It will be useful to generate hypotheses",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Ecological studies are good for generating hypotheses, not testing them.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a tertiary care hospital, a surgeon collected information on quality of life and outcome among a small group of (about 15) post-operative patients after using a novel surgical device. But this is not sufficient to establish the efficacy of the surgical device because",
+    "options": [
+      {
+        "text": "There is no comparison group",
+        "isCorrect": true
+      },
+      {
+        "text": "There is no information of risk factors",
+        "isCorrect": false
+      },
+      {
+        "text": "We do not have details of the outcome",
+        "isCorrect": false
+      },
+      {
+        "text": "We do not have individual level data",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Without a comparison group, we cannot determine if the device is efficacious.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Population census is a",
+    "options": [
+      {
+        "text": "Cross sectional survey",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      },
+      {
+        "text": "Analytical study",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A census is a cross-sectional survey of the entire population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "One of the major limitations of a cross-sectional study is that",
+    "options": [
+      {
+        "text": "It is time consuming",
+        "isCorrect": false
+      },
+      {
+        "text": "It has lower validity",
+        "isCorrect": false
+      },
+      {
+        "text": "It does not establish disease etiology",
+        "isCorrect": true
+      },
+      {
+        "text": "It requires a large sample size",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cross-sectional studies cannot establish temporal sequence, so they cannot determine causality.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Characteristic of a cross sectional study is that",
+    "options": [
+      {
+        "text": "We can calculate the incidence of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "We can test a hypotheses",
+        "isCorrect": false
+      },
+      {
+        "text": "It is difficult to conduct",
+        "isCorrect": false
+      },
+      {
+        "text": "Exposure and outcome are assessed at the same time",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "In cross-sectional studies, exposure and outcome are measured simultaneously.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "If a researcher wishes to estimate the incidence of Myocardial infarction cases among a group of women using oral contraceptive pills followed up for 10 years, the researcher has to carry out",
+    "options": [
+      {
+        "text": "Case series",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Incidence over time requires a cohort study with follow-up.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Case series are useful",
+    "options": [
+      {
+        "text": "To estimate burden of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "To determine risk factors of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "To determine efficacy of a new drug",
+        "isCorrect": false
+      },
+      {
+        "text": "To describe uncommon clinical manifestation",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Case series are primarily for describing unusual clinical presentations.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All the following are true about cross-sectional survey, EXCEPT",
+    "options": [
+      {
+        "text": "Individual is the unit of observation",
+        "isCorrect": false
+      },
+      {
+        "text": "Includes only incident cases",
+        "isCorrect": true
+      },
+      {
+        "text": "Estimate the burden of a disease",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be used to generate hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cross-sectional surveys include both prevalent and incident cases; they do not limit to incident cases.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A detailed presentation of a single case which is rare and unfamiliar, is called",
+    "options": [
+      {
+        "text": "Case report",
+        "isCorrect": true
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A single case is a case report; multiple cases form a case series.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is INCORRECT about ecological study?",
+    "options": [
+      {
+        "text": "It relates the rate of disease and frequency of exposure",
+        "isCorrect": false
+      },
+      {
+        "text": "It is an example of observational study",
+        "isCorrect": false
+      },
+      {
+        "text": "It uses individual level data",
+        "isCorrect": true
+      },
+      {
+        "text": "It helps in generating hypothesis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ecological studies use group-level data, not individual-level.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is NOT applicable in a case study?",
+    "options": [
+      {
+        "text": "Clinical features",
+        "isCorrect": false
+      },
+      {
+        "text": "Laboratory parameters",
+        "isCorrect": false
+      },
+      {
+        "text": "Socio-demographic background",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Case studies describe individual cases; incidence is a population measure.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "To determine the association between air pollution and male infertility, data on air quality index and prevalence of male infertility was collected for 183 countries for the year 2019. What best describes the study?",
+    "options": [
+      {
+        "text": "Case report",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Using aggregate country-level data makes it an ecological study.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "In a medical journal, 18 cases of Creutzfeldt Jakob disease were reported from a tertiary care hospital in Sikkim. The authors of the paper gave a description of the socio-demographic, clinical, and laboratory features of the 18 patients. What best describes this study design?",
+    "options": [
+      {
+        "text": "Case study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": true
+      },
+      {
+        "text": "Case control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multiple cases described together form a case series.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is FALSE about cross-sectional studies?",
+    "options": [
+      {
+        "text": "Can be used to generate hypotheses",
+        "isCorrect": false
+      },
+      {
+        "text": "Can be used to estimate disease burden",
+        "isCorrect": false
+      },
+      {
+        "text": "Can be used to identify factors associated with outcome",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "State whether true or false. Descriptive cross-sectional study does not have a comparison group.",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Descriptive cross-sectional studies describe a single group without a separate comparison group.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following studies can be used to identify the factors associated with an outcome?",
+    "options": [
+      {
+        "text": "Descriptive cross-sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Analytical cross-sectional study",
+        "isCorrect": true
+      },
+      {
+        "text": "Case study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case series",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Analytical cross-sectional studies compare groups to identify factors associated with the outcome.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Exposure is not assigned by the investigator in the following study design",
+    "options": [
+      {
+        "text": "Cohort",
+        "isCorrect": false
+      },
+      {
+        "text": "Case-control",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-sectional",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "In all observational studies (cohort, case-control, cross-sectional), the investigator does not assign exposure.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statement(s) is true about the cohort study?",
+    "options": [
+      {
+        "text": "It is not suitable for disease with a long latency period",
+        "isCorrect": false
+      },
+      {
+        "text": "Loss to follow up can introduce bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Both a and b",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Loss to follow-up introduces bias; cohort studies can be suitable for long latency with sufficient follow-up.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following study design is better suited to demonstrate a temporal association between exposure and disease?",
+    "options": [
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cohort studies measure exposure before outcome, establishing temporality.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Relative risk of more than 1 indicates",
+    "options": [
+      {
+        "text": "Incidence in unexposed is higher than exposed",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence in exposed and unexposed are same",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence in exposed is higher than unexposed",
+        "isCorrect": true
+      },
+      {
+        "text": "Relative risk is significant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "RR > 1 means higher incidence in exposed compared to unexposed.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "If the odds of exposure among cases is lower than the odds of exposure among the controls, the odds ratio will be",
+    "options": [
+      {
+        "text": "More than 1",
+        "isCorrect": false
+      },
+      {
+        "text": "Less than 1",
+        "isCorrect": true
+      },
+      {
+        "text": "It depends on other factors",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Odds ratio = (odds exposure cases)/(odds exposure controls). If numerator < denominator, OR < 1.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All babies born in a particular year will form a birth cohort",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A birth cohort is defined by year of birth.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Cohort study is suitable for rare diseases",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Cohort studies are inefficient for rare diseases because large sample sizes are needed; case-control is better.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is NOT true regarding case-control study?\ni. Appropriate for study of rare outcome\nii. More time consuming than cohort study\niii. Multiple exposures can be examined\niv. Relatively expensive compared to cohort study",
+    "options": [
+      {
+        "text": "Both (i) and (ii)",
+        "isCorrect": false
+      },
+      {
+        "text": "Both (ii) and (iii)",
+        "isCorrect": false
+      },
+      {
+        "text": "Both (iii) and (iv)",
+        "isCorrect": false
+      },
+      {
+        "text": "Both (ii) and (iv)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Case-control studies are generally faster and cheaper than cohort studies, so (ii) and (iv) are false.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "What is an appropriate measure of statistical association in a cohort study?",
+    "options": [
+      {
+        "text": "Prevalence ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "Risk ratio",
+        "isCorrect": true
+      },
+      {
+        "text": "Odds ratio",
+        "isCorrect": false
+      },
+      {
+        "text": "Pearson's correlation coefficient",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Risk ratio (relative risk) is the preferred measure for cohort studies.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The entire population of a given community is screened and all those judged as being free of Colon cancer are questioned extensively about their diet. These people are then followed-up for several years to see whether their eating habits will predict their risk of developing Colon cancer - This is an example of",
+    "options": [
+      {
+        "text": "Case-control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical trial",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "This describes a prospective cohort study (exposure measured at baseline, followed for outcome).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Exposure is assigned by the investigator in which of the following epidemiological study?",
+    "options": [
+      {
+        "text": "Case-control",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-sectional",
+        "isCorrect": false
+      },
+      {
+        "text": "Experimental",
+        "isCorrect": true
+      },
+      {
+        "text": "Cohort",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "In experimental studies (e.g., RCTs), the investigator assigns the exposure/intervention.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "When a group of people with defined characteristics are followed up to determine incidence is known as",
+    "options": [
+      {
+        "text": "Case series",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort",
+        "isCorrect": true
+      },
+      {
+        "text": "Case control",
+        "isCorrect": false
+      },
+      {
+        "text": "Experimental",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A cohort study follows a group to measure incidence.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Relative risk is",
+    "options": [
+      {
+        "text": "Rate",
+        "isCorrect": false
+      },
+      {
+        "text": "Ratio",
+        "isCorrect": true
+      },
+      {
+        "text": "Proportion",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Relative risk is a ratio of two incidence proportions or rates.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Relative risk of one in a cohort study indicates",
+    "options": [
+      {
+        "text": "Incidence in unexposed is higher than exposed",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence in exposed is higher than unexposed",
+        "isCorrect": false
+      },
+      {
+        "text": "Relative risk is significant",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence in the exposed and unexposed groups are same",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "RR=1 means no difference in incidence between groups.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Women aged above 15 years were screened for the HPV (Human papilloma virus) infection and those who had HPV infection were then followed for several years to predict the risk of developing cervical cancer. This study is known as",
+    "options": [
+      {
+        "text": "Prospective cohort",
+        "isCorrect": true
+      },
+      {
+        "text": "Retrospective cohort",
+        "isCorrect": false
+      },
+      {
+        "text": "Case control",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross sectional",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure (HPV) measured at baseline and followed forward for outcome is a prospective cohort.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is appropriate regarding a cohort study?\ni. Multiple exposures can be examined\nii. Appropriate for studying rare exposures\niii. Expensive and time consuming\niv. Appropriate for studying rare diseases",
+    "options": [
+      {
+        "text": "Both (i) and (ii)",
+        "isCorrect": true
+      },
+      {
+        "text": "Both (ii) and (iv)",
+        "isCorrect": false
+      },
+      {
+        "text": "Both (i) and (iv)",
+        "isCorrect": false
+      },
+      {
+        "text": "Both (ii) and (iii)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cohort studies can examine multiple exposures (i), are good for rare exposures (ii), but are expensive (iii) and not good for rare diseases (iv). Among options, (i) and (ii) are correct.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following statement regarding the cohort study is FALSE?",
+    "options": [
+      {
+        "text": "Suitable to study a disease with long latency period",
+        "isCorrect": true
+      },
+      {
+        "text": "Loss is follow up can introduce bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Relative risk can be calculated",
+        "isCorrect": false
+      },
+      {
+        "text": "Temporal association with the risk factor can be established",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cohort studies are suitable for long latency if follow-up is long enough; the statement is actually true. Possibly a trick, but all seem true.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Odds ratio of more than one indicates",
+    "options": [
+      {
+        "text": "Odds of exposure among cases is lower than the odds of exposure among the controls",
+        "isCorrect": false
+      },
+      {
+        "text": "Odds of exposure among cases is equal to the odds of exposure among the controls",
+        "isCorrect": false
+      },
+      {
+        "text": "Odds of exposure among cases is higher than the odds of exposure among the controls",
+        "isCorrect": true
+      },
+      {
+        "text": "Exposure is negatively associated with the disease",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "OR > 1 indicates higher odds of exposure in cases, suggesting a positive association.",
+    "topic": "epidemiology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "If there is a comparison group in an epidemiological study design, it is called",
+    "options": [
+      {
+        "text": "Descriptive",
+        "isCorrect": false
+      },
+      {
+        "text": "Analytical",
+        "isCorrect": true
+      },
+      {
+        "text": "Ecological",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Analytical studies have a comparison group; descriptive studies do not.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following statements about case control/cohort studies is correct?",
+    "options": [
+      {
+        "text": "Case control study always establishes temporal association",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohort study establishes temporal association",
+        "isCorrect": true
+      },
+      {
+        "text": "Cohort has lower level of evidence than case-control",
+        "isCorrect": false
+      },
+      {
+        "text": "Do case control for rare exposures and cohort for rare diseases",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cohort studies establish temporality because exposure is measured before outcome.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following are limitations of a case control study, EXCEPT",
+    "options": [
+      {
+        "text": "It can introduce recall bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Incidence of disease cannot be determined",
+        "isCorrect": false
+      },
+      {
+        "text": "Selection of appropriate control group may be difficult",
+        "isCorrect": false
+      },
+      {
+        "text": "It can introduce attrition bias",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Attrition bias (loss to follow-up) is not a concern in case-control studies because there is no follow-up; recall bias and selection bias are concerns.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Using medical records from a tertiary care cancer hospital, a researcher collected data on occupational exposure and lung carcinoma on patients admitted between 2000 and 2010. He classified the patients who had history of working in coal mines as exposed and others as unexposed. He then compared the frequency of lung carcinoma among the exposed and the unexposed. What best describes the study design?",
+    "options": [
+      {
+        "text": "Case control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Retrospective cohort study",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Analytical cross-sectional study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "He selected a cohort (all patients) and compared outcome (lung cancer) by exposure status using historical data; that is a retrospective cohort.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "A paediatrician recruited 120 children with Crohn's disease and their matched sibling controls. The researcher collected history of exclusive breastfeeding (EBF) from the mothers. Presence/absence of EBF was compared between the diseased and the non-diseased children. Identify the study design in this research?",
+    "options": [
+      {
+        "text": "Case series",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case control study",
+        "isCorrect": true
+      },
+      {
+        "text": "Cohort study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Diseased vs non-diseased, with retrospective exposure assessment: case-control.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is INCORRECT about selection of cases in case control study?",
+    "options": [
+      {
+        "text": "Cases are study participants who had the disease in the source population",
+        "isCorrect": false
+      },
+      {
+        "text": "Selection of cases should be based on the exposure status",
+        "isCorrect": true
+      },
+      {
+        "text": "Inclusion of prevalent cases can save time and money",
+        "isCorrect": false
+      },
+      {
+        "text": "Inclusion of prevalent cases may introduce survivor bias",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Cases should be selected based on disease status, not exposure; exposure is determined after selection.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A multicentric study was conducted to determine the association between diabetes and cataract. The investigators recruited 1000 diabetics and 2500 non-diabetics. The participants were examined to exclude presence of cataract at the time of recruitment. They were followed once yearly for 10 years to document the development of cataract. The study found that the incidence of cataract among diabetics was more when compared with the non-diabetics. Identify the study design in this study?",
+    "options": [
+      {
+        "text": "Cross-sectional study",
+        "isCorrect": false
+      },
+      {
+        "text": "Case control study",
+        "isCorrect": false
+      },
+      {
+        "text": "Prospective cohort study",
+        "isCorrect": true
+      },
+      {
+        "text": "Experimental study",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Exposure (diabetes) determined at baseline, followed forward for outcome (cataract) – prospective cohort.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "One of the cornerstones of the randomized controlled trials is",
+    "options": [
+      {
+        "text": "Recruitment",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomization",
+        "isCorrect": true
+      },
+      {
+        "text": "Blinding",
+        "isCorrect": false
+      },
+      {
+        "text": "Placebo",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Randomization is the defining feature of RCTs.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Randomized clinical trials can be best described as",
+    "options": [
+      {
+        "text": "Experimental studies",
+        "isCorrect": true
+      },
+      {
+        "text": "Analytic studies",
+        "isCorrect": false
+      },
+      {
+        "text": "Descriptive studies",
+        "isCorrect": false
+      },
+      {
+        "text": "Observational studies",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "RCTs are experimental because the investigator assigns the intervention.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Which of the following is/are true in a clinical trial?",
+    "options": [
+      {
+        "text": "Sample size determination",
+        "isCorrect": false
+      },
+      {
+        "text": "Approval from regulatory authority",
+        "isCorrect": false
+      },
+      {
+        "text": "Agreement between the investigators and sponsors",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All these are necessary components of a clinical trial.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "A pharmacologically inactive agent that investigators administer to participants in the control group of a trial",
+    "options": [
+      {
+        "text": "Comparator drug",
+        "isCorrect": false
+      },
+      {
+        "text": "Placebo",
+        "isCorrect": true
+      },
+      {
+        "text": "Compare",
+        "isCorrect": false
+      },
+      {
+        "text": "Drug under investigation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "A placebo is an inactive substance used as a control.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Key methodological components of a Randomized Controlled Trials are",
+    "options": [
+      {
+        "text": "Use of a control to which the experimental intervention is compared",
+        "isCorrect": false
+      },
+      {
+        "text": "Random assignment of participants to intervention",
+        "isCorrect": false
+      },
+      {
+        "text": "Taking informed consent from all study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "All are essential components of RCTs.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Double-blinding in a clinical trial involves",
+    "options": [
+      {
+        "text": "Participants before and after study",
+        "isCorrect": false
+      },
+      {
+        "text": "Participants and investigators",
+        "isCorrect": true
+      },
+      {
+        "text": "Investigators and analysts",
+        "isCorrect": false
+      },
+      {
+        "text": "Participants and analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double-blinding typically means participants and investigators are blinded to treatment allocation.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "The purpose of a double-blinding in a clinical trial is to",
+    "options": [
+      {
+        "text": "Achieve comparability of all arms of a clinical trial",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid observer bias and sampling variation",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoid subject bias and sampling variation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Double-blinding reduces bias from both participants and investigators.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "What is the purpose of randomization in a clinical trial?",
+    "options": [
+      {
+        "text": "Get better power for data analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "Generalizing the study findings to the population which is not studied",
+        "isCorrect": false
+      },
+      {
+        "text": "Achieve balance in baseline characteristics",
+        "isCorrect": true
+      },
+      {
+        "text": "Guarantee that the statistical tests have valid significance levels",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Randomization aims to balance known and unknown confounders between groups.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which phase of a clinical trial is referred to as post-marketing surveillance?",
+    "options": [
+      {
+        "text": "Phase 1",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 2",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 3",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 4",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Phase 4 trials occur after marketing to monitor long-term safety and efficacy.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Long-term adverse effects and efficacy of a new drug can be tested in which of the following phases of a clinical trial?",
+    "options": [
+      {
+        "text": "Phase 1",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 2",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 3",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 4",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Phase 4 (post-marketing) is designed for long-term monitoring.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is incorrect in case of a clinical trial?",
+    "options": [
+      {
+        "text": "All clinical trials must be blinded",
+        "isCorrect": true
+      },
+      {
+        "text": "Randomization is a critically important step in a clinical trial",
+        "isCorrect": false
+      },
+      {
+        "text": "All clinical trials must be approved by Institutional Ethics Committee before initiation",
+        "isCorrect": false
+      },
+      {
+        "text": "It is mandatory to register clinical trials with Clinical Trials Registry of India",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Not all clinical trials can be blinded (e.g., surgical trials), but blinding is preferred when possible.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following procedures ensure safety of the clinical trial participants?\na. Adverse events reporting\nb. Serious adverse events reporting\nc. Periodic follow-up\nd. Review by Data Safety Monitoring Board",
+    "options": [
+      {
+        "text": "'a', 'b', 'c', and 'd'",
+        "isCorrect": true
+      },
+      {
+        "text": "'a', 'b' and 'd'",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "All listed procedures contribute to participant safety.",
+    "topic": "literature_review",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "All the following correctly describe a clinical trial, except",
+    "options": [
+      {
+        "text": "It has all advantages of a cohort study",
+        "isCorrect": false
+      },
+      {
+        "text": "It is possible to analyse the confounders",
+        "isCorrect": false
+      },
+      {
+        "text": "Loss to follow up of study participants does not affect the study outcome",
+        "isCorrect": true
+      },
+      {
+        "text": "Appropriate implemented informed consent procedure as well as long term care and support to trial participants help to overcome several ethical concerns",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Loss to follow-up can bias results in clinical trials, so it does affect outcome.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following can be considered as an advantage of a double blinding in a randomised controlled trial?",
+    "options": [
+      {
+        "text": "Equally distributes known and unknown confounders in experiment and control arm",
+        "isCorrect": false
+      },
+      {
+        "text": "Ensures that participants adhere to the protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "Gives benefits of an intervention to some of the study participants",
+        "isCorrect": false
+      },
+      {
+        "text": "Prevent bias that arises from researchers being able to influence the data due to knowledge of allocated groups",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Double blinding prevents performance and detection bias by keeping allocation hidden from both participants and researchers.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Based outcome ascertainment results from:",
+    "options": [
+      {
+        "text": "Participants reporting symptoms or outcomes differently",
+        "isCorrect": false
+      },
+      {
+        "text": "Investigators eliciting symptoms or outcomes following a standardised technique",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      },
+      {
+        "text": "Both \"a\" and \"b\"",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Both differential reporting by participants and non-standardized elicitation by investigators can cause biased outcome ascertainment.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "In a clinical trial, what is the main purpose of randomization?",
+    "options": [
+      {
+        "text": "To get more power for data analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "To reduce investigator bias",
+        "isCorrect": false
+      },
+      {
+        "text": "To get groups with comparable baseline characteristics",
+        "isCorrect": true
+      },
+      {
+        "text": "To ensure optimum number of participants in each trial arm",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Randomization aims to create comparable groups with respect to known and unknown confounders.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following can eliminate the problem of Co-intervention?",
+    "options": [
+      {
+        "text": "Random sampling",
+        "isCorrect": false
+      },
+      {
+        "text": "Allocation concealment",
+        "isCorrect": false
+      },
+      {
+        "text": "Informed consent",
+        "isCorrect": false
+      },
+      {
+        "text": "Blinding",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Blinding can reduce co-intervention because participants and investigators are unaware of group assignment, so they are less likely to provide additional interventions differentially.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Which of the following is not true in case of a clinical trial?",
+    "options": [
+      {
+        "text": "Clinical trials are planned experiments designed to assess the efficacy of an intervention",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical trials usually involve comparing the outcomes in two or more groups of individuals",
+        "isCorrect": false
+      },
+      {
+        "text": "Clinical trials are usually free from selection bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Clinical trials are usually prospective in nature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selection bias can occur if randomization is flawed; trials aim to minimize it but are not inherently free from it.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following trials assesses effectiveness of a new vaccine?",
+    "options": [
+      {
+        "text": "Phase 1 trial done in healthy volunteers",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 2 trial done in a susceptible population",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 3 trial done in healthy volunteers",
+        "isCorrect": false
+      },
+      {
+        "text": "Phase 3 trial done in a susceptible population",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Phase 3 trials evaluate effectiveness in the target population (susceptible).",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following is not true about a randomised control trial?",
+    "options": [
+      {
+        "text": "Baseline characteristics of intervention and control groups must be similar",
+        "isCorrect": true
+      },
+      {
+        "text": "Investigator bias can be minimised by double blinding",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Baseline characteristics are expected to be similar due to randomization, but not 'must be' identical; they can differ by chance.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Obtaining an estimate that is generalizable to relevant study population in a research study",
+    "options": [
+      {
+        "text": "External validity",
+        "isCorrect": true
+      },
+      {
+        "text": "Internal validity",
+        "isCorrect": false
+      },
+      {
+        "text": "Bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "External validity refers to generalizability of findings to a broader population.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Any process that tends to produce results that depart systematically from true values in a research study",
+    "options": [
+      {
+        "text": "Chance",
+        "isCorrect": false
+      },
+      {
+        "text": "Bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Random error",
+        "isCorrect": false
+      },
+      {
+        "text": "Effect Modification",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bias is systematic error that deviates from true value.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Systematic selection of more number of exposure participants with the higher risk of outcome in a cohort study will result in",
+    "options": [
+      {
+        "text": "Selection bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Information bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      },
+      {
+        "text": "Random error",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selecting exposed individuals with higher baseline risk creates selection bias, distorting the association.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The effect of the exposure of interest on the outcome is distorted because of the effect of extraneous factors that are related to both the exposure and outcome. This phenomenon is called",
+    "options": [
+      {
+        "text": "Correlation effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": true
+      },
+      {
+        "text": "Recall bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Measurement error",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Confounding occurs when a third factor is associated with both exposure and outcome, distorting the true association.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Biases can occur during which stage of research study?",
+    "options": [
+      {
+        "text": "Study design",
+        "isCorrect": false
+      },
+      {
+        "text": "Study implementation",
+        "isCorrect": false
+      },
+      {
+        "text": "Data analysis",
+        "isCorrect": false
+      },
+      {
+        "text": "At any of the above stages",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Bias can occur at any stage: design, conduct, analysis, and interpretation.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All are true regarding measures to reduce information bias, EXCEPT",
+    "options": [
+      {
+        "text": "Precise operational definitions of all variables",
+        "isCorrect": false
+      },
+      {
+        "text": "Detailed measurement protocols",
+        "isCorrect": false
+      },
+      {
+        "text": "Adequate sample size",
+        "isCorrect": true
+      },
+      {
+        "text": "Training, Certification and re-certification of data collection",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Adequate sample size reduces random error, not information bias.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Variability in estimation due to unknown/uncontrollable factors",
+    "options": [
+      {
+        "text": "Chance",
+        "isCorrect": true
+      },
+      {
+        "text": "Bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      },
+      {
+        "text": "Effect modification",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chance (random error) is variability due to uncontrollable factors.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "All are true regarding confounding in an epidemiological study, EXCEPT",
+    "options": [
+      {
+        "text": "May simulate an association that does not exist",
+        "isCorrect": false
+      },
+      {
+        "text": "May increase or decrease the strength of association",
+        "isCorrect": false
+      },
+      {
+        "text": "May not reveal an association that does exist",
+        "isCorrect": false
+      },
+      {
+        "text": "Always change the direction of effect",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Confounding does not always change direction; it can overestimate or underestimate but not necessarily reverse the direction.",
+    "topic": "epidemiology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "The method which can used to alleviate confounding during data analysis in an epidemiological study",
+    "options": [
+      {
+        "text": "Multivariate analysis",
+        "isCorrect": true
+      },
+      {
+        "text": "Restriction",
+        "isCorrect": false
+      },
+      {
+        "text": "Matching",
+        "isCorrect": false
+      },
+      {
+        "text": "Randomization",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Multivariate analysis adjusts for confounders during analysis. Restriction and matching are design methods.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "To reduce selection bias in case-control studies, all of the following are true EXCEPT",
+    "options": [
+      {
+        "text": "Use population based design",
+        "isCorrect": false
+      },
+      {
+        "text": "Apply different eligibility criteria for selecting cases and controls",
+        "isCorrect": true
+      },
+      {
+        "text": "Both cases and controls undergo the same diagnostic procedures",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid hospital based design",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Applying different eligibility criteria can introduce selection bias; criteria should be similar.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Obtaining an accurate estimate of disease frequency and effect of exposure on health outcomes in study population pertains to",
+    "options": [
+      {
+        "text": "External Validity",
+        "isCorrect": false
+      },
+      {
+        "text": "Internal Validity",
+        "isCorrect": true
+      },
+      {
+        "text": "Bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Internal validity refers to the accuracy of estimates within the study population.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Blinding in an epidemiological study is a way to deal with",
+    "options": [
+      {
+        "text": "Chance",
+        "isCorrect": false
+      },
+      {
+        "text": "Selection Bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Information Bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Sampling Error",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Blinding helps prevent information bias (misclassification) by ensuring outcome assessment is unbiased.",
+    "topic": "epidemiology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Better recall of exposure only among the cases in a case control study can result in",
+    "options": [
+      {
+        "text": "Information bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      },
+      {
+        "text": "Investigator bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Selection bias",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Differential recall between cases and controls is recall bias, a type of information bias.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "The ability of a tool to correctly measure what it is supposed to measure is called as",
+    "options": [
+      {
+        "text": "Precision",
+        "isCorrect": false
+      },
+      {
+        "text": "Validity",
+        "isCorrect": true
+      },
+      {
+        "text": "Reliability",
+        "isCorrect": false
+      },
+      {
+        "text": "Consistency",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Validity is the degree to which an instrument measures what it intends to measure.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "Bias may distort the association between exposure and outcome among the study participants",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Bias systematically distorts the estimated association.",
+    "topic": "research_methodology",
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "A case control study was conducted to know the effect of smoking on lung cancer among hospitalized patients. The controls were recruited from patients admitted to the respiratory ward for other conditions. What type of bias will be introduced by virtue of recruiting controls from the hospital who are potentially different from the general population?",
+    "options": [
+      {
+        "text": "Selection bias",
+        "isCorrect": true
+      },
+      {
+        "text": "Information bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      },
+      {
+        "text": "Random error",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Selecting controls from a hospital (especially a respiratory ward) may create selection bias because they are not representative of the source population.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "A researcher studied the effect of coffee drinking on Myocardial Infarction. The effect of coffee drinking on Myocardial Infarction was distorted because of the presence of a third factor, i.e. smoking. This phenomenon is called as",
+    "options": [
+      {
+        "text": "Correlation effect",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": true
+      },
+      {
+        "text": "Recall bias",
+        "isCorrect": false
+      },
+      {
+        "text": "Measurement error",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Smoking is a confounder if associated with both coffee drinking and MI.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Which of the following method is used to address for known confounders at the designing stage of a study",
+    "options": [
+      {
+        "text": "Matching",
+        "isCorrect": true
+      },
+      {
+        "text": "Regression",
+        "isCorrect": false
+      },
+      {
+        "text": "Stratification",
+        "isCorrect": false
+      },
+      {
+        "text": "Adjusted analysis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Matching is a design technique to control for confounders.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  },
+  {
+    "questionText": "Systematic distortion of the truth by study subjects is called as",
+    "options": [
+      {
+        "text": "Plagiarism",
+        "isCorrect": false
+      },
+      {
+        "text": "Chance",
+        "isCorrect": false
+      },
+      {
+        "text": "Confounding",
+        "isCorrect": false
+      },
+      {
+        "text": "Prevarication",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Prevarication refers to lying or deliberate misrepresentation, which is a form of bias.",
+    "topic": "research_methodology",
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "Crude association in the presence of a confounder is the actual causal association",
+    "options": [
+      {
+        "text": "True",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Crude association may be distorted by confounders; adjusted association is more likely to reflect causal effect.",
+    "topic": "research_methodology",
+    "difficulty": "medium"
+  }
+]
