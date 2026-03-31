@@ -28,7 +28,7 @@ const Admin = () => {
         if (!apiKey) return;
         setLoading(true);
         try {
-            const res = await axios.get('http://localhost:5000/api/admin/questions', {
+            const res = await axios.get('/api/admin/questions', {
                 headers: { 'x-api-key': apiKey }
             });
             setQuestions(res.data);
@@ -42,7 +42,7 @@ const Admin = () => {
     const fetchCount = useCallback(async () => {
         if (!apiKey) return;
         try {
-            const res = await axios.get('http://localhost:5000/api/admin/questions/count', {
+            const res = await axios.get('/api/admin/questions/count', {
                 headers: { 'x-api-key': apiKey }
             });
             setTotalCount(res.data.count);
@@ -92,7 +92,7 @@ const Admin = () => {
         e.preventDefault();
         setLoading(true);
         try {
-            await axios.post('http://localhost:5000/api/admin/questions', newQuestion, {
+            await axios.post('/api/admin/questions', newQuestion, {
                 headers: { 'x-api-key': apiKey }
             });
             toast.success('Question added!');
@@ -115,7 +115,7 @@ const Admin = () => {
     const handleDelete = async (id) => {
         if (!window.confirm('Are you sure you want to delete this question?')) return;
         try {
-            await axios.delete(`http://localhost:5000/api/admin/questions/${id}`, {
+            await axios.delete(`/api/admin/questions/${id}`, {
                 headers: { 'x-api-key': apiKey }
             });
             toast.success('Question deleted');
@@ -151,7 +151,7 @@ const Admin = () => {
         e.preventDefault();
         setLoading(true);
         try {
-            await axios.put(`http://localhost:5000/api/admin/questions/${editingQuestion._id}`, editingQuestion, {
+            await axios.put(`/api/admin/questions/${editingQuestion._id}`, editingQuestion, {
                 headers: { 'x-api-key': apiKey }
             });
             toast.success('Question updated');
@@ -203,7 +203,7 @@ const Admin = () => {
         }
         setLoading(true);
         try {
-            const response = await axios.post('http://localhost:5000/api/admin/questions/bulk', jsonFile, {
+            const response = await axios.post('/api/admin/questions/bulk', jsonFile, {
                 headers: { 'x-api-key': apiKey }
             });
             toast.success(`Added ${response.data.added} questions, skipped ${response.data.skipped}`);

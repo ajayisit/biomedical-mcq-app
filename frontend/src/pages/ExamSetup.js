@@ -75,7 +75,7 @@ const ExamSetup = () => {
   const handleStartExam = async () => {
     try {
       setLoading(true);
-      const response = await axios.post('http://localhost:5000/api/exams/start', formData);
+      const response = await axios.post('/api/exams/start', formData);
       if (response.data.warning) {
         toast(response.data.warning, { icon: '⚠️' });
       }

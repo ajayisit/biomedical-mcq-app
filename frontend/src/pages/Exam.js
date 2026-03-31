@@ -45,7 +45,7 @@ const Exam = () => {
     }));
 
     try {
-      await axios.post(`http://localhost:5000/api/exams/${examId}/answer`, {
+      await axios.post(`/api/exams/${examId}/answer`, {
         questionId,
         selectedOption: optionIndex
       });
@@ -71,7 +71,7 @@ const Exam = () => {
     if (window.confirm('Are you sure you want to submit the exam?')) {
       try {
         setSubmitting(true);
-        const response = await axios.post(`http://localhost:5000/api/exams/${examId}/submit`);
+        const response = await axios.post(`/api/exams/${examId}/submit`);
         navigate(`/results/${examId}`, { state: { results: response.data }, replace: true });
       } catch (error) {
         toast.error('Failed to submit exam');
