@@ -75,6 +75,7 @@ const ExamSetup = () => {
   const handleStartExam = async () => {
     try {
       setLoading(true);
+      console.log("Sending number of questions:", formData.numberOfQuestions);
       const response = await axios.post('/api/exams/start', formData);
       if (response.data.warning) {
         toast(response.data.warning, { icon: '⚠️' });
