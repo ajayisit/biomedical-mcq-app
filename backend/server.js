@@ -28,8 +28,10 @@ app.use('/api/admin', adminRoutes);
 // Serve React frontend in production
 if (process.env.NODE_ENV === 'production') {
   const path = require('path');
+  // Serve static files from the React build
   app.use(express.static(path.join(__dirname, '../frontend/build')));
-  app.get('*', (req, res) => {
+  // For any request that doesn't match a static file or API route, serve index.html
+  app.use((req, res) => {
     res.sendFile(path.join(__dirname, '../frontend/build', 'index.html'));
   });
 }
