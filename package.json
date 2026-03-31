@@ -1,7 +1,7 @@
 {
   "name": "biomedical-mcq-app",
   "scripts": {
-    "build": "cd backend && npm install && cd ../frontend && npm install && npm run build",
+    "build": "cd backend && npm ci && cd ../frontend && npm ci && npm run build",
     "start": "cd backend && npm start"
   }
 }
