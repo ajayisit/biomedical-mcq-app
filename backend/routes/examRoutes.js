@@ -7,6 +7,7 @@ const Question = require('../models/Question');
 router.post('/start', async (req, res) => {
   try {
     const { topic, difficulty, numberOfQuestions = 10 } = req.body;
+    console.log("Received numberOfQuestions:", numberOfQuestions);
     
     // Build query
     let query = {};
